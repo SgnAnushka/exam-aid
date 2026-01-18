@@ -1,20 +1,26 @@
-import os
-from dotenv import load_dotenv
-from pathlib import Path
-from google import genai
+import uuid
+from qdrant_client import QdrantClient
+from sentence_transformers import SentenceTransformer
 
-# Load .env explicitly
-env_path = Path(__file__).parent / ".env"
-load_dotenv(dotenv_path=env_path)
+client = QdrantClient(host="localhost", port=6333)
+model = SentenceTransformer("all-MiniLM-L6-v2")
 
-# Create Gemini client
-client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
+text = "Ohm's Law states that voltage equals current multiplied by resistance."
 
-# ✅ Use a model that is confirmed available
-response = client.models.generate_content(
-    model="models/gemini-flash-latest",
-    contents="Explain Ohm's Law in one sentence."
+vector = model.encode(text).tolist()
+
+client.upsert(
+    collection_name="study_material",
+    points=[
+        {
+            "id": str(uuid.uuid4()),
+            "vector": vector,
+            "payload": {
+                "text": text,
+                "topic": "ohms law"
+            }
+        }
+    ]
 )
 
-print("\n🤖 Gemini says:\n")
-print(response.text)
+print("✅ Seed data inserted")
