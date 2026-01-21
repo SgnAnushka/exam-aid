@@ -1,2 +1,4 @@
 .env
 venv/
+dataset/
+test-qdrant.py

@@ -9,7 +9,7 @@ from qdrant_client.models import PointStruct, VectorParams, Distance
 # Config
 # ----------------------------
 CSV_PATH = "dataset/images/test/query.csv"
-COLLECTION_NAME = "study_text"
+COLLECTION_NAME = "study_images"
 VECTOR_SIZE = 384  # all-MiniLM-L6-v2 produces 384-dimensional vectors
 
 # ----------------------------
@@ -52,6 +52,7 @@ with open(CSV_PATH, encoding="utf-8") as f:
                 id=str(uuid.uuid4()),
                 vector=embedding,
                 payload={
+                    "type":"image",
                     "content": content,
                     "compound_id": compound_id,
                     "compound_name": compound_name,
