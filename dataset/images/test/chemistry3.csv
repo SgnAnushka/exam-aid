@@ -1,0 +1,819 @@
+compound,compoundLabel,article
+http://www.wikidata.org/entity/Q8066,amino acid,https://en.wikipedia.org/wiki/Amino_acid
+http://www.wikidata.org/entity/Q134856,carboxylic acid,https://en.wikipedia.org/wiki/Carboxylic_acid
+http://www.wikidata.org/entity/Q170545,phenylalanine,https://en.wikipedia.org/wiki/Phenylalanine
+http://www.wikidata.org/entity/Q178430,DL-lysine,https://en.wikipedia.org/wiki/Lysine
+http://www.wikidata.org/entity/Q424263,resin acid,https://en.wikipedia.org/wiki/Resin_acid
+http://www.wikidata.org/entity/Q424699,potassium biphthalate,https://en.wikipedia.org/wiki/Potassium_hydrogen_phthalate
+http://www.wikidata.org/entity/Q424951,MCPB,https://en.wikipedia.org/wiki/MCPB
+http://www.wikidata.org/entity/Q425536,orotic acid,https://en.wikipedia.org/wiki/Orotic_acid
+http://www.wikidata.org/entity/Q553129,evacetrapib,https://en.wikipedia.org/wiki/Evacetrapib
+http://www.wikidata.org/entity/Q579348,alprostadil,https://en.wikipedia.org/wiki/Prostaglandin_E1
+http://www.wikidata.org/entity/Q660090,letosteine,https://en.wikipedia.org/wiki/Letosteine
+http://www.wikidata.org/entity/Q663909,phenylglyoxylic acid,https://en.wikipedia.org/wiki/Phenylglyoxylic_acid
+http://www.wikidata.org/entity/Q125083,atrasentan,https://en.wikipedia.org/wiki/Atrasentan
+http://www.wikidata.org/entity/Q148946,dichlorprop,https://en.wikipedia.org/wiki/Dichlorprop
+http://www.wikidata.org/entity/Q149452,(rac)-mecoprop,https://en.wikipedia.org/wiki/Mecoprop
+http://www.wikidata.org/entity/Q29417,tretinoin,https://en.wikipedia.org/wiki/Tretinoin
+http://www.wikidata.org/entity/Q30536,urocanic acid,https://en.wikipedia.org/wiki/Urocanic_acid
+http://www.wikidata.org/entity/Q30582,"3-(4-oxo-4,5-dihydro-1H-imidazol-5-yl)propanoic acid",https://en.wikipedia.org/wiki/Imidazol-4-one-5-propionic_acid
+http://www.wikidata.org/entity/Q45816,boswellic acid,https://en.wikipedia.org/wiki/Boswellic_acid
+http://www.wikidata.org/entity/Q183290,L-serine,https://en.wikipedia.org/wiki/Serine
+http://www.wikidata.org/entity/Q185906,DL-asparagine,https://en.wikipedia.org/wiki/Asparagine
+http://www.wikidata.org/entity/Q155472,valsartan,https://en.wikipedia.org/wiki/Valsartan
+http://www.wikidata.org/entity/Q179894,pantothenic acid,https://en.wikipedia.org/wiki/Pantothenic_acid
+http://www.wikidata.org/entity/Q186474,L-Cysteine,https://en.wikipedia.org/wiki/Cysteine
+http://www.wikidata.org/entity/Q181354,biotin,https://en.wikipedia.org/wiki/Biotin
+http://www.wikidata.org/entity/Q186969,ibuprofen,https://en.wikipedia.org/wiki/Ibuprofen
+http://www.wikidata.org/entity/Q186521,L-threonine,https://en.wikipedia.org/wiki/Threonine
+http://www.wikidata.org/entity/Q191381,saccharin,https://en.wikipedia.org/wiki/Saccharin
+http://www.wikidata.org/entity/Q201928,amoxicillin,https://en.wikipedia.org/wiki/Amoxicillin
+http://www.wikidata.org/entity/Q695611,amlexanox,https://en.wikipedia.org/wiki/Amlexanox
+http://www.wikidata.org/entity/Q851897,bevirimat,https://en.wikipedia.org/wiki/Bevirimat
+http://www.wikidata.org/entity/Q867350,cilazapril,https://en.wikipedia.org/wiki/Cilazapril
+http://www.wikidata.org/entity/Q905703,fusaric acid,https://en.wikipedia.org/wiki/Fusaric_acid
+http://www.wikidata.org/entity/Q907219,tiagabine,https://en.wikipedia.org/wiki/Tiagabine
+http://www.wikidata.org/entity/Q929420,trandolapril,https://en.wikipedia.org/wiki/Trandolapril
+http://www.wikidata.org/entity/Q965999,alclofenac,https://en.wikipedia.org/wiki/Alclofenac
+http://www.wikidata.org/entity/Q218642,L-alanine,https://en.wikipedia.org/wiki/Alanine
+http://www.wikidata.org/entity/Q223600,creatine,https://en.wikipedia.org/wiki/Creatine
+http://www.wikidata.org/entity/Q224896,humic acid,https://en.wikipedia.org/wiki/Humic_acid
+http://www.wikidata.org/entity/Q245282,essential amino acid,https://en.wikipedia.org/wiki/Essential_amino_acid
+http://www.wikidata.org/entity/Q5276437,dihydrolipoic acid,https://en.wikipedia.org/wiki/Dihydrolipoic_acid
+http://www.wikidata.org/entity/Q5279100,diodone,https://en.wikipedia.org/wiki/Diodone
+http://www.wikidata.org/entity/Q5332352,(−)-ecgonidine,https://en.wikipedia.org/wiki/Ecgonidine
+http://www.wikidata.org/entity/Q5376118,Endiandric acid C,https://en.wikipedia.org/wiki/Endiandric_acid_C
+http://www.wikidata.org/entity/Q5383934,Epristeride,https://en.wikipedia.org/wiki/Epristeride
+http://www.wikidata.org/entity/Q5420370,exisulind,https://en.wikipedia.org/wiki/Exisulind
+http://www.wikidata.org/entity/Q5435335,farinomalein,https://en.wikipedia.org/wiki/Farinomalein
+http://www.wikidata.org/entity/Q5459999,flomoxef,https://en.wikipedia.org/wiki/Flomoxef
+http://www.wikidata.org/entity/Q5509477,furantetracarboxylic acid,https://en.wikipedia.org/wiki/Furantetracarboxylic_acid
+http://www.wikidata.org/entity/Q5515280,gabazine bromide,https://en.wikipedia.org/wiki/Gabazine
+http://www.wikidata.org/entity/Q5514388,GR-113808,https://en.wikipedia.org/wiki/GR-113808
+http://www.wikidata.org/entity/Q5519727,(-)-gambogic acid,https://en.wikipedia.org/wiki/Gambogic_acid
+http://www.wikidata.org/entity/Q5520039,gamendazole,https://en.wikipedia.org/wiki/Gamendazole
+http://www.wikidata.org/entity/Q5533206,geniposidic acid,https://en.wikipedia.org/wiki/Geniposidic_acid
+http://www.wikidata.org/entity/Q5613765,3-guanidinopropionic acid,https://en.wikipedia.org/wiki/Guanidinopropionic_acid
+http://www.wikidata.org/entity/Q209222,"2,4-dichlorophenoxyacetic acid","https://en.wikipedia.org/wiki/2,4-Dichlorophenoxyacetic_acid"
+http://www.wikidata.org/entity/Q209188,"2,4,5-Trichlorophenoxyacetic acid","https://en.wikipedia.org/wiki/2,4,5-Trichlorophenoxyacetic_acid"
+http://www.wikidata.org/entity/Q209361,2-chloropropionic acid,https://en.wikipedia.org/wiki/2-Chloropropionic_acid
+http://www.wikidata.org/entity/Q229887,"2,4-DB","https://en.wikipedia.org/wiki/2,4-DB"
+http://www.wikidata.org/entity/Q245489,Trolox,https://en.wikipedia.org/wiki/Trolox
+http://www.wikidata.org/entity/Q257590,prop-2-ynoic acid,https://en.wikipedia.org/wiki/Propiolic_acid
+http://www.wikidata.org/entity/Q266595,diamino acid,https://en.wikipedia.org/wiki/Diamino_acid
+http://www.wikidata.org/entity/Q284398,N-terminus,https://en.wikipedia.org/wiki/N-terminus
+http://www.wikidata.org/entity/Q302204,(RS)-glufosin,https://en.wikipedia.org/wiki/Glufosinate
+http://www.wikidata.org/entity/Q407232,glyphosate,https://en.wikipedia.org/wiki/Glyphosate
+http://www.wikidata.org/entity/Q1007138,gabaculine,https://en.wikipedia.org/wiki/Gabaculine
+http://www.wikidata.org/entity/Q1041804,imidapril,https://en.wikipedia.org/wiki/Imidapril
+http://www.wikidata.org/entity/Q1146963,cyanoacetic acid,https://en.wikipedia.org/wiki/Cyanoacetic_acid
+http://www.wikidata.org/entity/Q1240093,pravastatin,https://en.wikipedia.org/wiki/Pravastatin
+http://www.wikidata.org/entity/Q1307068,Chloroacetic acids,https://en.wikipedia.org/wiki/Chloroacetic_acids
+http://www.wikidata.org/entity/Q1318069,imino acid,https://en.wikipedia.org/wiki/Imino_acid
+http://www.wikidata.org/entity/Q1500226,pulvinic acid,https://en.wikipedia.org/wiki/Pulvinic_acid
+http://www.wikidata.org/entity/Q300902,tris(2-carboxyethyl)phosphine,https://en.wikipedia.org/wiki/TCEP
+http://www.wikidata.org/entity/Q311926,succinylmonocholine,https://en.wikipedia.org/wiki/Succinylmonocholine
+http://www.wikidata.org/entity/Q312125,asparagusic acid,https://en.wikipedia.org/wiki/Asparagusic_acid
+http://www.wikidata.org/entity/Q312229,(RS)-thioctic acid,https://en.wikipedia.org/wiki/Lipoic_acid
+http://www.wikidata.org/entity/Q321068,abietic acid,https://en.wikipedia.org/wiki/Abietic_acid
+http://www.wikidata.org/entity/Q21098892,radalbuvir,https://en.wikipedia.org/wiki/Radalbuvir
+http://www.wikidata.org/entity/Q21820633,lesinurad,https://en.wikipedia.org/wiki/Lesinurad
+http://www.wikidata.org/entity/Q27266658,tetracontanoic acid,https://en.wikipedia.org/wiki/Tetracontanoic_acid
+http://www.wikidata.org/entity/Q287029,isotretinoin,https://en.wikipedia.org/wiki/Isotretinoin
+http://www.wikidata.org/entity/Q30045046,Fluorobenzoic acids,https://en.wikipedia.org/wiki/Fluorobenzoic_acid
+http://www.wikidata.org/entity/Q3611854,alitretinoin,https://en.wikipedia.org/wiki/Alitretinoin
+http://www.wikidata.org/entity/Q44822059,amineptine,https://en.wikipedia.org/wiki/Amineptine
+http://www.wikidata.org/entity/Q410278,barbituric acid,https://en.wikipedia.org/wiki/Barbituric_acid
+http://www.wikidata.org/entity/Q411314,cyanuric acid,https://en.wikipedia.org/wiki/Cyanuric_acid
+http://www.wikidata.org/entity/Q413447,acetylacetone,https://en.wikipedia.org/wiki/Acetylacetone
+http://www.wikidata.org/entity/Q331818,gibberellins,https://en.wikipedia.org/wiki/Gibberellin
+http://www.wikidata.org/entity/Q352348,adapalene,https://en.wikipedia.org/wiki/Adapalene
+http://www.wikidata.org/entity/Q384111,betulinic acid,https://en.wikipedia.org/wiki/Betulinic_acid
+http://www.wikidata.org/entity/Q384295,gemfibrozil,https://en.wikipedia.org/wiki/Gemfibrozil
+http://www.wikidata.org/entity/Q415925,DL-selenomethionine,https://en.wikipedia.org/wiki/Selenomethionine
+http://www.wikidata.org/entity/Q420726,branched-chain amino acid,https://en.wikipedia.org/wiki/Branched-chain_amino_acid
+http://www.wikidata.org/entity/Q425286,dichloroisocyanuric acid,https://en.wikipedia.org/wiki/Dichloroisocyanuric_acid
+http://www.wikidata.org/entity/Q425517,retinoic acid,https://en.wikipedia.org/wiki/Retinoic_acid
+http://www.wikidata.org/entity/Q483745,L-leucine,https://en.wikipedia.org/wiki/Leucine
+http://www.wikidata.org/entity/Q483752,L-valine,https://en.wikipedia.org/wiki/Valine
+http://www.wikidata.org/entity/Q1907191,maslinic acid,https://en.wikipedia.org/wiki/Maslinic_acid
+http://www.wikidata.org/entity/Q1964898,naphthenic acids,https://en.wikipedia.org/wiki/Naphthenic_acid
+http://www.wikidata.org/entity/Q1981622,pendetide,https://en.wikipedia.org/wiki/Pendetide
+http://www.wikidata.org/entity/Q2044136,alpha-cyano-4-hydroxycinnamic acid,https://en.wikipedia.org/wiki/%CE%91-Cyano-4-hydroxycinnamic_acid
+http://www.wikidata.org/entity/Q2069698,pectic acid,https://en.wikipedia.org/wiki/Pectic_acid
+http://www.wikidata.org/entity/Q2104314,narasin,https://en.wikipedia.org/wiki/Narasin
+http://www.wikidata.org/entity/Q2188539,clopyralid,https://en.wikipedia.org/wiki/Clopyralid
+http://www.wikidata.org/entity/Q2303660,triclopyr,https://en.wikipedia.org/wiki/Triclopyr
+http://www.wikidata.org/entity/Q2342544,acipimox,https://en.wikipedia.org/wiki/Acipimox
+http://www.wikidata.org/entity/Q1542107,lithium formate,https://en.wikipedia.org/wiki/Lithium_formate
+http://www.wikidata.org/entity/Q408143,3-(trimethylsilyl)propionic acid,https://en.wikipedia.org/wiki/Trimethylsilylpropanoic_acid
+http://www.wikidata.org/entity/Q410465,isonicotinic acid,https://en.wikipedia.org/wiki/Isonicotinic_acid
+http://www.wikidata.org/entity/Q410646,ranelic acid,https://en.wikipedia.org/wiki/Ranelic_acid
+http://www.wikidata.org/entity/Q411588,eltrombopag,https://en.wikipedia.org/wiki/Eltrombopag
+http://www.wikidata.org/entity/Q411909,salinomycin,https://en.wikipedia.org/wiki/Salinomycin
+http://www.wikidata.org/entity/Q412050,prostacyclin,https://en.wikipedia.org/wiki/Prostacyclin
+http://www.wikidata.org/entity/Q485277,L-histidine,https://en.wikipedia.org/wiki/Histidine
+http://www.wikidata.org/entity/Q484940,L-isoleucine,https://en.wikipedia.org/wiki/Isoleucine
+http://www.wikidata.org/entity/Q5635434,HOCPCA,https://en.wikipedia.org/wiki/HOCPCA
+http://www.wikidata.org/entity/Q5697238,hederagenin,https://en.wikipedia.org/wiki/Hederagenin
+http://www.wikidata.org/entity/Q5732020,perfluorobutanoic acid,https://en.wikipedia.org/wiki/Perfluorobutanoic_acid
+http://www.wikidata.org/entity/Q5948038,enoxolone,https://en.wikipedia.org/wiki/Enoxolone
+http://www.wikidata.org/entity/Q6015615,indacrinone,https://en.wikipedia.org/wiki/Indacrinone
+http://www.wikidata.org/entity/Q6062805,iomazenil i-123,https://en.wikipedia.org/wiki/Iomazenil
+http://www.wikidata.org/entity/Q6085784,isoguvacine,https://en.wikipedia.org/wiki/Isoguvacine
+http://www.wikidata.org/entity/Q6587055,tyropanic acid,https://en.wikipedia.org/wiki/Tyropanoic_acid
+http://www.wikidata.org/entity/Q6703005,lumacaftor,https://en.wikipedia.org/wiki/Lumacaftor
+http://www.wikidata.org/entity/Q6823998,methylenomycin A,https://en.wikipedia.org/wiki/Methylenomycin_A
+http://www.wikidata.org/entity/Q6841079,Midafotel,https://en.wikipedia.org/wiki/Midafotel
+http://www.wikidata.org/entity/Q6913266,moronic acid,https://en.wikipedia.org/wiki/Moronic_acid
+http://www.wikidata.org/entity/Q6953205,NCS-382,https://en.wikipedia.org/wiki/NCS-382
+http://www.wikidata.org/entity/Q7089596,omapatrilat,https://en.wikipedia.org/wiki/Omapatrilat
+http://www.wikidata.org/entity/Q620730,glycine,https://en.wikipedia.org/wiki/Glycine
+http://www.wikidata.org/entity/Q412078,carbamic acid,https://en.wikipedia.org/wiki/Carbamic_acid
+http://www.wikidata.org/entity/Q412074,keto acid,https://en.wikipedia.org/wiki/Keto_acid
+http://www.wikidata.org/entity/Q412139,phosphoenolpyruvic acid,https://en.wikipedia.org/wiki/Phosphoenolpyruvic_acid
+http://www.wikidata.org/entity/Q2499888,benzoylecgonine,https://en.wikipedia.org/wiki/Benzoylecgonine
+http://www.wikidata.org/entity/Q2622539,indolebutyric acid,https://en.wikipedia.org/wiki/Indole-3-butyric_acid
+http://www.wikidata.org/entity/Q2635498,elenolic acid,https://en.wikipedia.org/wiki/Elenolic_acid
+http://www.wikidata.org/entity/Q2690247,3-deoxy-D-arabino-heptulosonate-7-phosphate,https://en.wikipedia.org/wiki/3-Deoxy-D-arabino-heptulosonic_acid_7-phosphate
+http://www.wikidata.org/entity/Q2823196,1-pyrroline-5-carboxylic acid,https://en.wikipedia.org/wiki/1-Pyrroline-5-carboxylic_acid
+http://www.wikidata.org/entity/Q2823218,3-oxovaleric acid,https://en.wikipedia.org/wiki/3-Oxopentanoic_acid
+http://www.wikidata.org/entity/Q2823233,(RS)-5-diphosphomevalonate,https://en.wikipedia.org/wiki/5-Diphosphomevalonic_acid
+http://www.wikidata.org/entity/Q2823241,benzoquinonetetracarboxylic acid,https://en.wikipedia.org/wiki/Benzoquinonetetracarboxylic_acid
+http://www.wikidata.org/entity/Q2823209,methylmalonaldehydic acid,https://en.wikipedia.org/wiki/Methylmalonic_acid_semialdehyde
+http://www.wikidata.org/entity/Q412208,lisinopril,https://en.wikipedia.org/wiki/Lisinopril
+http://www.wikidata.org/entity/Q412231,EDDS,https://en.wikipedia.org/wiki/EDDS
+http://www.wikidata.org/entity/Q412677,pitavastatin,https://en.wikipedia.org/wiki/Pitavastatin
+http://www.wikidata.org/entity/Q412666,ramipril,https://en.wikipedia.org/wiki/Ramipril
+http://www.wikidata.org/entity/Q1151249,D-amino acid,https://en.wikipedia.org/wiki/D-Amino_acid
+http://www.wikidata.org/entity/Q705605,aromatic amino acid,https://en.wikipedia.org/wiki/Aromatic_amino_acid
+http://www.wikidata.org/entity/Q746380,croconic acid,https://en.wikipedia.org/wiki/Croconic_acid
+http://www.wikidata.org/entity/Q844593,aminopolycarboxylic acid,https://en.wikipedia.org/wiki/Aminopolycarboxylic_acid
+http://www.wikidata.org/entity/Q903298,squaric acid,https://en.wikipedia.org/wiki/Squaric_acid
+http://www.wikidata.org/entity/Q909931,theanine,https://en.wikipedia.org/wiki/Theanine
+http://www.wikidata.org/entity/Q413288,bile acids,https://en.wikipedia.org/wiki/Bile_acid
+http://www.wikidata.org/entity/Q413178,diacerein,https://en.wikipedia.org/wiki/Diacerein
+http://www.wikidata.org/entity/Q413552,oxoacetic acid,https://en.wikipedia.org/wiki/Glyoxylic_acid
+http://www.wikidata.org/entity/Q414042,okadaic acid,https://en.wikipedia.org/wiki/Okadaic_acid
+http://www.wikidata.org/entity/Q2823325,ethylenetetracarboxylic acid,https://en.wikipedia.org/wiki/Ethylenetetracarboxylic_acid
+http://www.wikidata.org/entity/Q2823243,perfluorinated carboxylic acid,https://en.wikipedia.org/wiki/Perfluoroalkyl_carboxylic_acids
+http://www.wikidata.org/entity/Q2823318,(±)-tropic acid,https://en.wikipedia.org/wiki/Tropic_acid
+http://www.wikidata.org/entity/Q2902977,bilastine,https://en.wikipedia.org/wiki/Bilastine
+http://www.wikidata.org/entity/Q3027939,diprogulic acid,https://en.wikipedia.org/wiki/Diprogulic_acid
+http://www.wikidata.org/entity/Q3092689,fenoprop,https://en.wikipedia.org/wiki/Fenoprop
+http://www.wikidata.org/entity/Q3143745,hydrogenoxalate,https://en.wikipedia.org/wiki/Hydrogenoxalate
+http://www.wikidata.org/entity/Q3323027,imazapyr,https://en.wikipedia.org/wiki/Imazapyr
+http://www.wikidata.org/entity/Q3492574,Chloroformic acid,https://en.wikipedia.org/wiki/Chloroformic_acid
+http://www.wikidata.org/entity/Q1379491,thiocarboxylic acid,https://en.wikipedia.org/wiki/Thiocarboxylic_acid
+http://www.wikidata.org/entity/Q2031968,ortho acid,https://en.wikipedia.org/wiki/Ortho_acid
+http://www.wikidata.org/entity/Q2130929,cyclamic acid,https://en.wikipedia.org/wiki/Cyclamic_acid
+http://www.wikidata.org/entity/Q2527698,Ketogenic amino acid,https://en.wikipedia.org/wiki/Ketogenic_amino_acid
+http://www.wikidata.org/entity/Q2740849,glucogenic amino acid,https://en.wikipedia.org/wiki/Glucogenic_amino_acid
+http://www.wikidata.org/entity/Q2823245,DL-γ-carboxyglutamic acid,https://en.wikipedia.org/wiki/Carboxyglutamic_acid
+http://www.wikidata.org/entity/Q2823270,hydroxycitric acid,https://en.wikipedia.org/wiki/Hydroxycitric_acid
+http://www.wikidata.org/entity/Q414414,ectoine,https://en.wikipedia.org/wiki/Ectoine
+http://www.wikidata.org/entity/Q415122,fexofenadine,https://en.wikipedia.org/wiki/Fexofenadine
+http://www.wikidata.org/entity/Q415159,rosuvastatin,https://en.wikipedia.org/wiki/Rosuvastatin
+http://www.wikidata.org/entity/Q415837,lysergic acid,https://en.wikipedia.org/wiki/Lysergic_acid
+http://www.wikidata.org/entity/Q7116606,ozolinone,https://en.wikipedia.org/wiki/Ozolinone
+http://www.wikidata.org/entity/Q7168161,perfluorononanoic acid,https://en.wikipedia.org/wiki/Perfluorononanoic_acid
+http://www.wikidata.org/entity/Q7178320,meperidine acid,https://en.wikipedia.org/wiki/Pethidinic_acid
+http://www.wikidata.org/entity/Q7180977,phaseic acid,https://en.wikipedia.org/wiki/Phaseic_acid
+http://www.wikidata.org/entity/Q7181395,Phenopicolinic acid,https://en.wikipedia.org/wiki/Phenopicolinic_acid
+http://www.wikidata.org/entity/Q7181437,phenylpropiolic acid,https://en.wikipedia.org/wiki/Phenylpropiolic_acid
+http://www.wikidata.org/entity/Q7197959,Pirenoxine,https://en.wikipedia.org/wiki/Pirenoxine
+http://www.wikidata.org/entity/Q7263629,pyrocitric,https://en.wikipedia.org/wiki/Pyrocitric
+http://www.wikidata.org/entity/Q7272100,quinclorac,https://en.wikipedia.org/wiki/Quinclorac
+http://www.wikidata.org/entity/Q7313544,rentiapril,https://en.wikipedia.org/wiki/Rentiapril
+http://www.wikidata.org/entity/Q7341121,robenacoxib,https://en.wikipedia.org/wiki/Robenacoxib
+http://www.wikidata.org/entity/Q7388901,SB 204070,https://en.wikipedia.org/wiki/SB-204070
+http://www.wikidata.org/entity/Q7389135,sch-50911 free base,https://en.wikipedia.org/wiki/SCH-50911
+http://www.wikidata.org/entity/Q7448341,selfotel,https://en.wikipedia.org/wiki/Selfotel
+http://www.wikidata.org/entity/Q7667802,T-HCA,https://en.wikipedia.org/wiki/T-HCA
+http://www.wikidata.org/entity/Q415970,candesartan,https://en.wikipedia.org/wiki/Candesartan
+http://www.wikidata.org/entity/Q416260,ursolic acid,https://en.wikipedia.org/wiki/Ursolic_acid
+http://www.wikidata.org/entity/Q416427,cromoglicic acid,https://en.wikipedia.org/wiki/Cromoglicic_acid
+http://www.wikidata.org/entity/Q416682,picolinic acid,https://en.wikipedia.org/wiki/Picolinic_acid
+http://www.wikidata.org/entity/Q416554,prostaglandin E2,https://en.wikipedia.org/wiki/Prostaglandin_E2
+http://www.wikidata.org/entity/Q3493048,monensin,https://en.wikipedia.org/wiki/Monensin
+http://www.wikidata.org/entity/Q3604519,diphenolic acid,https://en.wikipedia.org/wiki/Diphenolic_acid
+http://www.wikidata.org/entity/Q3604498,ajulemic acid,https://en.wikipedia.org/wiki/Lenabasum
+http://www.wikidata.org/entity/Q3609417,aleglitazar,https://en.wikipedia.org/wiki/Aleglitazar
+http://www.wikidata.org/entity/Q3731252,erdosteine,https://en.wikipedia.org/wiki/Erdosteine
+http://www.wikidata.org/entity/Q3746837,(+)-flunoxaprofen,https://en.wikipedia.org/wiki/Flunoxaprofen
+http://www.wikidata.org/entity/Q3827439,latamoxef,https://en.wikipedia.org/wiki/Latamoxef
+http://www.wikidata.org/entity/Q3898423,pazufloxacin,https://en.wikipedia.org/wiki/Pazufloxacin
+http://www.wikidata.org/entity/Q3902720,pidotimod,https://en.wikipedia.org/wiki/Pidotimod
+http://www.wikidata.org/entity/Q3924793,prulifloxacin,https://en.wikipedia.org/wiki/Prulifloxacin
+http://www.wikidata.org/entity/Q4353545,3-phosphonooxypyruvic acid,https://en.wikipedia.org/wiki/Phosphohydroxypyruvic_acid
+http://www.wikidata.org/entity/Q417296,febuxostat,https://en.wikipedia.org/wiki/Febuxostat
+http://www.wikidata.org/entity/Q417942,fluvastatin,https://en.wikipedia.org/wiki/Fluvastatin
+http://www.wikidata.org/entity/Q418035,pimaric acid,https://en.wikipedia.org/wiki/Pimaric_acid
+http://www.wikidata.org/entity/Q418348,perfluorooctanoic acid,https://en.wikipedia.org/wiki/Perfluorooctanoic_acid
+http://www.wikidata.org/entity/Q418356,potassium formate,https://en.wikipedia.org/wiki/Potassium_formate
+http://www.wikidata.org/entity/Q418628,oleanolic acid,https://en.wikipedia.org/wiki/Oleanolic_acid
+http://www.wikidata.org/entity/Q420082,benoxaprofen,https://en.wikipedia.org/wiki/Benoxaprofen
+http://www.wikidata.org/entity/Q420028,ecgonine,https://en.wikipedia.org/wiki/Ecgonine
+http://www.wikidata.org/entity/Q420215,fluoroacetic acid,https://en.wikipedia.org/wiki/Fluoroacetic_acid
+http://www.wikidata.org/entity/Q420387,foscarnet,https://en.wikipedia.org/wiki/Foscarnet
+http://www.wikidata.org/entity/Q17097143,"(+)-2,3-diaminopropionic acid","https://en.wikipedia.org/wiki/2,3-Diaminopropionic_acid"
+http://www.wikidata.org/entity/Q19367475,aminomethylphosphonic acid,https://en.wikipedia.org/wiki/Aminomethylphosphonic_acid
+http://www.wikidata.org/entity/Q2823301,rhodizonic acid,https://en.wikipedia.org/wiki/Rhodizonic_acid
+http://www.wikidata.org/entity/Q2930104,beta-lysine,https://en.wikipedia.org/wiki/%CE%92-Lysine
+http://www.wikidata.org/entity/Q3241589,proteinogenic amino acid,https://en.wikipedia.org/wiki/Proteinogenic_amino_acid
+http://www.wikidata.org/entity/Q4917171,bis-peptide,https://en.wikipedia.org/wiki/Bis-peptide
+http://www.wikidata.org/entity/Q6823656,DL-methionine (RS)-S-oxide,https://en.wikipedia.org/wiki/Methionine_sulfoxide
+http://www.wikidata.org/entity/Q6823955,methylarginine,https://en.wikipedia.org/wiki/Methylarginine
+http://www.wikidata.org/entity/Q7048995,non-proteinogenic amino acid,https://en.wikipedia.org/wiki/Non-proteinogenic_amino_acids
+http://www.wikidata.org/entity/Q180341,DL-methionine,https://en.wikipedia.org/wiki/Methionine
+http://www.wikidata.org/entity/Q181003,tryptophan,https://en.wikipedia.org/wiki/Tryptophan
+http://www.wikidata.org/entity/Q421119,captopril,https://en.wikipedia.org/wiki/Captopril
+http://www.wikidata.org/entity/Q421178,porphobilinogen,https://en.wikipedia.org/wiki/Porphobilinogen
+http://www.wikidata.org/entity/Q421663,vigabatrin,https://en.wikipedia.org/wiki/Vigabatrin
+http://www.wikidata.org/entity/Q422956,propionic acid,https://en.wikipedia.org/wiki/Propionic_acid
+http://www.wikidata.org/entity/Q423439,cerivastatin,https://en.wikipedia.org/wiki/Cerivastatin
+http://www.wikidata.org/entity/Q423393,sulbactam,https://en.wikipedia.org/wiki/Sulbactam
+http://www.wikidata.org/entity/Q423787,piperacillin,https://en.wikipedia.org/wiki/Piperacillin
+http://www.wikidata.org/entity/Q10528967,hydroxy acid,https://en.wikipedia.org/wiki/Hydroxycarboxylic_acid
+http://www.wikidata.org/entity/Q10843651,methallenestril,https://en.wikipedia.org/wiki/Methallenestril
+http://www.wikidata.org/entity/Q7675206,Tagetitoxin,https://en.wikipedia.org/wiki/Tagetitoxin
+http://www.wikidata.org/entity/Q7702349,tergallic acid,https://en.wikipedia.org/wiki/Tergallic_acid
+http://www.wikidata.org/entity/Q7705411,tesaglitazar,https://en.wikipedia.org/wiki/Tesaglitazar
+http://www.wikidata.org/entity/Q7708612,tezampanel,https://en.wikipedia.org/wiki/Tezampanel
+http://www.wikidata.org/entity/Q7814620,tolrestat,https://en.wikipedia.org/wiki/Tolrestat
+http://www.wikidata.org/entity/Q7838676,trepibutone,https://en.wikipedia.org/wiki/Trepibutone
+http://www.wikidata.org/entity/Q7912587,valproate pivoxil,https://en.wikipedia.org/wiki/Valproate_pivoxil
+http://www.wikidata.org/entity/Q7915613,varespladib,https://en.wikipedia.org/wiki/Varespladib
+http://www.wikidata.org/entity/Q7917921,vedaprofen,https://en.wikipedia.org/wiki/Vedaprofen
+http://www.wikidata.org/entity/Q8064324,zafuleptine,https://en.wikipedia.org/wiki/Zafuleptine
+http://www.wikidata.org/entity/Q9159393,arecaidine,https://en.wikipedia.org/wiki/Arecaidine
+http://www.wikidata.org/entity/Q1014257,ammonium sulfamate,https://en.wikipedia.org/wiki/Ammonium_sulfamate
+http://www.wikidata.org/entity/Q2491625,orthocarbonic acid,https://en.wikipedia.org/wiki/Orthocarbonic_acid
+http://www.wikidata.org/entity/Q412304,sulfamic acid,https://en.wikipedia.org/wiki/Sulfamic_acid
+http://www.wikidata.org/entity/Q420051,dexibuprofen,https://en.wikipedia.org/wiki/Dexibuprofen
+http://www.wikidata.org/entity/Q4391206,hipposudoric acid,https://en.wikipedia.org/wiki/Hipposudoric_acid
+http://www.wikidata.org/entity/Q4544209,(6S)-6-Fluoroshikimic acid,https://en.wikipedia.org/wiki/(6S)-6-Fluoroshikimic_acid
+http://www.wikidata.org/entity/Q4547226,11-nor-9-Carboxy-THC,https://en.wikipedia.org/wiki/11-Nor-9-carboxy-THC
+http://www.wikidata.org/entity/Q4602542,succinic semialdehyde,https://en.wikipedia.org/wiki/Succinic_semialdehyde
+http://www.wikidata.org/entity/Q4634124,"3-carboxy-cis,cis-muconic acid","https://en.wikipedia.org/wiki/3-Carboxy-cis,cis-muconic_acid"
+http://www.wikidata.org/entity/Q4634163,3-mercaptopyruvic acid,https://en.wikipedia.org/wiki/3-Mercaptopyruvic_acid
+http://www.wikidata.org/entity/Q4637072,4-(4-methylphenyl)-4-oxobutanoic acid,https://en.wikipedia.org/wiki/4-(4-Methylphenyl)-4-oxobutanoic_acid
+http://www.wikidata.org/entity/Q4637113,4-chlorophenoxyacetic acid,https://en.wikipedia.org/wiki/4-Chlorophenoxyacetic_acid
+http://www.wikidata.org/entity/Q4667980,abitesartan,https://en.wikipedia.org/wiki/Abitesartan
+http://www.wikidata.org/entity/Q4673049,aceburic acid,https://en.wikipedia.org/wiki/Aceburic_acid
+http://www.wikidata.org/entity/Q4673282,acetoxolone,https://en.wikipedia.org/wiki/Acetoxolone
+http://www.wikidata.org/entity/Q4745982,amfonelic acid,https://en.wikipedia.org/wiki/Amfonelic_acid
+http://www.wikidata.org/entity/Q4746469,aminopyralid,https://en.wikipedia.org/wiki/Aminopyralid
+http://www.wikidata.org/entity/Q4746471,5-deoxy-5-aminoshikimic acid,https://en.wikipedia.org/wiki/Aminoshikimic_acid
+http://www.wikidata.org/entity/Q4834614,BAPTA,https://en.wikipedia.org/wiki/BAPTA
+http://www.wikidata.org/entity/Q4941885,bongkrek acid,https://en.wikipedia.org/wiki/Bongkrek_acid
+http://www.wikidata.org/entity/Q4982752,Bucillamine,https://en.wikipedia.org/wiki/Bucillamine
+http://www.wikidata.org/entity/Q5023865,Calostomal,https://en.wikipedia.org/wiki/Calostomal
+http://www.wikidata.org/entity/Q5032033,candoxatril,https://en.wikipedia.org/wiki/Candoxatril
+http://www.wikidata.org/entity/Q5037845,carbenzide,https://en.wikipedia.org/wiki/Carbenzide
+http://www.wikidata.org/entity/Q5047587,Carvonic acid,https://en.wikipedia.org/wiki/Carvonic_acid
+http://www.wikidata.org/entity/Q5057534,celastrol,https://en.wikipedia.org/wiki/Celastrol
+http://www.wikidata.org/entity/Q5114537,trans-(+)-chrysanthemic acid,https://en.wikipedia.org/wiki/Chrysanthemic_acid
+http://www.wikidata.org/entity/Q5122816,citrazinic acid,https://en.wikipedia.org/wiki/Citrazinic_acid
+http://www.wikidata.org/entity/Q5172198,Coronatine,https://en.wikipedia.org/wiki/Coronatine
+http://www.wikidata.org/entity/Q5198965,cycloprop-2-ene carboxylic acid,https://en.wikipedia.org/wiki/Cycloprop-2-ene_carboxylic_acid
+http://www.wikidata.org/entity/Q5200280,3-Cyclopentylpropionic acid,https://en.wikipedia.org/wiki/Cypionic_acid
+http://www.wikidata.org/entity/Q5204515,"5,7-dichlorokynurenic acid","https://en.wikipedia.org/wiki/5,7-Dichlorokynurenic_acid"
+http://www.wikidata.org/entity/Q10858037,Methylecgonidine,https://en.wikipedia.org/wiki/Methylecgonidine
+http://www.wikidata.org/entity/Q10859486,3-hydroxypicolinic acid,https://en.wikipedia.org/wiki/3-Hydroxypicolinic_acid
+http://www.wikidata.org/entity/Q10860656,tuataric acid,https://en.wikipedia.org/wiki/Tuataric_acid
+http://www.wikidata.org/entity/Q12747279,"UK-414,495","https://en.wikipedia.org/wiki/UK-414,495"
+http://www.wikidata.org/entity/Q13416874,fluroxypyr,https://en.wikipedia.org/wiki/Fluroxypyr
+http://www.wikidata.org/entity/Q15043334,Berkelic acid,https://en.wikipedia.org/wiki/Berkelic_acid
+http://www.wikidata.org/entity/Q15239768,isonipecotic acid,https://en.wikipedia.org/wiki/Isonipecotic_acid
+http://www.wikidata.org/entity/Q15269693,saroglitazar,https://en.wikipedia.org/wiki/Saroglitazar
+http://www.wikidata.org/entity/Q15322708,guvacine,https://en.wikipedia.org/wiki/Guvacine
+http://www.wikidata.org/entity/Q15405288,9-carboxymethoxymethylguanine,https://en.wikipedia.org/wiki/9-Carboxymethoxymethylguanine
+http://www.wikidata.org/entity/Q15410873,citromycetin,https://en.wikipedia.org/wiki/Citromycetin
+http://www.wikidata.org/entity/Q15411014,glycidic acid,https://en.wikipedia.org/wiki/Glycidic_acid
+http://www.wikidata.org/entity/Q15426267,Isocupressic acid,https://en.wikipedia.org/wiki/Isocupressic_acid
+http://www.wikidata.org/entity/Q15425289,pencolide,https://en.wikipedia.org/wiki/Pencolide
+http://www.wikidata.org/entity/Q15427847,sterpuric acid,https://en.wikipedia.org/wiki/Sterpuric_acid
+http://www.wikidata.org/entity/Q15633960,acifran,https://en.wikipedia.org/wiki/Acifran
+http://www.wikidata.org/entity/Q15633956,aconiazide,https://en.wikipedia.org/wiki/Aconiazide
+http://www.wikidata.org/entity/Q15634146,tetrahydro-2-furoic acid,https://en.wikipedia.org/wiki/Tetrahydro-2-furoic_acid
+http://www.wikidata.org/entity/Q15708280,prostaglandin E3,https://en.wikipedia.org/wiki/Prostaglandin_E3
+http://www.wikidata.org/entity/Q241374,ursodiol,https://en.wikipedia.org/wiki/Ursodeoxycholic_acid
+http://www.wikidata.org/entity/Q27113993,cis-urocanic acid,https://en.wikipedia.org/wiki/Cis-Urocanic_acid
+http://www.wikidata.org/entity/Q287415,cholic acid,https://en.wikipedia.org/wiki/Cholic_acid
+http://www.wikidata.org/entity/Q30126674,"2,6-diaminopimelic acid",https://en.wikipedia.org/wiki/Diaminopimelic_acid
+http://www.wikidata.org/entity/Q411138,Gibberellic acid,https://en.wikipedia.org/wiki/Gibberellic_acid
+http://www.wikidata.org/entity/Q7104402,orthoacetic acid,https://en.wikipedia.org/wiki/Orthoacetic_acid
+http://www.wikidata.org/entity/Q27254027,L-selenocystine,https://en.wikipedia.org/wiki/Selenocystine
+http://www.wikidata.org/entity/Q408626,L-cystine,https://en.wikipedia.org/wiki/Cystine
+http://www.wikidata.org/entity/Q61476,fatty acid,https://en.wikipedia.org/wiki/Fatty_acid
+http://www.wikidata.org/entity/Q7226155,polyaspartic acid,https://en.wikipedia.org/wiki/Polyaspartic_acid
+http://www.wikidata.org/entity/Q2659931,taurocholic acid,https://en.wikipedia.org/wiki/Taurocholic_acid
+http://www.wikidata.org/entity/Q2701638,glycocholic acid,https://en.wikipedia.org/wiki/Glycocholic_acid
+http://www.wikidata.org/entity/Q413717,(RS)-baclofen,https://en.wikipedia.org/wiki/Baclofen
+http://www.wikidata.org/entity/Q4596860,α-aminoisobutyric acid,https://en.wikipedia.org/wiki/2-Aminoisobutyric_acid
+http://www.wikidata.org/entity/Q5572600,glycochenodeoxycholic acid,https://en.wikipedia.org/wiki/Glycochenodeoxycholic_acid
+http://www.wikidata.org/entity/Q238474,aminolevulinic acid,https://en.wikipedia.org/wiki/Aminolevulinic_acid
+http://www.wikidata.org/entity/Q255968,aminocaproic acid,https://en.wikipedia.org/wiki/Aminocaproic_acid
+http://www.wikidata.org/entity/Q285687,DL-α-aminobutyric acid,https://en.wikipedia.org/wiki/%CE%91-Aminobutyric_acid
+http://www.wikidata.org/entity/Q311992,acetylcarnitine,https://en.wikipedia.org/wiki/Acetylcarnitine
+http://www.wikidata.org/entity/Q408663,L-selenocysteine,https://en.wikipedia.org/wiki/Selenocysteine
+http://www.wikidata.org/entity/Q412056,uronic acid,https://en.wikipedia.org/wiki/Uronic_acid
+http://www.wikidata.org/entity/Q413578,mupirocin,https://en.wikipedia.org/wiki/Mupirocin
+http://www.wikidata.org/entity/Q418571,ethacrynic acid,https://en.wikipedia.org/wiki/Etacrynic_acid
+http://www.wikidata.org/entity/Q418707,L-norvaline,https://en.wikipedia.org/wiki/Norvaline
+http://www.wikidata.org/entity/Q419890,(±)-flurbiprofen,https://en.wikipedia.org/wiki/Flurbiprofen
+http://www.wikidata.org/entity/Q420553,mycophenolic acid,https://en.wikipedia.org/wiki/Mycophenolic_acid
+http://www.wikidata.org/entity/Q423075,cetirizine,https://en.wikipedia.org/wiki/Cetirizine
+http://www.wikidata.org/entity/Q2119931,Pyridinecarboxylic acids,https://en.wikipedia.org/wiki/Pyridinecarboxylic_acid
+http://www.wikidata.org/entity/Q2317381,cyclopropanecarboxylic acid,https://en.wikipedia.org/wiki/Cyclopropane_carboxylic_acid
+http://www.wikidata.org/entity/Q2555245,(RS)-fenoprofen,https://en.wikipedia.org/wiki/Fenoprofen
+http://www.wikidata.org/entity/Q2701649,O-phospho-L-serine,https://en.wikipedia.org/wiki/Phosphoserine
+http://www.wikidata.org/entity/Q425293,fosinopril,https://en.wikipedia.org/wiki/Fosinopril
+http://www.wikidata.org/entity/Q425475,"(E)-2,3-dimethylacrylic acid",https://en.wikipedia.org/wiki/Tiglic_acid
+http://www.wikidata.org/entity/Q161233,formic acid,https://en.wikipedia.org/wiki/Formic_acid
+http://www.wikidata.org/entity/Q173670,L-arginine,https://en.wikipedia.org/wiki/Arginine
+http://www.wikidata.org/entity/Q7688892,taurochenodeoxycholic acid,https://en.wikipedia.org/wiki/Taurochenodeoxycholic_acid
+http://www.wikidata.org/entity/Q178450,L-aspartic acid,https://en.wikipedia.org/wiki/Aspartic_acid
+http://www.wikidata.org/entity/Q209315,α-bromobutyric acid,https://en.wikipedia.org/wiki/2-Bromobutyric_acid
+http://www.wikidata.org/entity/Q210021,γ-aminobutyric acid,https://en.wikipedia.org/wiki/GABA
+http://www.wikidata.org/entity/Q181619,L-glutamine,https://en.wikipedia.org/wiki/Glutamine
+http://www.wikidata.org/entity/Q188017,L-tyrosine,https://en.wikipedia.org/wiki/Tyrosine
+http://www.wikidata.org/entity/Q139857,fumaric acid,https://en.wikipedia.org/wiki/Fumaric_acid
+http://www.wikidata.org/entity/Q159683,citric acid,https://en.wikipedia.org/wiki/Citric_acid
+http://www.wikidata.org/entity/Q228106,sugar acid,https://en.wikipedia.org/wiki/Sugar_acid
+http://www.wikidata.org/entity/Q291271,aminohippuric acid,https://en.wikipedia.org/wiki/Aminohippuric_acid
+http://www.wikidata.org/entity/Q409357,iminodiacetic acid,https://en.wikipedia.org/wiki/Iminodiacetic_acid
+http://www.wikidata.org/entity/Q414157,sarcosine,https://en.wikipedia.org/wiki/Sarcosine
+http://www.wikidata.org/entity/Q42038,maleic acid,https://en.wikipedia.org/wiki/Maleic_acid
+http://www.wikidata.org/entity/Q369777,pelargonic acid,https://en.wikipedia.org/wiki/Pelargonic_acid
+http://www.wikidata.org/entity/Q408032,edetic acid,https://en.wikipedia.org/wiki/Ethylenediaminetetraacetic_acid
+http://www.wikidata.org/entity/Q412033,trifluoroacetic acid,https://en.wikipedia.org/wiki/Trifluoroacetic_acid
+http://www.wikidata.org/entity/Q15632699,11-aminoundecanoic acid,https://en.wikipedia.org/wiki/11-Aminoundecanoic_acid
+http://www.wikidata.org/entity/Q18472686,3-Fluorobenzoic acid,https://en.wikipedia.org/wiki/3-Fluorobenzoic_acid
+http://www.wikidata.org/entity/Q27109225,2-Fluorobenzoic acid,https://en.wikipedia.org/wiki/2-Fluorobenzoic_acid
+http://www.wikidata.org/entity/Q2823212,3-aminoisobutyric acid,https://en.wikipedia.org/wiki/3-Aminoisobutyric_acid
+http://www.wikidata.org/entity/Q63390495,4-Fluorobenzoic acid,https://en.wikipedia.org/wiki/4-Fluorobenzoic_acid
+http://www.wikidata.org/entity/Q7197255,DL-pipecolic acid,https://en.wikipedia.org/wiki/Pipecolic_acid
+http://www.wikidata.org/entity/Q190143,DL-malic acid,https://en.wikipedia.org/wiki/Malic_acid
+http://www.wikidata.org/entity/Q194322,tartaric acid,https://en.wikipedia.org/wiki/Tartaric_acid
+http://www.wikidata.org/entity/Q209433,2-methylbutyric acid,https://en.wikipedia.org/wiki/2-Methylbutanoic_acid
+http://www.wikidata.org/entity/Q213050,succinic acid,https://en.wikipedia.org/wiki/Succinic_acid
+http://www.wikidata.org/entity/Q2365017,aldaric acid,https://en.wikipedia.org/wiki/Aldaric_acid
+http://www.wikidata.org/entity/Q2823286,muramic acid,https://en.wikipedia.org/wiki/Muramic_acid
+http://www.wikidata.org/entity/Q4198762,isopimaric acid,https://en.wikipedia.org/wiki/Isopimaric_acid
+http://www.wikidata.org/entity/Q484583,DL-proline,https://en.wikipedia.org/wiki/Proline
+http://www.wikidata.org/entity/Q793715,(S)-2-azetidinecarboxylic acid,https://en.wikipedia.org/wiki/Azetidine-2-carboxylic_acid
+http://www.wikidata.org/entity/Q288782,(EZ)-aconitic acid,https://en.wikipedia.org/wiki/Aconitic_acid
+http://www.wikidata.org/entity/Q288927,isocitric acid,https://en.wikipedia.org/wiki/Isocitric_acid
+http://www.wikidata.org/entity/Q306140,alpha-ketoglutaric acid,https://en.wikipedia.org/wiki/%CE%91-Ketoglutaric_acid
+http://www.wikidata.org/entity/Q357415,adipic acid,https://en.wikipedia.org/wiki/Adipic_acid
+http://www.wikidata.org/entity/Q378154,essential fatty acid,https://en.wikipedia.org/wiki/Essential_fatty_acid
+http://www.wikidata.org/entity/Q407569,D-gluconic acid,https://en.wikipedia.org/wiki/Gluconic_acid
+http://www.wikidata.org/entity/Q408658,oxaloacetic acid,https://en.wikipedia.org/wiki/Oxaloacetic_acid
+http://www.wikidata.org/entity/Q409216,D-glucouronic acid,https://en.wikipedia.org/wiki/Glucuronic_acid
+http://www.wikidata.org/entity/Q409622,glutaric acid,https://en.wikipedia.org/wiki/Glutaric_acid
+http://www.wikidata.org/entity/Q413504,azelaic acid,https://en.wikipedia.org/wiki/Azelaic_acid
+http://www.wikidata.org/entity/Q413454,sebacic acid,https://en.wikipedia.org/wiki/Sebacic_acid
+http://www.wikidata.org/entity/Q414420,pimelic acid,https://en.wikipedia.org/wiki/Pimelic_acid
+http://www.wikidata.org/entity/Q421171,phytanic acid,https://en.wikipedia.org/wiki/Phytanic_acid
+http://www.wikidata.org/entity/Q422729,D-galacturonic acid,https://en.wikipedia.org/wiki/D-Galacturonic_acid
+http://www.wikidata.org/entity/Q424572,bixin,https://en.wikipedia.org/wiki/Bixin
+http://www.wikidata.org/entity/Q424636,glucaric acid,https://en.wikipedia.org/wiki/Saccharic_acid
+http://www.wikidata.org/entity/Q106158237,fluorescent D-amino acid,https://en.wikipedia.org/wiki/Fluorescent_D-amino_acids
+http://www.wikidata.org/entity/Q181136,DL-glutamic acid,https://en.wikipedia.org/wiki/Glutamic_acid
+http://www.wikidata.org/entity/Q27895750,"DL-2,4-diaminobutyric acid","https://en.wikipedia.org/wiki/2,4-Diaminobutyric_acid"
+http://www.wikidata.org/entity/Q27156874,perfluorohexanoic acid,https://en.wikipedia.org/wiki/Perfluorohexanoic_acid
+http://www.wikidata.org/entity/Q27216284,procysteine,https://en.wikipedia.org/wiki/Procysteine
+http://www.wikidata.org/entity/Q27891699,(E)-olopatadine,https://en.wikipedia.org/wiki/Olopatadine
+http://www.wikidata.org/entity/Q2823204,α-aminoadipic acid,https://en.wikipedia.org/wiki/%CE%91-Aminoadipic_acid
+http://www.wikidata.org/entity/Q3738328,D-dopa,https://en.wikipedia.org/wiki/D-DOPA
+http://www.wikidata.org/entity/Q76010404,N(6)-carboxymethyl-L-lysine,https://en.wikipedia.org/wiki/N(6)-Carboxymethyllysine
+http://www.wikidata.org/entity/Q300989,levodopa,https://en.wikipedia.org/wiki/L-DOPA
+http://www.wikidata.org/entity/Q388801,furosemide,https://en.wikipedia.org/wiki/Furosemide
+http://www.wikidata.org/entity/Q408641,L-citrulline,https://en.wikipedia.org/wiki/Citrulline
+http://www.wikidata.org/entity/Q409762,polyacrylic acid,https://en.wikipedia.org/wiki/Polyacrylic_acid
+http://www.wikidata.org/entity/Q413302,alpha hydroxy acid,https://en.wikipedia.org/wiki/Alpha_hydroxycarboxylic_acid
+http://www.wikidata.org/entity/Q1474818,furan fatty acids,https://en.wikipedia.org/wiki/Furan_fatty_acids
+http://www.wikidata.org/entity/Q1773248,very long chain fatty acid,https://en.wikipedia.org/wiki/Very_long_chain_fatty_acid
+http://www.wikidata.org/entity/Q2099072,tridecanedioic acid,https://en.wikipedia.org/wiki/Brassylic_acid
+http://www.wikidata.org/entity/Q424916,galactaric acid,https://en.wikipedia.org/wiki/Mucic_acid
+http://www.wikidata.org/entity/Q524670,meglutol,https://en.wikipedia.org/wiki/Meglutol
+http://www.wikidata.org/entity/Q622421,α-ketoisocaproic acid,https://en.wikipedia.org/wiki/%CE%91-Ketoisocaproic_acid
+http://www.wikidata.org/entity/Q899074,suberic acid,https://en.wikipedia.org/wiki/Suberic_acid
+http://www.wikidata.org/entity/Q903311,itaconic acid,https://en.wikipedia.org/wiki/Itaconic_acid
+http://www.wikidata.org/entity/Q2250497,unsaturated fatty acid,https://en.wikipedia.org/wiki/Unsaturated_fatty_acid
+http://www.wikidata.org/entity/Q2546851,(Z)-penicillic acid,https://en.wikipedia.org/wiki/Penicillic_acid
+http://www.wikidata.org/entity/Q2698455,short-chain fatty acid,https://en.wikipedia.org/wiki/Short-chain_fatty_acid
+http://www.wikidata.org/entity/Q2714546,crocetin,https://en.wikipedia.org/wiki/Crocetin
+http://www.wikidata.org/entity/Q2823207,2-oxoadipic acid,https://en.wikipedia.org/wiki/2-Oxoadipic_acid
+http://www.wikidata.org/entity/Q2823214,(RS)-3-hydroxyvaleric acid,https://en.wikipedia.org/wiki/3-Hydroxyvaleric_acid
+http://www.wikidata.org/entity/Q2823219,3-methylglutaconic acid,https://en.wikipedia.org/wiki/3-Methylglutaconic_acid
+http://www.wikidata.org/entity/Q3270244,L-threonic acid,https://en.wikipedia.org/wiki/Threonic_acid
+http://www.wikidata.org/entity/Q2272566,aldonic acid,https://en.wikipedia.org/wiki/Aldonic_acid
+http://www.wikidata.org/entity/Q2823314,tricarboxylic acid,https://en.wikipedia.org/wiki/Tricarboxylic_acid
+http://www.wikidata.org/entity/Q3278222,"3,4,5-trimethoxybenzoic acid",https://en.wikipedia.org/wiki/Eudesmic_acid
+http://www.wikidata.org/entity/Q422050,dicarboxylic acid,https://en.wikipedia.org/wiki/Dicarboxylic_acid
+http://www.wikidata.org/entity/Q424662,picloram,https://en.wikipedia.org/wiki/Picloram
+http://www.wikidata.org/entity/Q568476,Leucines,https://en.wikipedia.org/wiki/Leucines
+http://www.wikidata.org/entity/Q106371441,(2S)-2-amino-4-oxobutanoic acid,https://en.wikipedia.org/wiki/L-Aspartic-4-semialdehyde
+http://www.wikidata.org/entity/Q12460151,hydroxyproline,https://en.wikipedia.org/wiki/Hydroxyproline
+http://www.wikidata.org/entity/Q21098914,tilapertin,https://en.wikipedia.org/wiki/Tilapertin
+http://www.wikidata.org/entity/Q22977245,diphenylacetic acid,https://en.wikipedia.org/wiki/Diphenylacetic_acid
+http://www.wikidata.org/entity/Q27116817,2-aminohexanoic acid,https://en.wikipedia.org/wiki/Norleucine
+http://www.wikidata.org/entity/Q6535822,levopimaric acid,https://en.wikipedia.org/wiki/Levopimaric_acid
+http://www.wikidata.org/entity/Q11789887,saturated fatty acid,https://en.wikipedia.org/wiki/Saturated_fatty_acid
+http://www.wikidata.org/entity/Q15046450,cis-2-decenoic acid,https://en.wikipedia.org/wiki/Cis-2-Decenoic_acid
+http://www.wikidata.org/entity/Q15426256,2-isopropylmalic acid,https://en.wikipedia.org/wiki/Isopropylmalic_acid
+http://www.wikidata.org/entity/Q17104620,2-decenedioic acid,https://en.wikipedia.org/wiki/2-Decenedioic_acid
+http://www.wikidata.org/entity/Q17143538,heptatriacontanoic acid,https://en.wikipedia.org/wiki/Heptatriacontanoic_acid
+http://www.wikidata.org/entity/Q3497407,fluorocitric acid,https://en.wikipedia.org/wiki/Fluorocitric_acid
+http://www.wikidata.org/entity/Q3544981,mesaconic acid,https://en.wikipedia.org/wiki/Mesaconic_acid
+http://www.wikidata.org/entity/Q3544709,volatile fatty acids,https://en.wikipedia.org/wiki/Volatile_fatty_acids
+http://www.wikidata.org/entity/Q5161163,conjugated fatty acid,https://en.wikipedia.org/wiki/Conjugated_fatty_acid
+http://www.wikidata.org/entity/Q5287252,docosanedioic acid,https://en.wikipedia.org/wiki/Docosanedioic_acid
+http://www.wikidata.org/entity/Q5287812,dodecanedioic acid,https://en.wikipedia.org/wiki/Dodecanedioic_acid
+http://www.wikidata.org/entity/Q7835820,traumatic acid,https://en.wikipedia.org/wiki/Traumatic_acid
+http://www.wikidata.org/entity/Q104853122,pentenoic acid,https://en.wikipedia.org/wiki/Pentenoic_acid
+http://www.wikidata.org/entity/Q107186791,secondary amino acid,https://en.wikipedia.org/wiki/Secondary_amino_acid
+http://www.wikidata.org/entity/Q123670941,dithiocarboxylic acid,https://en.wikipedia.org/wiki/Dithiocarboxylic_acid
+http://www.wikidata.org/entity/Q124649382,telluromethionine,https://en.wikipedia.org/wiki/Telluromethionine
+http://www.wikidata.org/entity/Q16844123,boletocrocin,https://en.wikipedia.org/wiki/Boletocrocin
+http://www.wikidata.org/entity/Q16920322,triferulic acid,https://en.wikipedia.org/wiki/Triferulic_acid
+http://www.wikidata.org/entity/Q17020487,Haloacetic acids,https://en.wikipedia.org/wiki/Haloacetic_acids
+http://www.wikidata.org/entity/Q17052328,ritalinic acid,https://en.wikipedia.org/wiki/Ritalinic_acid
+http://www.wikidata.org/entity/Q18207160,5-fluoroorotic acid,https://en.wikipedia.org/wiki/5-Fluoroorotic_acid
+http://www.wikidata.org/entity/Q18207933,6-hydroxykynurenic acid,https://en.wikipedia.org/wiki/6-Hydroxykynurenic_acid
+http://www.wikidata.org/entity/Q18347446,"2,4,5-trihydroxycinnamic acid","https://en.wikipedia.org/wiki/2,4,5-Trihydroxycinnamic_acid"
+http://www.wikidata.org/entity/Q18387473,penicilloic acid,https://en.wikipedia.org/wiki/Penicilloic_acid
+http://www.wikidata.org/entity/Q19596784,7-deoxyloganetic acid,https://en.wikipedia.org/wiki/7-Deoxyloganetic_acid
+http://www.wikidata.org/entity/Q19596786,7-deoxyloganic acid,https://en.wikipedia.org/wiki/7-Deoxyloganic_acid
+http://www.wikidata.org/entity/Q19596736,dasolampanel,https://en.wikipedia.org/wiki/Dasolampanel
+http://www.wikidata.org/entity/Q19597767,loganic acid,https://en.wikipedia.org/wiki/Loganic_acid
+http://www.wikidata.org/entity/Q19903002,coumalic acid,https://en.wikipedia.org/wiki/Coumalic_acid
+http://www.wikidata.org/entity/Q19903968,divinylether fatty acids,https://en.wikipedia.org/wiki/Divinylether_fatty_acids
+http://www.wikidata.org/entity/Q20707039,modafinil acid,https://en.wikipedia.org/wiki/Modafinil_acid
+http://www.wikidata.org/entity/Q23637400,timonacic,https://en.wikipedia.org/wiki/Thioproline
+http://www.wikidata.org/entity/Q25323780,aminonaphthalenesulfonic acids,https://en.wikipedia.org/wiki/Aminonaphthalenesulfonic_acids
+http://www.wikidata.org/entity/Q26841253,D-phenylalanine,https://en.wikipedia.org/wiki/D-Phenylalanine
+http://www.wikidata.org/entity/Q27073605,"3,5-dihydroxyphenylglycine",https://en.wikipedia.org/wiki/Dihydroxyphenylglycine
+http://www.wikidata.org/entity/Q27144068,hexadecanedioic acid,https://en.wikipedia.org/wiki/Thapsic_acid
+http://www.wikidata.org/entity/Q27160094,3-chloro-DL-alanine,https://en.wikipedia.org/wiki/Chloroalanine
+http://www.wikidata.org/entity/Q27163205,2-methylsuccinic acid,https://en.wikipedia.org/wiki/2-Methylsuccinic_acid
+http://www.wikidata.org/entity/Q27255762,agaricic acid,https://en.wikipedia.org/wiki/Agaric_acid
+http://www.wikidata.org/entity/Q27273898,roccellic acid,https://en.wikipedia.org/wiki/Roccellic_acid
+http://www.wikidata.org/entity/Q56278207,ulonic acid,https://en.wikipedia.org/wiki/Ulonic_acid
+http://www.wikidata.org/entity/Q60764204,methylhippuric acid,https://en.wikipedia.org/wiki/Methylhippuric_acid
+http://www.wikidata.org/entity/Q64137604,"(E/Z)-3,4-dimethoxycinnamic acid","https://en.wikipedia.org/wiki/3,4-Dimethoxycinnamic_acid"
+http://www.wikidata.org/entity/Q71573087,sulfur-containing amino acid,https://en.wikipedia.org/wiki/Sulfur_amino_acid
+http://www.wikidata.org/entity/Q18216,aspirin,https://en.wikipedia.org/wiki/Aspirin
+http://www.wikidata.org/entity/Q27295171,desmeninol,https://en.wikipedia.org/wiki/2-Hydroxy-4-(methylthio)butyric_acid
+http://www.wikidata.org/entity/Q53124145,Auricolic acid,https://en.wikipedia.org/wiki/Auricolic_acid
+http://www.wikidata.org/entity/Q191700,benzoic acid,https://en.wikipedia.org/wiki/Benzoic_acid
+http://www.wikidata.org/entity/Q209457,α-ketobutyric acid,https://en.wikipedia.org/wiki/%CE%91-Ketobutyric_acid
+http://www.wikidata.org/entity/Q15410154,3-hydroxyoctanoic acid,https://en.wikipedia.org/wiki/3-Hydroxyoctanoic_acid
+http://www.wikidata.org/entity/Q15410162,"3,10-dihydroxydecanoic acid","https://en.wikipedia.org/wiki/3,10-Dihydroxydecanoic_acid"
+http://www.wikidata.org/entity/Q27162385,kermesic acid,https://en.wikipedia.org/wiki/Kermesic_acid
+http://www.wikidata.org/entity/Q4897299,beta hydroxy acid,https://en.wikipedia.org/wiki/Beta_hydroxycarboxylic_acid
+http://www.wikidata.org/entity/Q66370552,(RS)-AMPA,https://en.wikipedia.org/wiki/AMPA
+http://www.wikidata.org/entity/Q7030579,nicotinic acid,https://en.wikipedia.org/wiki/Niacin
+http://www.wikidata.org/entity/Q7090045,omega hydroxy acid,https://en.wikipedia.org/wiki/Omega_hydroxy_acid
+http://www.wikidata.org/entity/Q72486653,3-(N-methylamino)-L-alanine,https://en.wikipedia.org/wiki/%CE%92-Methylamino-L-alanine
+http://www.wikidata.org/entity/Q82893675,(-)-methylenolactocin,https://en.wikipedia.org/wiki/Methylenolactocin
+http://www.wikidata.org/entity/Q2823203,2-aminomuconic semialdehyde,https://en.wikipedia.org/wiki/2-Aminomuconic_semialdehyde
+http://www.wikidata.org/entity/Q3289251,12-oxo-trans-10-dodecenoic acid,https://en.wikipedia.org/wiki/Traumatin
+http://www.wikidata.org/entity/Q409692,3-oxobutanoic acid,https://en.wikipedia.org/wiki/Acetoacetic_acid
+http://www.wikidata.org/entity/Q4734905,2-oxovaleric acid,https://en.wikipedia.org/wiki/%CE%91-Ketovaleric_acid
+http://www.wikidata.org/entity/Q6948247,myriocin,https://en.wikipedia.org/wiki/Myriocin
+http://www.wikidata.org/entity/Q903322,levulinic acid,https://en.wikipedia.org/wiki/Levulinic_acid
+http://www.wikidata.org/entity/Q213580,pyruvic acid,https://en.wikipedia.org/wiki/Pyruvic_acid
+http://www.wikidata.org/entity/Q229924,4-aminosalicylic acid,https://en.wikipedia.org/wiki/4-Aminosalicylic_acid
+http://www.wikidata.org/entity/Q347337,balsalazide,https://en.wikipedia.org/wiki/Balsalazide
+http://www.wikidata.org/entity/Q347621,olsalazine,https://en.wikipedia.org/wiki/Olsalazine
+http://www.wikidata.org/entity/Q412479,mesalazine,https://en.wikipedia.org/wiki/Mesalazine
+http://www.wikidata.org/entity/Q420035,sulfasalazine,https://en.wikipedia.org/wiki/Sulfasalazine
+http://www.wikidata.org/entity/Q734078,mellitic acid,https://en.wikipedia.org/wiki/Mellitic_acid
+http://www.wikidata.org/entity/Q310919,β-alanine,https://en.wikipedia.org/wiki/%CE%92-Alanine
+http://www.wikidata.org/entity/Q410352,gabapentin,https://en.wikipedia.org/wiki/Gabapentin
+http://www.wikidata.org/entity/Q419559,phenibut,https://en.wikipedia.org/wiki/Phenibut
+http://www.wikidata.org/entity/Q4369,"N,N-dimethylglycine",https://en.wikipedia.org/wiki/Dimethylglycine
+http://www.wikidata.org/entity/Q201502,punicic acid,https://en.wikipedia.org/wiki/Punicic_acid
+http://www.wikidata.org/entity/Q207688,oleic acid,https://en.wikipedia.org/wiki/Oleic_acid
+http://www.wikidata.org/entity/Q191756,omega-3 fatty acid,https://en.wikipedia.org/wiki/Omega%E2%88%923_fatty_acid
+http://www.wikidata.org/entity/Q2013941,D-octopine,https://en.wikipedia.org/wiki/Octopine
+http://www.wikidata.org/entity/Q422627,lauric acid,https://en.wikipedia.org/wiki/Lauric_acid
+http://www.wikidata.org/entity/Q253746,sulfanilic acid,https://en.wikipedia.org/wiki/Sulfanilic_acid
+http://www.wikidata.org/entity/Q305963,omega-9 fatty acid,https://en.wikipedia.org/wiki/Omega%E2%88%929_fatty_acid
+http://www.wikidata.org/entity/Q256502,alpha-linolenic acid,https://en.wikipedia.org/wiki/%CE%91-Linolenic_acid
+http://www.wikidata.org/entity/Q27109362,D-alloisoleucine,https://en.wikipedia.org/wiki/Alloisoleucine
+http://www.wikidata.org/entity/Q407426,linoleic acid,https://en.wikipedia.org/wiki/Linoleic_acid
+http://www.wikidata.org/entity/Q324628,acrylic acid,https://en.wikipedia.org/wiki/Acrylic_acid
+http://www.wikidata.org/entity/Q407131,sorbic acid,https://en.wikipedia.org/wiki/Sorbic_acid
+http://www.wikidata.org/entity/Q306246,omega-6 fatty acid,https://en.wikipedia.org/wiki/Omega%E2%88%926_fatty_acid
+http://www.wikidata.org/entity/Q2823297,(Z)-parinaric acid,https://en.wikipedia.org/wiki/%CE%91-Parinaric_acid
+http://www.wikidata.org/entity/Q2823302,pinolenic acid,https://en.wikipedia.org/wiki/Pinolenic_acid
+http://www.wikidata.org/entity/Q2823304,sapienic acid,https://en.wikipedia.org/wiki/Sapienic_acid
+http://www.wikidata.org/entity/Q3487540,(2E)-3-methylhex-2-enoic acid,https://en.wikipedia.org/wiki/Trans-3-Methyl-2-hexenoic_acid
+http://www.wikidata.org/entity/Q4351606,"all-cis-docosa-7,10,13,16-tetraenoic acid",https://en.wikipedia.org/wiki/Docosatetraenoic_acid
+http://www.wikidata.org/entity/Q4381113,(2E)-geranic acid,https://en.wikipedia.org/wiki/Geranic_acid
+http://www.wikidata.org/entity/Q4864674,eicosatetraenoic acid,https://en.wikipedia.org/wiki/Eicosatetraenoic_acid
+http://www.wikidata.org/entity/Q4947574,Bosseopentaenoic acid,https://en.wikipedia.org/wiki/Bosseopentaenoic_acid
+http://www.wikidata.org/entity/Q5516412,gadoleic acid,https://en.wikipedia.org/wiki/Gadoleic_acid
+http://www.wikidata.org/entity/Q4352015,omega-7 fatty acid,https://en.wikipedia.org/wiki/Omega%E2%88%927_fatty_acid
+http://www.wikidata.org/entity/Q407699,arachidonic acid,https://en.wikipedia.org/wiki/Arachidonic_acid
+http://www.wikidata.org/entity/Q407680,icosanoid,https://en.wikipedia.org/wiki/Eicosanoid
+http://www.wikidata.org/entity/Q409990,eicosapentaenoic acid,https://en.wikipedia.org/wiki/Eicosapentaenoic_acid
+http://www.wikidata.org/entity/Q413491,elaidic acid,https://en.wikipedia.org/wiki/Elaidic_acid
+http://www.wikidata.org/entity/Q413531,erucic acid,https://en.wikipedia.org/wiki/Erucic_acid
+http://www.wikidata.org/entity/Q414231,nervonic acid,https://en.wikipedia.org/wiki/Nervonic_acid
+http://www.wikidata.org/entity/Q415398,dihomo-γ-linolenic acid,https://en.wikipedia.org/wiki/Dihomo-%CE%B3-linolenic_acid
+http://www.wikidata.org/entity/Q415885,gamolenic acid,https://en.wikipedia.org/wiki/%CE%93-Linolenic_acid
+http://www.wikidata.org/entity/Q416618,gondoic acid,https://en.wikipedia.org/wiki/11-Eicosenoic_acid
+http://www.wikidata.org/entity/Q419047,trans-vaccenic acid,https://en.wikipedia.org/wiki/Vaccenic_acid
+http://www.wikidata.org/entity/Q420346,undecylenic acid,https://en.wikipedia.org/wiki/Undecylenic_acid
+http://www.wikidata.org/entity/Q420731,melissic acid,https://en.wikipedia.org/wiki/Melissic_acid
+http://www.wikidata.org/entity/Q422590,behenic acid,https://en.wikipedia.org/wiki/Behenic_acid
+http://www.wikidata.org/entity/Q422634,lignoceric acid,https://en.wikipedia.org/wiki/Lignoceric_acid
+http://www.wikidata.org/entity/Q423345,docosahexaenoic acid,https://en.wikipedia.org/wiki/Docosahexaenoic_acid
+http://www.wikidata.org/entity/Q15410992,"but-1-ene-1,2,4-tricarboxylic acid",https://en.wikipedia.org/wiki/Homoaconitic_acid
+http://www.wikidata.org/entity/Q18391807,neranic acid,https://en.wikipedia.org/wiki/Nerolic_acid
+http://www.wikidata.org/entity/Q24063589,nisinic acid,https://en.wikipedia.org/wiki/Nisinic_acid
+http://www.wikidata.org/entity/Q24954474,"(13Z,16Z)-docosadienoic acid",https://en.wikipedia.org/wiki/Docosadienoic_acid
+http://www.wikidata.org/entity/Q25305049,epoxyeicosatetraenoic acid,https://en.wikipedia.org/wiki/Epoxyeicosatetraenoic_acid
+http://www.wikidata.org/entity/Q25350050,"dihydroxy-E,Z,E-PUFA",https://en.wikipedia.org/wiki/Poxytrin
+http://www.wikidata.org/entity/Q25402866,"(11Z,14Z)-icosadienoic acid",https://en.wikipedia.org/wiki/Eicosadienoic_acid
+http://www.wikidata.org/entity/Q27103903,stearolic acid,https://en.wikipedia.org/wiki/Stearolic_acid
+http://www.wikidata.org/entity/Q27109859,laballenic acid,https://en.wikipedia.org/wiki/Laballenic_acid
+http://www.wikidata.org/entity/Q27114930,cetoleic acid,https://en.wikipedia.org/wiki/Cetoleic_acid
+http://www.wikidata.org/entity/Q27117795,lamenallenic acid,https://en.wikipedia.org/wiki/Lamenallenic_acid
+http://www.wikidata.org/entity/Q27114909,obtusilic acid,https://en.wikipedia.org/wiki/Obtusilic_acid
+http://www.wikidata.org/entity/Q116408019,octadecatetraenoic acid,https://en.wikipedia.org/wiki/Octadecatetraenoic_acid
+http://www.wikidata.org/entity/Q161249,DL-lactic acid,https://en.wikipedia.org/wiki/Lactic_acid
+http://www.wikidata.org/entity/Q27104120,N-formyl-L-kynurenine,https://en.wikipedia.org/wiki/N%27-Formylkynurenine
+http://www.wikidata.org/entity/Q27895463,L-iduronic acid,https://en.wikipedia.org/wiki/Iduronic_acid
+http://www.wikidata.org/entity/Q57741566,(+)-L-alliin,https://en.wikipedia.org/wiki/Alliin
+http://www.wikidata.org/entity/Q27109936,trifluoroacetate ion,https://en.wikipedia.org/wiki/Trifluoroacetate
+http://www.wikidata.org/entity/Q1422618,metanilic acid,https://en.wikipedia.org/wiki/Metanilic_acid
+http://www.wikidata.org/entity/Q1674400,isocrotonic acid,https://en.wikipedia.org/wiki/Isocrotonic_acid
+http://www.wikidata.org/entity/Q614708,tariric acid,https://en.wikipedia.org/wiki/Tariric_acid
+http://www.wikidata.org/entity/Q646902,catalpic acid,https://en.wikipedia.org/wiki/Catalpic_acid
+http://www.wikidata.org/entity/Q903348,cerotic acid,https://en.wikipedia.org/wiki/Cerotic_acid
+http://www.wikidata.org/entity/Q911196,montanic acid,https://en.wikipedia.org/wiki/Montanic_acid
+http://www.wikidata.org/entity/Q47512,acetic acid,https://en.wikipedia.org/wiki/Acetic_acid
+http://www.wikidata.org/entity/Q58221,myristoleic acid,https://en.wikipedia.org/wiki/Myristoleic_acid
+http://www.wikidata.org/entity/Q184832,oxalic acid,https://en.wikipedia.org/wiki/Oxalic_acid
+http://www.wikidata.org/entity/Q193213,butyric acid,https://en.wikipedia.org/wiki/Butyric_acid
+http://www.wikidata.org/entity/Q209685,stearic acid,https://en.wikipedia.org/wiki/Stearic_acid
+http://www.wikidata.org/entity/Q239598,methylmalonic acid,https://en.wikipedia.org/wiki/Methylmalonic_acid
+http://www.wikidata.org/entity/Q409373,hydroxyacetic acid,https://en.wikipedia.org/wiki/Glycolic_acid
+http://www.wikidata.org/entity/Q412293,(RS)-mandelic acid,https://en.wikipedia.org/wiki/Mandelic_acid
+http://www.wikidata.org/entity/Q2031743,orthanilic acid,https://en.wikipedia.org/wiki/Orthanilic_acid
+http://www.wikidata.org/entity/Q2080732,petroselinic acid,https://en.wikipedia.org/wiki/Petroselinic_acid
+http://www.wikidata.org/entity/Q2235989,4-chlorobenzoic acid,https://en.wikipedia.org/wiki/4-Chlorobenzoic_acid
+http://www.wikidata.org/entity/Q2707986,paullinic acid,https://en.wikipedia.org/wiki/Paullinic_acid
+http://www.wikidata.org/entity/Q2712733,α-eleostearic acid,https://en.wikipedia.org/wiki/%CE%91-Eleostearic_acid
+http://www.wikidata.org/entity/Q2739877,moroctic acid,https://en.wikipedia.org/wiki/Stearidonic_acid
+http://www.wikidata.org/entity/Q209727,palmitic acid,https://en.wikipedia.org/wiki/Palmitic_acid
+http://www.wikidata.org/entity/Q407796,valeric acid,https://en.wikipedia.org/wiki/Valeric_acid
+http://www.wikidata.org/entity/Q2119927,pyridinedicarboxylic acids,https://en.wikipedia.org/wiki/Pyridinedicarboxylic_acid
+http://www.wikidata.org/entity/Q2252158,muconic acid,https://en.wikipedia.org/wiki/Muconic_acid
+http://www.wikidata.org/entity/Q2823225,4-maleylacetoacetic acid,https://en.wikipedia.org/wiki/4-Maleylacetoacetic_acid
+http://www.wikidata.org/entity/Q421972,malonic acid,https://en.wikipedia.org/wiki/Malonic_acid
+http://www.wikidata.org/entity/Q849769,tarenflurbil,https://en.wikipedia.org/wiki/Tarenflurbil
+http://www.wikidata.org/entity/Q408984,terephthalic acid,https://en.wikipedia.org/wiki/Terephthalic_acid
+http://www.wikidata.org/entity/Q409608,arachidic acid,https://en.wikipedia.org/wiki/Arachidic_acid
+http://www.wikidata.org/entity/Q412366,palmitoleic acid,https://en.wikipedia.org/wiki/Palmitoleic_acid
+http://www.wikidata.org/entity/Q2823242,β-eleostearic acid,https://en.wikipedia.org/wiki/%CE%92-Eleostearic_acid
+http://www.wikidata.org/entity/Q2823208,2-chlorobenzoic acid,https://en.wikipedia.org/wiki/2-Chlorobenzoic_acid
+http://www.wikidata.org/entity/Q2823210,3-chlorobenzoic acid,https://en.wikipedia.org/wiki/3-Chlorobenzoic_acid
+http://www.wikidata.org/entity/Q2823277,linolelaidic acid,https://en.wikipedia.org/wiki/Linolelaidic_acid
+http://www.wikidata.org/entity/Q73403125,ionomycin,https://en.wikipedia.org/wiki/Ionomycin
+http://www.wikidata.org/entity/Q415062,2-methylpropanoic acid,https://en.wikipedia.org/wiki/Isobutyric_acid
+http://www.wikidata.org/entity/Q415253,isophthalic acid,https://en.wikipedia.org/wiki/Isophthalic_acid
+http://www.wikidata.org/entity/Q415536,isovaleric acid,https://en.wikipedia.org/wiki/Isovaleric_acid
+http://www.wikidata.org/entity/Q422658,myristic acid,https://en.wikipedia.org/wiki/Myristic_acid
+http://www.wikidata.org/entity/Q192464,levoleucovorin,https://en.wikipedia.org/wiki/Levoleucovorin
+http://www.wikidata.org/entity/Q192553,levomefolic acid,https://en.wikipedia.org/wiki/Levomefolic_acid
+http://www.wikidata.org/entity/Q297592,heptanoic acid,https://en.wikipedia.org/wiki/Enanthic_acid
+http://www.wikidata.org/entity/Q409013,chloroacetic acid,https://en.wikipedia.org/wiki/Chloroacetic_acid
+http://www.wikidata.org/entity/Q412597,nonadecanoic acid,https://en.wikipedia.org/wiki/Nonadecylic_acid
+http://www.wikidata.org/entity/Q412814,malvalic acid,https://en.wikipedia.org/wiki/Malvalic_acid
+http://www.wikidata.org/entity/Q412845,dichloroacetic acid,https://en.wikipedia.org/wiki/Dichloroacetic_acid
+http://www.wikidata.org/entity/Q415768,L-kynurenine,https://en.wikipedia.org/wiki/Kynurenine
+http://www.wikidata.org/entity/Q416375,iodoacetic acid,https://en.wikipedia.org/wiki/Iodoacetic_acid
+http://www.wikidata.org/entity/Q418951,pentadecanoic acid,https://en.wikipedia.org/wiki/Pentadecylic_acid
+http://www.wikidata.org/entity/Q10502411,benzenedicarboxylic acid,https://en.wikipedia.org/wiki/Benzenedicarboxylic_acid
+http://www.wikidata.org/entity/Q18349096,3-maleylpyruvic acid,https://en.wikipedia.org/wiki/3-Maleylpyruvic_acid
+http://www.wikidata.org/entity/Q18351121,iminoaspartic acid,https://en.wikipedia.org/wiki/Iminosuccinic_acid
+http://www.wikidata.org/entity/Q19597515,homophthalic acid,https://en.wikipedia.org/wiki/Homophthalic_acid
+http://www.wikidata.org/entity/Q27898000,hexuronic acids,https://en.wikipedia.org/wiki/Hexuronic_acid
+http://www.wikidata.org/entity/Q2823257,dihydroxymalonic acid,https://en.wikipedia.org/wiki/Dihydroxymalonic_acid
+http://www.wikidata.org/entity/Q2823263,transglutaconic acid,https://en.wikipedia.org/wiki/Glutaconic_acid
+http://www.wikidata.org/entity/Q45435667,folinic acid,https://en.wikipedia.org/wiki/Folinic_acid
+http://www.wikidata.org/entity/Q4566861,camphoric acid,https://en.wikipedia.org/wiki/Camphoric_acid
+http://www.wikidata.org/entity/Q5122804,citraconic acid,https://en.wikipedia.org/wiki/Citraconic_acid
+http://www.wikidata.org/entity/Q5508538,4-fumarylacetoacetic acid,https://en.wikipedia.org/wiki/Fumarylacetoacetic_acid
+http://www.wikidata.org/entity/Q27135627,"(2E,4Z)-2-hydroxy-6-oxohexa-2,4-dienoic acid",https://en.wikipedia.org/wiki/2-Hydroxymuconate_semialdehyde
+http://www.wikidata.org/entity/Q27147124,ximenic acid,https://en.wikipedia.org/wiki/Ximenic_acid
+http://www.wikidata.org/entity/Q27156397,"(5Z,11Z,14Z,17Z)-icosatetraenoic acid",https://en.wikipedia.org/wiki/Juniperonic_acid
+http://www.wikidata.org/entity/Q27156395,sciadonic acid,https://en.wikipedia.org/wiki/Sciadonic_acid
+http://www.wikidata.org/entity/Q27158924,"(5Z,9Z,12Z,15Z)-octadecatetraenoic acid",https://en.wikipedia.org/wiki/Coniferonic_acid
+http://www.wikidata.org/entity/Q27252306,helenynolic acid,https://en.wikipedia.org/wiki/Helenynolic_acid
+http://www.wikidata.org/entity/Q27252602,lumequeic acid,https://en.wikipedia.org/wiki/Lumequeic_acid
+http://www.wikidata.org/entity/Q27281476,isanic acid,https://en.wikipedia.org/wiki/Isanic_acid
+http://www.wikidata.org/entity/Q27280625,xymenynic acid,https://en.wikipedia.org/wiki/Ximenynic_acid
+http://www.wikidata.org/entity/Q51910154,Hiragonic acid,https://en.wikipedia.org/wiki/Hiragonic_acid
+http://www.wikidata.org/entity/Q52159094,"(5Z,9Z)-octadeca-5,9-dienoic acid",https://en.wikipedia.org/wiki/Taxoleic_acid
+http://www.wikidata.org/entity/Q55078361,Exocarpic acid,https://en.wikipedia.org/wiki/Exocarpic_acid
+http://www.wikidata.org/entity/Q56881034,Phlomic acid,https://en.wikipedia.org/wiki/Phlomic_acid
+http://www.wikidata.org/entity/Q61738980,monounsaturated fatty acid,https://en.wikipedia.org/wiki/Monounsaturated_fat
+http://www.wikidata.org/entity/Q419857,tridecanoic acid,https://en.wikipedia.org/wiki/Tridecylic_acid
+http://www.wikidata.org/entity/Q421323,bromoacetic acid,https://en.wikipedia.org/wiki/Bromoacetic_acid
+http://www.wikidata.org/entity/Q422597,caproic acid,https://en.wikipedia.org/wiki/Caproic_acid
+http://www.wikidata.org/entity/Q423814,succimer,https://en.wikipedia.org/wiki/Succimer
+http://www.wikidata.org/entity/Q209384,2-ethylhexanoic acid,https://en.wikipedia.org/wiki/2-Ethylhexanoic_acid
+http://www.wikidata.org/entity/Q423876,phthalic acid,https://en.wikipedia.org/wiki/Phthalic_acid
+http://www.wikidata.org/entity/Q47459238,(2S)-10-formyltetrahydropteroyl-ξ-glutamic acid,https://en.wikipedia.org/wiki/10-Formyltetrahydrofolate
+http://www.wikidata.org/entity/Q56696202,conjugated linoleic acid,https://en.wikipedia.org/wiki/Conjugated_linoleic_acid
+http://www.wikidata.org/entity/Q2823202,2-aminomuconic acid,https://en.wikipedia.org/wiki/2-Aminomuconic_acid
+http://www.wikidata.org/entity/Q2823251,ceroplastic acid,https://en.wikipedia.org/wiki/Ceroplastic_acid
+http://www.wikidata.org/entity/Q2823259,lacceroic acid,https://en.wikipedia.org/wiki/Lacceroic_acid
+http://www.wikidata.org/entity/Q425988,undecanoic acid,https://en.wikipedia.org/wiki/Undecylic_acid
+http://www.wikidata.org/entity/Q902204,margaric acid,https://en.wikipedia.org/wiki/Margaric_acid
+http://www.wikidata.org/entity/Q911218,henicosanoic acid,https://en.wikipedia.org/wiki/Heneicosylic_acid
+http://www.wikidata.org/entity/Q134658,nicotinic acid,https://en.wikipedia.org/wiki/Nicotinic_acid
+http://www.wikidata.org/entity/Q410198,L-ornithine,https://en.wikipedia.org/wiki/Ornithine
+http://www.wikidata.org/entity/Q70080387,heneicosanedioic acid,https://en.wikipedia.org/wiki/Japanic_acid
+http://www.wikidata.org/entity/Q72459634,"1,4-cyclohexanedicarboxylic acid","https://en.wikipedia.org/wiki/1,4-Cyclohexanedicarboxylic_acid"
+http://www.wikidata.org/entity/Q82224779,triacontanedioic acid,https://en.wikipedia.org/wiki/Equisetolic_acid
+http://www.wikidata.org/entity/Q82220199,"2,3-pentadienedioic acid","https://en.wikipedia.org/wiki/Penta-2,3-dienedioic_acid"
+http://www.wikidata.org/entity/Q240642,valproic acid,https://en.wikipedia.org/wiki/Valproate
+http://www.wikidata.org/entity/Q409564,caprylic acid,https://en.wikipedia.org/wiki/Caprylic_acid
+http://www.wikidata.org/entity/Q421509,pivalic acid,https://en.wikipedia.org/wiki/Pivalic_acid
+http://www.wikidata.org/entity/Q2823321,geddic acid,https://en.wikipedia.org/wiki/Geddic_acid
+http://www.wikidata.org/entity/Q2823265,hentriacontylic acid,https://en.wikipedia.org/wiki/Hentriacontylic_acid
+http://www.wikidata.org/entity/Q2823267,hexatriacontanoic acid,https://en.wikipedia.org/wiki/Hexatriacontylic_acid
+http://www.wikidata.org/entity/Q2823315,psyllic acid,https://en.wikipedia.org/wiki/Psyllic_acid
+http://www.wikidata.org/entity/Q3109309,glutamate-1-semialdehyde,https://en.wikipedia.org/wiki/Glutamate-1-semialdehyde
+http://www.wikidata.org/entity/Q4348644,pentacosanoic acid,https://en.wikipedia.org/wiki/Pentacosylic_acid
+http://www.wikidata.org/entity/Q4463035,tricosanoic acid,https://en.wikipedia.org/wiki/Tricosylic_acid
+http://www.wikidata.org/entity/Q2057079,pristanic acid,https://en.wikipedia.org/wiki/Pristanic_acid
+http://www.wikidata.org/entity/Q422613,capric acid,https://en.wikipedia.org/wiki/Capric_acid
+http://www.wikidata.org/entity/Q424260,(±)-tianeptine,https://en.wikipedia.org/wiki/Tianeptine
+http://www.wikidata.org/entity/Q903353,"(Z)-2,3-dimethylacrylic acid",https://en.wikipedia.org/wiki/Angelic_acid
+http://www.wikidata.org/entity/Q1075213,chlorobenzoic acid,https://en.wikipedia.org/wiki/Chlorobenzoic_acid
+http://www.wikidata.org/entity/Q131377298,trichlorobenzoic acid,https://en.wikipedia.org/wiki/Trichlorobenzoic_acid
+http://www.wikidata.org/entity/Q15634013,flestolol,https://en.wikipedia.org/wiki/Flestolol
+http://www.wikidata.org/entity/Q1641923,amylocaine,https://en.wikipedia.org/wiki/Amylocaine
+http://www.wikidata.org/entity/Q1675143,trimellitic anhydride,https://en.wikipedia.org/wiki/Trimellitic_anhydride
+http://www.wikidata.org/entity/Q18349093,3-fumarylpyruvic acid,https://en.wikipedia.org/wiki/3-Fumarylpyruvic_acid
+http://www.wikidata.org/entity/Q1993961,nitrobenzoic acids,https://en.wikipedia.org/wiki/Nitrobenzoic_acid
+http://www.wikidata.org/entity/Q24901874,branched chain fatty acids,https://en.wikipedia.org/wiki/Branched-chain_fatty_acid
+http://www.wikidata.org/entity/Q27087639,monomethyl fumarate,https://en.wikipedia.org/wiki/Monomethyl_fumarate
+http://www.wikidata.org/entity/Q27103665,L-guluronic acid,https://en.wikipedia.org/wiki/Guluronic_acid
+http://www.wikidata.org/entity/Q27263314,(2E)-9-oxo-2-decenoic acid,https://en.wikipedia.org/wiki/9-Oxodecenoic_acid
+http://www.wikidata.org/entity/Q424484,ricinoleic acid,https://en.wikipedia.org/wiki/Ricinoleic_acid
+http://www.wikidata.org/entity/Q55608732,cyclopropane fatty acid,https://en.wikipedia.org/wiki/Cyclopropane_fatty_acid
+http://www.wikidata.org/entity/Q62575111,nebraskanic acid,https://en.wikipedia.org/wiki/Nebraskanic_acid
+http://www.wikidata.org/entity/Q62602940,wuhanic acid,https://en.wikipedia.org/wiki/Wuhanic_acid
+http://www.wikidata.org/entity/Q76280924,maleylacetic acid,https://en.wikipedia.org/wiki/Maleylacetic_acid
+http://www.wikidata.org/entity/Q82776831,ketoisanic acid,https://en.wikipedia.org/wiki/Ketoisanic_acid
+http://www.wikidata.org/entity/Q83006091,hypogeic acid,https://en.wikipedia.org/wiki/Hypogeic_acid
+http://www.wikidata.org/entity/Q98523577,decenoic acid,https://en.wikipedia.org/wiki/Decenoic_acid
+http://www.wikidata.org/entity/Q15410999,heptacosanoic acid,https://en.wikipedia.org/wiki/Carboceric_acid
+http://www.wikidata.org/entity/Q15425769,nonacosanoic acid,https://en.wikipedia.org/wiki/Nonacosylic_acid
+http://www.wikidata.org/entity/Q24188398,"(2S,2′S)-homocystine",https://en.wikipedia.org/wiki/Homocystine
+http://www.wikidata.org/entity/Q27270997,octatriacontanoic acid,https://en.wikipedia.org/wiki/Octatriacontanoic_acid
+http://www.wikidata.org/entity/Q47008475,olibanic acid,https://en.wikipedia.org/wiki/Olibanic_acid
+http://www.wikidata.org/entity/Q1241221,m-toluic acid,https://en.wikipedia.org/wiki/M-Toluic_acid
+http://www.wikidata.org/entity/Q1607905,p-toluic acid,https://en.wikipedia.org/wiki/P-Toluic_acid
+http://www.wikidata.org/entity/Q2001805,trimellitic acid,https://en.wikipedia.org/wiki/Trimellitic_acid
+http://www.wikidata.org/entity/Q410703,3-iodo-L-tyrosine,https://en.wikipedia.org/wiki/3-Iodotyrosine
+http://www.wikidata.org/entity/Q421091,levocetirizine,https://en.wikipedia.org/wiki/Levocetirizine
+http://www.wikidata.org/entity/Q981152,"1,3,5-benzenetricarboxylic acid",https://en.wikipedia.org/wiki/Trimesic_acid
+http://www.wikidata.org/entity/Q10395557,danshensu,https://en.wikipedia.org/wiki/Danshensu
+http://www.wikidata.org/entity/Q209412,2-hydroxyglutaric acid,https://en.wikipedia.org/wiki/%CE%91-Hydroxyglutaric_acid
+http://www.wikidata.org/entity/Q209410,(2S)-2-hydroxy-2-methyl-3-oxobutanoic acid,https://en.wikipedia.org/wiki/Acetolactic_acid
+http://www.wikidata.org/entity/Q223081,beta-hydroxy beta-methylbutyric acid,https://en.wikipedia.org/wiki/%CE%92-Hydroxy_%CE%B2-methylbutyric_acid
+http://www.wikidata.org/entity/Q223045,m-aminobenzoic acid,https://en.wikipedia.org/wiki/3-Aminobenzoic_acid
+http://www.wikidata.org/entity/Q27098122,(-)-citramalic acid,https://en.wikipedia.org/wiki/Citramalic_acid
+http://www.wikidata.org/entity/Q2823313,propane tricarboxylic acid,"https://en.wikipedia.org/wiki/Propane-1,2,3-tricarboxylic_acid"
+http://www.wikidata.org/entity/Q3291707,o-toluic acid,https://en.wikipedia.org/wiki/O-Toluic_acid
+http://www.wikidata.org/entity/Q76512475,4-(L-gamma-glutamylamino)butanoic acid,https://en.wikipedia.org/wiki/4-(%CE%B3-Glutamylamino)butanoic_acid
+http://www.wikidata.org/entity/Q82945122,truxinic acid,https://en.wikipedia.org/wiki/Truxinic_acid
+http://www.wikidata.org/entity/Q223092,3-hydroxybutyric acid,https://en.wikipedia.org/wiki/%CE%92-Hydroxybutyric_acid
+http://www.wikidata.org/entity/Q241678,(R)-mevalonic acid,https://en.wikipedia.org/wiki/Mevalonic_acid
+http://www.wikidata.org/entity/Q284959,4-aminobenzoic acid,https://en.wikipedia.org/wiki/4-Aminobenzoic_acid
+http://www.wikidata.org/entity/Q385140,anthranilic acid,https://en.wikipedia.org/wiki/Anthranilic_acid
+http://www.wikidata.org/entity/Q19597905,isocaproic acid,https://en.wikipedia.org/wiki/Isocaproic_acid
+http://www.wikidata.org/entity/Q20179071,13-methyltetradecanoic acid,https://en.wikipedia.org/wiki/13-Methyltetradecanoic_acid
+http://www.wikidata.org/entity/Q21099640,"(9Z,11E,13S)-13-hydroxyoctadeca-9,11-dienoic acid",https://en.wikipedia.org/wiki/13-Hydroxyoctadecadienoic_acid
+http://www.wikidata.org/entity/Q27104036,4-methyl-3-oxopentanoic acid,https://en.wikipedia.org/wiki/%CE%92-Ketoisocaproic_acid
+http://www.wikidata.org/entity/Q2823217,3-methyl-2-oxobutyric acid,https://en.wikipedia.org/wiki/%CE%91-Ketoisovaleric_acid
+http://www.wikidata.org/entity/Q2823320,tuberculostearic acid,https://en.wikipedia.org/wiki/Tuberculostearic_acid
+http://www.wikidata.org/entity/Q2735617,2-methyllactic acid,https://en.wikipedia.org/wiki/2-Hydroxyisobutyric_acid
+http://www.wikidata.org/entity/Q2753252,resolvin,https://en.wikipedia.org/wiki/Resolvin
+http://www.wikidata.org/entity/Q2823199,"2,3-dihydroxy-3-methylpentanoic acid","https://en.wikipedia.org/wiki/2,3-Dihydroxy-3-methylpentanoic_acid"
+http://www.wikidata.org/entity/Q414506,mycolic acids,https://en.wikipedia.org/wiki/Mycolic_acid
+http://www.wikidata.org/entity/Q668093,atorvastatin,https://en.wikipedia.org/wiki/Atorvastatin
+http://www.wikidata.org/entity/Q952532,3-hydroxy-3-methyl-5-phosphonooxypentanoic acid,https://en.wikipedia.org/wiki/Phosphomevalonic_acid
+http://www.wikidata.org/entity/Q16682752,hydroxycinnamic acid,https://en.wikipedia.org/wiki/Hydroxycinnamic_acid
+http://www.wikidata.org/entity/Q21099651,"9-hydroxy-10,12-octadecadienoic acid",https://en.wikipedia.org/wiki/9-Hydroxyoctadecadienoic_acid
+http://www.wikidata.org/entity/Q27093738,isochorismic acid,https://en.wikipedia.org/wiki/Isochorismic_acid
+http://www.wikidata.org/entity/Q2823268,(+/-)-hydnocarpic acid,https://en.wikipedia.org/wiki/Hydnocarpic_acid
+http://www.wikidata.org/entity/Q2823275,lactobacillic acid,https://en.wikipedia.org/wiki/Lactobacillic_acid
+http://www.wikidata.org/entity/Q411945,quinolinic acid,https://en.wikipedia.org/wiki/Quinolinic_acid
+http://www.wikidata.org/entity/Q4716536,aleuritic acid,https://en.wikipedia.org/wiki/Aleuritic_acid
+http://www.wikidata.org/entity/Q77250128,chaulmoogric acid,https://en.wikipedia.org/wiki/Chaulmoogric_acid
+http://www.wikidata.org/entity/Q207920,4-hydroxybutyric acid,https://en.wikipedia.org/wiki/%CE%93-Hydroxybutyric_acid
+http://www.wikidata.org/entity/Q3325795,D-xylonic acid,https://en.wikipedia.org/wiki/Xylonic_acid
+http://www.wikidata.org/entity/Q15425812,3-hydroxydecanoic acid,https://en.wikipedia.org/wiki/Myrmicacin
+http://www.wikidata.org/entity/Q16908844,10-hydroxydecenoic acid,https://en.wikipedia.org/wiki/Queen_bee_acid
+http://www.wikidata.org/entity/Q17037730,DL-leucic acid,https://en.wikipedia.org/wiki/2-Hydroxyisocaproic_acid
+http://www.wikidata.org/entity/Q17119410,4-hydroxy-2-oxopentanoic acid,https://en.wikipedia.org/wiki/4-Hydroxy-2-oxopentanoic_acid
+http://www.wikidata.org/entity/Q18343392,10-hydroxydecanoic acid,https://en.wikipedia.org/wiki/10-Hydroxydecanoic_acid
+http://www.wikidata.org/entity/Q27105168,minquartynoic acid,https://en.wikipedia.org/wiki/Minquartynoic_acid
+http://www.wikidata.org/entity/Q27124231,16-hydroxypalmitic acid,https://en.wikipedia.org/wiki/Juniperic_acid
+http://www.wikidata.org/entity/Q2823220,3-hydroxypropionic acid,https://en.wikipedia.org/wiki/3-Hydroxypropionic_acid
+http://www.wikidata.org/entity/Q3288610,(RS)-2-hydroxybutyric acid,https://en.wikipedia.org/wiki/2-Hydroxybutyric_acid
+http://www.wikidata.org/entity/Q5520261,(RS)-4-hydroxyvaleric acid,https://en.wikipedia.org/wiki/%CE%93-Hydroxyvaleric_acid
+http://www.wikidata.org/entity/Q6531411,Lesquerolic acid,https://en.wikipedia.org/wiki/Lesquerolic_acid
+http://www.wikidata.org/entity/Q199678,vitamin C,https://en.wikipedia.org/wiki/Vitamin_C
+http://www.wikidata.org/entity/Q209717,prostaglandins,https://en.wikipedia.org/wiki/Prostaglandin
+http://www.wikidata.org/entity/Q374897,"2,4,6-trihydroxybenzoic acid",https://en.wikipedia.org/wiki/Phloroglucinol_carboxylic_acid
+http://www.wikidata.org/entity/Q375837,gallic acid,https://en.wikipedia.org/wiki/Gallic_acid
+http://www.wikidata.org/entity/Q193598,DL-ascorbic acid,https://en.wikipedia.org/wiki/Chemistry_of_ascorbic_acid
+http://www.wikidata.org/entity/Q26840982,"2,3,6-trichlorobenzoic acid","https://en.wikipedia.org/wiki/2,3,6-Trichlorobenzoic_acid"
+http://www.wikidata.org/entity/Q27104142,"2,4-dichlorobenzoic acid","https://en.wikipedia.org/wiki/2,4-Dichlorobenzoic_acid"
+http://www.wikidata.org/entity/Q5383831,epoxyeicosatrienoic acid,https://en.wikipedia.org/wiki/Epoxyeicosatrienoic_acid
+http://www.wikidata.org/entity/Q17177300,"docosa-7,10,13,16,19-pentaenoic acid",https://en.wikipedia.org/wiki/Docosapentaenoic_acid
+http://www.wikidata.org/entity/Q2823198,12S-HETE,https://en.wikipedia.org/wiki/12-Hydroxyeicosatetraenoic_acid
+http://www.wikidata.org/entity/Q412212,thromboxane,https://en.wikipedia.org/wiki/Thromboxane
+http://www.wikidata.org/entity/Q424190,leukotriene,https://en.wikipedia.org/wiki/Leukotriene
+http://www.wikidata.org/entity/Q5382392,epi-lipoxin,https://en.wikipedia.org/wiki/Epi-lipoxin
+http://www.wikidata.org/entity/Q7049212,nonclassic eicosanoid,https://en.wikipedia.org/wiki/Nonclassic_eicosanoid
+http://www.wikidata.org/entity/Q7115727,oxoeicosanoid,https://en.wikipedia.org/wiki/Oxoeicosanoid
+http://www.wikidata.org/entity/Q962217,prostanoids,https://en.wikipedia.org/wiki/Prostanoid
+http://www.wikidata.org/entity/Q193572,salicylic acid,https://en.wikipedia.org/wiki/Salicylic_acid
+http://www.wikidata.org/entity/Q209206,"2,4-dihydroxybenzoic acid","https://en.wikipedia.org/wiki/2,4-Dihydroxybenzoic_acid"
+http://www.wikidata.org/entity/Q229970,4-hydroxybenzoic acid,https://en.wikipedia.org/wiki/4-Hydroxybenzoic_acid
+http://www.wikidata.org/entity/Q2823200,"2,3-dihydroxy benzoic acid","https://en.wikipedia.org/wiki/2,3-Dihydroxybenzoic_acid"
+http://www.wikidata.org/entity/Q2823216,3-hydroxybenzoic acid,https://en.wikipedia.org/wiki/3-Hydroxybenzoic_acid
+http://www.wikidata.org/entity/Q408428,syringic acid,https://en.wikipedia.org/wiki/Syringic_acid
+http://www.wikidata.org/entity/Q417831,gentisic acid,https://en.wikipedia.org/wiki/Gentisic_acid
+http://www.wikidata.org/entity/Q418599,"3,4-dihydroxybenzoic acid",https://en.wikipedia.org/wiki/Protocatechuic_acid
+http://www.wikidata.org/entity/Q425463,oxylipin,https://en.wikipedia.org/wiki/Oxylipin
+http://www.wikidata.org/entity/Q4596804,"2,6-dihydroxybenzoic acid","https://en.wikipedia.org/wiki/2,6-Dihydroxybenzoic_acid"
+http://www.wikidata.org/entity/Q284757,rumenic acid,https://en.wikipedia.org/wiki/Rumenic_acid
+http://www.wikidata.org/entity/Q414207,crotonic acid,https://en.wikipedia.org/wiki/Crotonic_acid
+http://www.wikidata.org/entity/Q416610,mead acid,https://en.wikipedia.org/wiki/Mead_acid
+http://www.wikidata.org/entity/Q58387329,(2R)-2-methylpent-4-enoic acid,https://en.wikipedia.org/wiki/(2R)-2-Methylpent-4-enoic_acid
+http://www.wikidata.org/entity/Q164785,(E)-cinnamic acid,https://en.wikipedia.org/wiki/Cinnamic_acid
+http://www.wikidata.org/entity/Q2823246,calendic acid,https://en.wikipedia.org/wiki/Calendic_acid
+http://www.wikidata.org/entity/Q2823276,jacaric acid,https://en.wikipedia.org/wiki/Jacaric_acid
+http://www.wikidata.org/entity/Q4062664,cis-cinnamic acid,https://en.wikipedia.org/wiki/Allocinnamic_acid
+http://www.wikidata.org/entity/Q7922031,cis-(-)-vernolic acid,https://en.wikipedia.org/wiki/Vernolic_acid
+http://www.wikidata.org/entity/Q2139543,tafluprost,https://en.wikipedia.org/wiki/Tafluprost
+http://www.wikidata.org/entity/Q2193376,travoprost,https://en.wikipedia.org/wiki/Travoprost
+http://www.wikidata.org/entity/Q416567,prostaglandin H2,https://en.wikipedia.org/wiki/Prostaglandin_H2
+http://www.wikidata.org/entity/Q419750,prostaglandin D2,https://en.wikipedia.org/wiki/Prostaglandin_D2
+http://www.wikidata.org/entity/Q421375,prostaglandin F2α,https://en.wikipedia.org/wiki/Prostaglandin_F2alpha
+http://www.wikidata.org/entity/Q634959,latanoprost,https://en.wikipedia.org/wiki/Latanoprost
+http://www.wikidata.org/entity/Q19835971,PGG2,https://en.wikipedia.org/wiki/Prostaglandin_G2
+http://www.wikidata.org/entity/Q22004571,prostanoic acid,https://en.wikipedia.org/wiki/Prostanoic_acid
+http://www.wikidata.org/entity/Q2393348,bimatoprost,https://en.wikipedia.org/wiki/Bimatoprost
+http://www.wikidata.org/entity/Q25324000,prostamide,https://en.wikipedia.org/wiki/Prostamide
+http://www.wikidata.org/entity/Q4198767,isoprostane,https://en.wikipedia.org/wiki/Isoprostane
+http://www.wikidata.org/entity/Q4860325,prostaglandin E,https://en.wikipedia.org/wiki/Prostaglandin_E
+http://www.wikidata.org/entity/Q4859684,unoprostone,https://en.wikipedia.org/wiki/Unoprostone
+http://www.wikidata.org/entity/Q5038067,carboprost,https://en.wikipedia.org/wiki/Carboprost
+http://www.wikidata.org/entity/Q19597084,eoxin A4,https://en.wikipedia.org/wiki/Eoxin_A4
+http://www.wikidata.org/entity/Q19597085,eoxin C4,https://en.wikipedia.org/wiki/Eoxin_C4
+http://www.wikidata.org/entity/Q19597086,eoxin D4,https://en.wikipedia.org/wiki/Eoxin_D4
+http://www.wikidata.org/entity/Q19597087,eoxin E4,https://en.wikipedia.org/wiki/Eoxin_E4
+http://www.wikidata.org/entity/Q2704449,leukotriene B4,https://en.wikipedia.org/wiki/Leukotriene_B4
+http://www.wikidata.org/entity/Q2704310,leukotriene c4,https://en.wikipedia.org/wiki/Leukotriene_C4
+http://www.wikidata.org/entity/Q2705859,leukotriene E4,https://en.wikipedia.org/wiki/Leukotriene_E4
+http://www.wikidata.org/entity/Q3024044,leukotriene a4,https://en.wikipedia.org/wiki/Leukotriene_A4
+http://www.wikidata.org/entity/Q774909,thromboxane a2,https://en.wikipedia.org/wiki/Thromboxane_A2
+http://www.wikidata.org/entity/Q113955678,fulgidic acid,https://en.wikipedia.org/wiki/Corchorifatty_acid_F
+http://www.wikidata.org/entity/Q20817139,iloprost,https://en.wikipedia.org/wiki/Iloprost
+http://www.wikidata.org/entity/Q3495231,treprostinil,https://en.wikipedia.org/wiki/Treprostinil
+http://www.wikidata.org/entity/Q55643223,neuroprostanes,https://en.wikipedia.org/wiki/Neuroprostanes
+http://www.wikidata.org/entity/Q647917,leukotriene D4,https://en.wikipedia.org/wiki/Leukotriene_D4
+http://www.wikidata.org/entity/Q10910417,coumaric acid,https://en.wikipedia.org/wiki/Coumaric_acid
+http://www.wikidata.org/entity/Q1640403,monohydroxybenzoic acid,https://en.wikipedia.org/wiki/Monohydroxybenzoic_acid
+http://www.wikidata.org/entity/Q19904078,eoxin,https://en.wikipedia.org/wiki/Eoxin
+http://www.wikidata.org/entity/Q21099593,12-hydroxyheptadecatrienoic acid,https://en.wikipedia.org/wiki/12-Hydroxyheptadecatrienoic_acid
+http://www.wikidata.org/entity/Q21099561,15S-HETE,https://en.wikipedia.org/wiki/15-Hydroxyeicosatetraenoic_acid
+http://www.wikidata.org/entity/Q21099666,20-HETE,https://en.wikipedia.org/wiki/20-Hydroxyeicosatetraenoic_acid
+http://www.wikidata.org/entity/Q2345401,sterculic acid,https://en.wikipedia.org/wiki/Sterculic_acid
+http://www.wikidata.org/entity/Q25323762,5-oxo-eicosatetraenoic acid,https://en.wikipedia.org/wiki/5-Oxo-eicosatetraenoic_acid
+http://www.wikidata.org/entity/Q27294979,18-fluorooleic acid,https://en.wikipedia.org/wiki/Fluorooleic_acid
+http://www.wikidata.org/entity/Q2823230,5S-HETE,https://en.wikipedia.org/wiki/5-Hydroxyeicosatetraenoic_acid
+http://www.wikidata.org/entity/Q2823231,5S-HPETE,https://en.wikipedia.org/wiki/Arachidonic_acid_5-hydroperoxide
+http://www.wikidata.org/entity/Q377202,trihydroxybenzoic acid,https://en.wikipedia.org/wiki/Trihydroxybenzoic_acid
+http://www.wikidata.org/entity/Q4329,LXB4,https://en.wikipedia.org/wiki/Lipoxin
+http://www.wikidata.org/entity/Q4634089,"3,5-dihydroxybenzoic acid","https://en.wikipedia.org/wiki/3,5-Dihydroxybenzoic_acid"
+http://www.wikidata.org/entity/Q6085696,isofuran,https://en.wikipedia.org/wiki/Isofuran
+http://www.wikidata.org/entity/Q913364,dihydroxybenzoic acid,https://en.wikipedia.org/wiki/Dihydroxybenzoic_acid

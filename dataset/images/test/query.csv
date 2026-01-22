@@ -1,0 +1,987 @@
+compound,compoundLabel,image
+http://www.wikidata.org/entity/Q5276437,dihydrolipoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Dihydrolipoic-acid.svg
+http://www.wikidata.org/entity/Q5279100,diodone,http://commons.wikimedia.org/wiki/Special:FilePath/Diodone.svg
+http://www.wikidata.org/entity/Q5332352,(−)-ecgonidine,http://commons.wikimedia.org/wiki/Special:FilePath/Ecgonidine.png
+http://www.wikidata.org/entity/Q5376118,Endiandric acid C,http://commons.wikimedia.org/wiki/Special:FilePath/Endiandric%20acid%20C.svg
+http://www.wikidata.org/entity/Q5383934,Epristeride,http://commons.wikimedia.org/wiki/Special:FilePath/Epristeride.svg
+http://www.wikidata.org/entity/Q5435335,farinomalein,http://commons.wikimedia.org/wiki/Special:FilePath/Farinomalein.svg
+http://www.wikidata.org/entity/Q5459999,flomoxef,http://commons.wikimedia.org/wiki/Special:FilePath/Flomoxef.png
+http://www.wikidata.org/entity/Q5509477,furantetracarboxylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Furantetracarboxylic%20acid.svg
+http://www.wikidata.org/entity/Q5514388,GR-113808,http://commons.wikimedia.org/wiki/Special:FilePath/GR-113808%20structure.png
+http://www.wikidata.org/entity/Q5515280,gabazine bromide,http://commons.wikimedia.org/wiki/Special:FilePath/Gabazine.svg
+http://www.wikidata.org/entity/Q5519727,(-)-gambogic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Gambogic%20acid.svg
+http://www.wikidata.org/entity/Q5520039,gamendazole,http://commons.wikimedia.org/wiki/Special:FilePath/Gamendazole.svg
+http://www.wikidata.org/entity/Q5533206,geniposidic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Geniposidic%20acid.svg
+http://www.wikidata.org/entity/Q5613765,3-guanidinopropionic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Guanidinopropionic%20acid.svg
+http://www.wikidata.org/entity/Q5635434,HOCPCA,http://commons.wikimedia.org/wiki/Special:FilePath/3-hydroxycyclopent-1-enecarboxylic%20acid.svg
+http://www.wikidata.org/entity/Q5697238,hederagenin,http://commons.wikimedia.org/wiki/Special:FilePath/Hederagenin.svg
+http://www.wikidata.org/entity/Q5732020,perfluorobutanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Heptafluorobutyric%20acid.png
+http://www.wikidata.org/entity/Q5948038,enoxolone,http://commons.wikimedia.org/wiki/Special:FilePath/Glycyrrhetinic%20acid%20structure.svg
+http://www.wikidata.org/entity/Q6015615,indacrinone,http://commons.wikimedia.org/wiki/Special:FilePath/Indacrinone.svg
+http://www.wikidata.org/entity/Q6062805,iomazenil i-123,http://commons.wikimedia.org/wiki/Special:FilePath/123I-Iomazenil.svg
+http://www.wikidata.org/entity/Q6085784,isoguvacine,http://commons.wikimedia.org/wiki/Special:FilePath/Isoguvacine.png
+http://www.wikidata.org/entity/Q6587055,tyropanic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Tyropanoic%20acid.png
+http://www.wikidata.org/entity/Q6703005,lumacaftor,http://commons.wikimedia.org/wiki/Special:FilePath/Lumacaftor%20skeletal.svg
+http://www.wikidata.org/entity/Q6841079,Midafotel,http://commons.wikimedia.org/wiki/Special:FilePath/CPPene.svg
+http://www.wikidata.org/entity/Q6913266,moronic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Moronic%20acid%20structure.png
+http://www.wikidata.org/entity/Q7116606,ozolinone,http://commons.wikimedia.org/wiki/Special:FilePath/Ozolinone-structure.png
+http://www.wikidata.org/entity/Q7118494,5-[(1-phenylcyclohexyl)amino]pentanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/PCAA.svg
+http://www.wikidata.org/entity/Q7168161,perfluorononanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Perfluorononanoic%20acid.svg
+http://www.wikidata.org/entity/Q7180977,phaseic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Phaseic%20acid.svg
+http://www.wikidata.org/entity/Q7181437,phenylpropiolic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Phenylpropiolic%20acid.png
+http://www.wikidata.org/entity/Q7197959,Pirenoxine,http://commons.wikimedia.org/wiki/Special:FilePath/Pirenoxine.svg
+http://www.wikidata.org/entity/Q7272100,quinclorac,http://commons.wikimedia.org/wiki/Special:FilePath/Quinclorac.svg
+http://www.wikidata.org/entity/Q7313544,rentiapril,http://commons.wikimedia.org/wiki/Special:FilePath/Rentiapril.svg
+http://www.wikidata.org/entity/Q7341121,robenacoxib,http://commons.wikimedia.org/wiki/Special:FilePath/Robenacoxib.svg
+http://www.wikidata.org/entity/Q7388901,SB 204070,http://commons.wikimedia.org/wiki/Special:FilePath/SB%20204070.svg
+http://www.wikidata.org/entity/Q7448341,selfotel,http://commons.wikimedia.org/wiki/Special:FilePath/Selfotel.svg
+http://www.wikidata.org/entity/Q7667802,T-HCA,http://commons.wikimedia.org/wiki/Special:FilePath/Trans-4-hydroxycrotonic%20acid.svg
+http://www.wikidata.org/entity/Q7675206,Tagetitoxin,http://commons.wikimedia.org/wiki/Special:FilePath/Tagetitoxin.svg
+http://www.wikidata.org/entity/Q7705411,tesaglitazar,http://commons.wikimedia.org/wiki/Special:FilePath/Tesaglitazar.png
+http://www.wikidata.org/entity/Q7708612,tezampanel,http://commons.wikimedia.org/wiki/Special:FilePath/Tezampanel.svg
+http://www.wikidata.org/entity/Q7838676,trepibutone,http://commons.wikimedia.org/wiki/Special:FilePath/Trepibutone.png
+http://www.wikidata.org/entity/Q7912587,valproate pivoxil,http://commons.wikimedia.org/wiki/Special:FilePath/Valproate%20pivoxil.png
+http://www.wikidata.org/entity/Q7915613,varespladib,http://commons.wikimedia.org/wiki/Special:FilePath/Varespladib.svg
+http://www.wikidata.org/entity/Q7917921,vedaprofen,http://commons.wikimedia.org/wiki/Special:FilePath/Vedaprofen.svg
+http://www.wikidata.org/entity/Q8064324,zafuleptine,http://commons.wikimedia.org/wiki/Special:FilePath/Zafuleptine.png
+http://www.wikidata.org/entity/Q9159393,arecaidine,http://commons.wikimedia.org/wiki/Special:FilePath/Arecaidine.svg
+http://www.wikidata.org/entity/Q10395593,nitroformic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Nitroformic%20acid.png
+http://www.wikidata.org/entity/Q10528967,hydroxy acid,http://commons.wikimedia.org/wiki/Special:FilePath/Hydroxycarboxylic%20acids%20Structural%20Formulae%20V.1.svg
+http://www.wikidata.org/entity/Q10843651,methallenestril,http://commons.wikimedia.org/wiki/Special:FilePath/Methallenestril.png
+http://www.wikidata.org/entity/Q10844268,2-ethylbutyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-Ethylbutanoic%20acid.svg
+http://www.wikidata.org/entity/Q10858037,Methylecgonidine,http://commons.wikimedia.org/wiki/Special:FilePath/Methylecgonidine.png
+http://www.wikidata.org/entity/Q10859486,3-hydroxypicolinic acid,http://commons.wikimedia.org/wiki/Special:FilePath/3%20hydroxypicolinic%20acid.svg
+http://www.wikidata.org/entity/Q10860656,tuataric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Tuataric%20acid.svg
+http://www.wikidata.org/entity/Q12747279,"UK-414,495",http://commons.wikimedia.org/wiki/Special:FilePath/UK-414%2C495%20structure.png
+http://www.wikidata.org/entity/Q13416874,fluroxypyr,http://commons.wikimedia.org/wiki/Special:FilePath/Fluroxypyr.svg
+http://www.wikidata.org/entity/Q15043334,Berkelic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Berkelic%20acid.svg
+http://www.wikidata.org/entity/Q15269693,saroglitazar,http://commons.wikimedia.org/wiki/Special:FilePath/Saroglitazar%20skeletal.svg
+http://www.wikidata.org/entity/Q15322708,guvacine,http://commons.wikimedia.org/wiki/Special:FilePath/Guvacine%20Structural%20Formula%20V1.svg
+http://www.wikidata.org/entity/Q15405288,9-carboxymethoxymethylguanine,http://commons.wikimedia.org/wiki/Special:FilePath/CMMG%20structure.png
+http://www.wikidata.org/entity/Q15410159,"(E)-3,4-dimethoxycinnamic acid",http://commons.wikimedia.org/wiki/Special:FilePath/3%2C4-Dimethoxycinnamic%20acid.svg
+http://www.wikidata.org/entity/Q15410873,citromycetin,http://commons.wikimedia.org/wiki/Special:FilePath/Citromycetin.svg
+http://www.wikidata.org/entity/Q15411014,glycidic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Glycidic%20acid.svg
+http://www.wikidata.org/entity/Q15425289,pencolide,http://commons.wikimedia.org/wiki/Special:FilePath/Pencolide%20Structure.svg
+http://www.wikidata.org/entity/Q15425832,methylenolactocin,http://commons.wikimedia.org/wiki/Special:FilePath/Methylenolactocin.png
+http://www.wikidata.org/entity/Q15426267,Isocupressic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Isocupressic%20acid.svg
+http://www.wikidata.org/entity/Q15427847,sterpuric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Sterpuric%20acid.svg
+http://www.wikidata.org/entity/Q15633960,acifran,http://commons.wikimedia.org/wiki/Special:FilePath/Acifran.svg
+http://www.wikidata.org/entity/Q18207160,5-fluoroorotic acid,http://commons.wikimedia.org/wiki/Special:FilePath/5-Fluoroorotic%20acid.svg
+http://www.wikidata.org/entity/Q18207933,6-hydroxykynurenic acid,http://commons.wikimedia.org/wiki/Special:FilePath/6-hydroxykynurenic%20acid.svg
+http://www.wikidata.org/entity/Q18347446,"2,4,5-trihydroxycinnamic acid",http://commons.wikimedia.org/wiki/Special:FilePath/2%2C4%2C5-Trihydroxycinnamic%20acid.svg
+http://www.wikidata.org/entity/Q18387473,penicilloic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Penicilloic%20acid.svg
+http://www.wikidata.org/entity/Q19596736,dasolampanel,http://commons.wikimedia.org/wiki/Special:FilePath/Dasolampanel.svg
+http://www.wikidata.org/entity/Q19596784,7-deoxyloganetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/7-Deoxyloganetic%20acid.svg
+http://www.wikidata.org/entity/Q19596786,7-deoxyloganic acid,http://commons.wikimedia.org/wiki/Special:FilePath/7-Deoxyloganic%20acid.svg
+http://www.wikidata.org/entity/Q19597767,loganic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Loganic%20acid.svg
+http://www.wikidata.org/entity/Q19903002,coumalic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Coumalic%20acid.svg
+http://www.wikidata.org/entity/Q20707039,modafinil acid,http://commons.wikimedia.org/wiki/Special:FilePath/Modafinil%20acid.svg
+http://www.wikidata.org/entity/Q424699,potassium biphthalate,http://commons.wikimedia.org/wiki/Special:FilePath/Potassium-hydrogen-phthalate-2D-skeletal.png
+http://www.wikidata.org/entity/Q424951,MCPB,http://commons.wikimedia.org/wiki/Special:FilePath/4-%284-chloro-2-methylphenoxy%29butanoic%20acid%20200.svg
+http://www.wikidata.org/entity/Q424951,MCPB,http://commons.wikimedia.org/wiki/Special:FilePath/MCPB.png
+http://www.wikidata.org/entity/Q425536,orotic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Orotic%20acid.svg
+http://www.wikidata.org/entity/Q553129,evacetrapib,http://commons.wikimedia.org/wiki/Special:FilePath/Evacetrapib.svg
+http://www.wikidata.org/entity/Q579348,alprostadil,http://commons.wikimedia.org/wiki/Special:FilePath/Alprostadil.svg
+http://www.wikidata.org/entity/Q660090,letosteine,http://commons.wikimedia.org/wiki/Special:FilePath/Letosteine.png
+http://www.wikidata.org/entity/Q663909,phenylglyoxylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Phenylglyoxalic%20acid.png
+http://www.wikidata.org/entity/Q695611,amlexanox,http://commons.wikimedia.org/wiki/Special:FilePath/Amlexanox.svg
+http://www.wikidata.org/entity/Q851897,bevirimat,http://commons.wikimedia.org/wiki/Special:FilePath/Bevirimat.svg
+http://www.wikidata.org/entity/Q867350,cilazapril,http://commons.wikimedia.org/wiki/Special:FilePath/Cilazapril%20structure.svg
+http://www.wikidata.org/entity/Q905703,fusaric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Fusaric%20acid.svg
+http://www.wikidata.org/entity/Q907219,tiagabine,http://commons.wikimedia.org/wiki/Special:FilePath/Tiagabine.svg
+http://www.wikidata.org/entity/Q929420,trandolapril,http://commons.wikimedia.org/wiki/Special:FilePath/Trandolapril%20structure.svg
+http://www.wikidata.org/entity/Q965999,alclofenac,http://commons.wikimedia.org/wiki/Special:FilePath/Alclofenac.png
+http://www.wikidata.org/entity/Q1007138,gabaculine,http://commons.wikimedia.org/wiki/Special:FilePath/Gabaculine.svg
+http://www.wikidata.org/entity/Q1041804,imidapril,http://commons.wikimedia.org/wiki/Special:FilePath/Imidapril%20structure.png
+http://www.wikidata.org/entity/Q1146963,cyanoacetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Cyanoacetic%20acid.svg
+http://www.wikidata.org/entity/Q1240093,pravastatin,http://commons.wikimedia.org/wiki/Special:FilePath/Pravastatin.svg
+http://www.wikidata.org/entity/Q1500226,pulvinic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Pulvinic%20acid.svg
+http://www.wikidata.org/entity/Q1542107,lithium formate,http://commons.wikimedia.org/wiki/Special:FilePath/Lithium%20formate.svg
+http://www.wikidata.org/entity/Q1907191,maslinic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Maslinic-acid-structure.png
+http://www.wikidata.org/entity/Q1981622,pendetide,http://commons.wikimedia.org/wiki/Special:FilePath/Pendetide%20structure.svg
+http://www.wikidata.org/entity/Q2044136,alpha-cyano-4-hydroxycinnamic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Alpha-cyano-4-hydroxycinnamic%20acid.svg
+http://www.wikidata.org/entity/Q2069698,pectic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Pectic%20acid.svg
+http://www.wikidata.org/entity/Q2104314,narasin,http://commons.wikimedia.org/wiki/Special:FilePath/Narasin.png
+http://www.wikidata.org/entity/Q2188539,clopyralid,http://commons.wikimedia.org/wiki/Special:FilePath/3%2C6-dichloropicolinic%20acid%20200.svg
+http://www.wikidata.org/entity/Q2303660,triclopyr,http://commons.wikimedia.org/wiki/Special:FilePath/Triclopyr%20flach.svg
+http://www.wikidata.org/entity/Q2342544,acipimox,http://commons.wikimedia.org/wiki/Special:FilePath/Acipimox.svg
+http://www.wikidata.org/entity/Q2499888,benzoylecgonine,http://commons.wikimedia.org/wiki/Special:FilePath/Benzoylecgonine-2D-skeletal.png
+http://www.wikidata.org/entity/Q2499888,benzoylecgonine,http://commons.wikimedia.org/wiki/Special:FilePath/Benzoylecgonin.svg
+http://www.wikidata.org/entity/Q2622539,indolebutyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Indole-3-butyric%20acid.svg
+http://www.wikidata.org/entity/Q2622539,indolebutyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Indole-3-butyric%20acid%20structure.svg
+http://www.wikidata.org/entity/Q2635498,elenolic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Elenolic%20acid%20structure.png
+http://www.wikidata.org/entity/Q2823209,methylmalonaldehydic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-methyl-3-oxopropanoic%20acid.png
+http://www.wikidata.org/entity/Q2823218,3-oxovaleric acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-oxopentanoic%20acid.png
+http://www.wikidata.org/entity/Q2823241,benzoquinonetetracarboxylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Benzoquinonetetracarboxylic%20acid.svg
+http://www.wikidata.org/entity/Q2823288,methanetetracarboxylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Methanetetracarboxylic%20acid.svg
+http://www.wikidata.org/entity/Q2823318,(±)-tropic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Tropic%20acid.png
+http://www.wikidata.org/entity/Q2823325,ethylenetetracarboxylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Ethylenetetracarboxylic%20acid.svg
+http://www.wikidata.org/entity/Q2902977,bilastine,http://commons.wikimedia.org/wiki/Special:FilePath/Bilastin.svg
+http://www.wikidata.org/entity/Q2902977,bilastine,http://commons.wikimedia.org/wiki/Special:FilePath/Bilastine.svg
+http://www.wikidata.org/entity/Q3027939,diprogulic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Dikegulac.svg
+http://www.wikidata.org/entity/Q3027939,diprogulic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Diacetonketogulons%C3%A4ure.svg
+http://www.wikidata.org/entity/Q3077510,cesium formate,http://commons.wikimedia.org/wiki/Special:FilePath/Cesium%20formate.svg
+http://www.wikidata.org/entity/Q3092689,fenoprop,http://commons.wikimedia.org/wiki/Special:FilePath/%28%C2%B1%29-Fenoprop%20Structural%20Formula%20V1.svg
+http://www.wikidata.org/entity/Q3143745,hydrogenoxalate,http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogenoxalate.svg
+http://www.wikidata.org/entity/Q3267092,olopatadine,http://commons.wikimedia.org/wiki/Special:FilePath/Olopatadine.svg
+http://www.wikidata.org/entity/Q3323027,imazapyr,http://commons.wikimedia.org/wiki/Special:FilePath/Imazapyr.png
+http://www.wikidata.org/entity/Q3493048,monensin,http://commons.wikimedia.org/wiki/Special:FilePath/Monensin%20A.svg
+http://www.wikidata.org/entity/Q3604498,ajulemic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Ajulemic%20acid%20Structure.svg
+http://www.wikidata.org/entity/Q3604519,diphenolic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Diphenolic%20acid.svg
+http://www.wikidata.org/entity/Q3731252,erdosteine,http://commons.wikimedia.org/wiki/Special:FilePath/Erdosteine.png
+http://www.wikidata.org/entity/Q3746837,(+)-flunoxaprofen,http://commons.wikimedia.org/wiki/Special:FilePath/Flunoxaprofen.png
+http://www.wikidata.org/entity/Q3746837,(+)-flunoxaprofen,http://commons.wikimedia.org/wiki/Special:FilePath/Struktur%20Flunoxaprofen.svg
+http://www.wikidata.org/entity/Q3827439,latamoxef,http://commons.wikimedia.org/wiki/Special:FilePath/Latamoxef.svg
+http://www.wikidata.org/entity/Q3898423,pazufloxacin,http://commons.wikimedia.org/wiki/Special:FilePath/Pazufloxacin.svg
+http://www.wikidata.org/entity/Q3902720,pidotimod,http://commons.wikimedia.org/wiki/Special:FilePath/Pidotimod.png
+http://www.wikidata.org/entity/Q3902720,pidotimod,http://commons.wikimedia.org/wiki/Special:FilePath/Pidotimod.svg
+http://www.wikidata.org/entity/Q4353545,3-phosphonooxypyruvic acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-Phosphonooxypyruvic%20acid.svg
+http://www.wikidata.org/entity/Q4391206,hipposudoric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Hipposudoric%20acid.png
+http://www.wikidata.org/entity/Q4544209,(6S)-6-Fluoroshikimic acid,http://commons.wikimedia.org/wiki/Special:FilePath/%286S%29-6-Fluoroshikimic%20acid.svg
+http://www.wikidata.org/entity/Q4547226,11-nor-9-Carboxy-THC,http://commons.wikimedia.org/wiki/Special:FilePath/11-COOH-THC.svg
+http://www.wikidata.org/entity/Q4602542,succinic semialdehyde,http://commons.wikimedia.org/wiki/Special:FilePath/Succinic%20semialdehyde.png
+http://www.wikidata.org/entity/Q4634124,"3-carboxy-cis,cis-muconic acid",http://commons.wikimedia.org/wiki/Special:FilePath/3-Carboxy-cis%2Ccis-muconic%20acid.svg
+http://www.wikidata.org/entity/Q4637072,4-(4-methylphenyl)-4-oxobutanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/MMePhOxoBuacid.png
+http://www.wikidata.org/entity/Q4637113,4-chlorophenoxyacetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/4-Chlorophenoxyacetic%20acid.png
+http://www.wikidata.org/entity/Q4667980,abitesartan,http://commons.wikimedia.org/wiki/Special:FilePath/Abitesartan.png
+http://www.wikidata.org/entity/Q4673049,aceburic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Aceburicacid.png
+http://www.wikidata.org/entity/Q4673282,acetoxolone,http://commons.wikimedia.org/wiki/Special:FilePath/Acetoxolone.png
+http://www.wikidata.org/entity/Q4726996,cicloxilic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Cicloxilic%20acid.svg
+http://www.wikidata.org/entity/Q4745982,amfonelic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Amfonelic%20acid.png
+http://www.wikidata.org/entity/Q4746469,aminopyralid,http://commons.wikimedia.org/wiki/Special:FilePath/Aminopyralid.svg
+http://www.wikidata.org/entity/Q4746471,5-deoxy-5-aminoshikimic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Aminoshikimic%20acid.png
+http://www.wikidata.org/entity/Q4834614,BAPTA,http://commons.wikimedia.org/wiki/Special:FilePath/BAPTA.svg
+http://www.wikidata.org/entity/Q4941885,bongkrek acid,http://commons.wikimedia.org/wiki/Special:FilePath/Bongkrek%20acid.png
+http://www.wikidata.org/entity/Q4982752,Bucillamine,http://commons.wikimedia.org/wiki/Special:FilePath/Bucillamine.png
+http://www.wikidata.org/entity/Q5032033,candoxatril,http://commons.wikimedia.org/wiki/Special:FilePath/Candoxatril.svg
+http://www.wikidata.org/entity/Q5037845,carbenzide,http://commons.wikimedia.org/wiki/Special:FilePath/Carbenzide.svg
+http://www.wikidata.org/entity/Q5047587,Carvonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Carvonic%20acid.svg
+http://www.wikidata.org/entity/Q5057534,celastrol,http://commons.wikimedia.org/wiki/Special:FilePath/Celastrol.svg
+http://www.wikidata.org/entity/Q5114537,trans-(+)-chrysanthemic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Chrysanthemic%20acid.svg
+http://www.wikidata.org/entity/Q5122816,citrazinic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Citrazinic.png
+http://www.wikidata.org/entity/Q5172198,Coronatine,http://commons.wikimedia.org/wiki/Special:FilePath/Coronatine%20structure.svg
+http://www.wikidata.org/entity/Q5198965,cycloprop-2-ene carboxylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Cycloprop-2-ene%20carboxylic%20acid.png
+http://www.wikidata.org/entity/Q5200280,3-Cyclopentylpropionic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Cypionic%20acid.svg
+http://www.wikidata.org/entity/Q29417,tretinoin,http://commons.wikimedia.org/wiki/Special:FilePath/Tretinoin%20Structure.svg
+http://www.wikidata.org/entity/Q30536,urocanic acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28E%29-3-%281H-imidazol-4-yl%29acrylic%20acid%20200.svg
+http://www.wikidata.org/entity/Q30582,"3-(4-oxo-4,5-dihydro-1H-imidazol-5-yl)propanoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/Imidazol-4-one-5-propionic%20acid.png
+http://www.wikidata.org/entity/Q125083,atrasentan,http://commons.wikimedia.org/wiki/Special:FilePath/Atrasentan.svg
+http://www.wikidata.org/entity/Q148946,dichlorprop,http://commons.wikimedia.org/wiki/Special:FilePath/%28%C2%B1%29-Dichlorprop%20structural%20formulae%20v.1.png
+http://www.wikidata.org/entity/Q149452,(rac)-mecoprop,http://commons.wikimedia.org/wiki/Special:FilePath/Mecoprop.svg
+http://www.wikidata.org/entity/Q155472,valsartan,http://commons.wikimedia.org/wiki/Special:FilePath/Valsartan.svg
+http://www.wikidata.org/entity/Q179894,pantothenic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Pantothenic%20acid.svg
+http://www.wikidata.org/entity/Q181354,biotin,http://commons.wikimedia.org/wiki/Special:FilePath/Biotin%20skeletal.svg
+http://www.wikidata.org/entity/Q186969,ibuprofen,http://commons.wikimedia.org/wiki/Special:FilePath/Ibuprofen.svg
+http://www.wikidata.org/entity/Q186969,ibuprofen,http://commons.wikimedia.org/wiki/Special:FilePath/Ibuprofen2.svg
+http://www.wikidata.org/entity/Q201928,amoxicillin,http://commons.wikimedia.org/wiki/Special:FilePath/Amoxicillin.svg
+http://www.wikidata.org/entity/Q209188,"2,4,5-Trichlorophenoxyacetic acid",http://commons.wikimedia.org/wiki/Special:FilePath/2%2C4%2C5-trichlorophenoxyacetic%20acid.svg
+http://www.wikidata.org/entity/Q209222,"2,4-dichlorophenoxyacetic acid",http://commons.wikimedia.org/wiki/Special:FilePath/2-%282%2C4-dichlorophenoxy%29acetic%20acid%20200.svg
+http://www.wikidata.org/entity/Q209361,2-chloropropionic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-chloropropionic%20acid.png
+http://www.wikidata.org/entity/Q229887,"2,4-DB",http://commons.wikimedia.org/wiki/Special:FilePath/4-%282%2C4-dichlorophenoxy%29butanoic%20acid%20200.svg
+http://www.wikidata.org/entity/Q245489,Trolox,http://commons.wikimedia.org/wiki/Special:FilePath/Trolox.svg
+http://www.wikidata.org/entity/Q257590,prop-2-ynoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Propiolic%20acid.png
+http://www.wikidata.org/entity/Q300902,tris(2-carboxyethyl)phosphine,http://commons.wikimedia.org/wiki/Special:FilePath/Tris%282-carboxyethyl%29phosphine.svg
+http://www.wikidata.org/entity/Q312125,asparagusic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Asparagusic-acid.png
+http://www.wikidata.org/entity/Q312229,(RS)-thioctic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Liponic%20Acid%20Structural%20Formula%20V.2.svg
+http://www.wikidata.org/entity/Q321068,abietic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Abietic%20acid.svg
+http://www.wikidata.org/entity/Q352348,adapalene,http://commons.wikimedia.org/wiki/Special:FilePath/Adapalene.svg
+http://www.wikidata.org/entity/Q384111,betulinic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Betulinic%20acid.svg
+http://www.wikidata.org/entity/Q384295,gemfibrozil,http://commons.wikimedia.org/wiki/Special:FilePath/Gemfibrozil.svg
+http://www.wikidata.org/entity/Q408143,3-(trimethylsilyl)propionic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Trimethylsilylpropanoic%20acid.svg
+http://www.wikidata.org/entity/Q410465,isonicotinic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Isonicotins%C3%A4ure.svg
+http://www.wikidata.org/entity/Q410646,ranelic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Ranelic%20acid.png
+http://www.wikidata.org/entity/Q411588,eltrombopag,http://commons.wikimedia.org/wiki/Special:FilePath/Eltrombopag.svg
+http://www.wikidata.org/entity/Q411909,salinomycin,http://commons.wikimedia.org/wiki/Special:FilePath/Salinomycin.png
+http://www.wikidata.org/entity/Q412050,prostacyclin,http://commons.wikimedia.org/wiki/Special:FilePath/Prostacyclin-2D-skeletal.png
+http://www.wikidata.org/entity/Q412078,carbamic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Carbamic-acid-2D.svg
+http://www.wikidata.org/entity/Q412139,phosphoenolpyruvic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Phosphoenolpyruvic%20acid.svg
+http://www.wikidata.org/entity/Q412208,lisinopril,http://commons.wikimedia.org/wiki/Special:FilePath/Lisinopril%20structure.svg
+http://www.wikidata.org/entity/Q412231,EDDS,http://commons.wikimedia.org/wiki/Special:FilePath/EDDS%20racemic.PNG
+http://www.wikidata.org/entity/Q412666,ramipril,http://commons.wikimedia.org/wiki/Special:FilePath/Ramipril.svg
+http://www.wikidata.org/entity/Q412677,pitavastatin,http://commons.wikimedia.org/wiki/Special:FilePath/Pitavastatin%20structure.png
+http://www.wikidata.org/entity/Q413178,diacerein,http://commons.wikimedia.org/wiki/Special:FilePath/Diacerein.svg
+http://www.wikidata.org/entity/Q413178,diacerein,http://commons.wikimedia.org/wiki/Special:FilePath/Struktur%20Diacerein.svg
+http://www.wikidata.org/entity/Q413552,oxoacetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Glyoxyls%C3%A4ure.svg
+http://www.wikidata.org/entity/Q414042,okadaic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Okadaic%20acid.svg
+http://www.wikidata.org/entity/Q414414,ectoine,http://commons.wikimedia.org/wiki/Special:FilePath/Ectoine%20structural%20formulae%20v.1.png
+http://www.wikidata.org/entity/Q415122,fexofenadine,http://commons.wikimedia.org/wiki/Special:FilePath/Fexofenadine2DCSD.svg
+http://www.wikidata.org/entity/Q415159,rosuvastatin,http://commons.wikimedia.org/wiki/Special:FilePath/Rosuvastatin%20structure.svg
+http://www.wikidata.org/entity/Q415837,lysergic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Lysergic%20acid%20chemical%20structure.svg
+http://www.wikidata.org/entity/Q415970,candesartan,http://commons.wikimedia.org/wiki/Special:FilePath/Candesartan%20structure.svg
+http://www.wikidata.org/entity/Q416260,ursolic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Ursolic%20acid.svg
+http://www.wikidata.org/entity/Q416260,ursolic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Struktur%20Ursols%C3%A4ure.svg
+http://www.wikidata.org/entity/Q416427,cromoglicic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Cromolyn.svg
+http://www.wikidata.org/entity/Q416554,prostaglandin E2,http://commons.wikimedia.org/wiki/Special:FilePath/Prostaglandin%20E2.svg
+http://www.wikidata.org/entity/Q416682,picolinic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Picolinic%20acid.svg
+http://www.wikidata.org/entity/Q416682,picolinic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Picolins%C3%A4ure.svg
+http://www.wikidata.org/entity/Q417296,febuxostat,http://commons.wikimedia.org/wiki/Special:FilePath/Febuxostat%20Structural%20Formulae%20V.1.svg
+http://www.wikidata.org/entity/Q417942,fluvastatin,http://commons.wikimedia.org/wiki/Special:FilePath/Fluvastatin.svg
+http://www.wikidata.org/entity/Q418035,pimaric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Pimaric%20acid.png
+http://www.wikidata.org/entity/Q418035,pimaric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Pimaric%20acid%20structure.svg
+http://www.wikidata.org/entity/Q418348,perfluorooctanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Perfluorooctanoic%20acid.svg
+http://www.wikidata.org/entity/Q418356,potassium formate,http://commons.wikimedia.org/wiki/Special:FilePath/Potassium%20formate.png
+http://www.wikidata.org/entity/Q418356,potassium formate,http://commons.wikimedia.org/wiki/Special:FilePath/Potassium%20formate.svg
+http://www.wikidata.org/entity/Q418628,oleanolic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Oleanolic%20acid.png
+http://www.wikidata.org/entity/Q420028,ecgonine,http://commons.wikimedia.org/wiki/Special:FilePath/Ecgonin%20-%20Ecgonine.svg
+http://www.wikidata.org/entity/Q420082,benoxaprofen,http://commons.wikimedia.org/wiki/Special:FilePath/Benoxaprofen.svg
+http://www.wikidata.org/entity/Q420082,benoxaprofen,http://commons.wikimedia.org/wiki/Special:FilePath/Benoxaprofen%20structure.png
+http://www.wikidata.org/entity/Q420215,fluoroacetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Fluoroacetic%20Acid%20V.1.svg
+http://www.wikidata.org/entity/Q420387,foscarnet,http://commons.wikimedia.org/wiki/Special:FilePath/Foscarnet.svg
+http://www.wikidata.org/entity/Q421119,captopril,http://commons.wikimedia.org/wiki/Special:FilePath/Captopril%20structural%20formulae%20v.1.png
+http://www.wikidata.org/entity/Q421178,porphobilinogen,http://commons.wikimedia.org/wiki/Special:FilePath/Porphobilinogen.png
+http://www.wikidata.org/entity/Q421663,vigabatrin,http://commons.wikimedia.org/wiki/Special:FilePath/Vigabatrin%20Enantiomers%20Structural%20Formulae.png
+http://www.wikidata.org/entity/Q421663,vigabatrin,http://commons.wikimedia.org/wiki/Special:FilePath/Vigabatrin2DCSD.svg
+http://www.wikidata.org/entity/Q422956,propionic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Propionic%20acid%20chemical%20structure.svg
+http://www.wikidata.org/entity/Q422956,propionic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Propions%C3%A4ure%20Keilstrich.svg
+http://www.wikidata.org/entity/Q423393,sulbactam,http://commons.wikimedia.org/wiki/Special:FilePath/Sulbactam.svg
+http://www.wikidata.org/entity/Q423439,cerivastatin,http://commons.wikimedia.org/wiki/Special:FilePath/Cerivastatin.png
+http://www.wikidata.org/entity/Q423787,piperacillin,http://commons.wikimedia.org/wiki/Special:FilePath/Piperacillin.svg
+http://www.wikidata.org/entity/Q124649382,telluromethionine,http://commons.wikimedia.org/wiki/Special:FilePath/L-Telluromethionine.svg
+http://www.wikidata.org/entity/Q8066,amino acid,http://commons.wikimedia.org/wiki/Special:FilePath/Molecular%20structures%20of%20the%2021%20proteinogenic%20amino%20acids.svg
+http://www.wikidata.org/entity/Q183290,L-serine,http://commons.wikimedia.org/wiki/Special:FilePath/L-serine%20sample.jpg
+http://www.wikidata.org/entity/Q410278,barbituric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Sample%20of%20barbituric%20acid.jpg
+http://www.wikidata.org/entity/Q485277,L-histidine,http://commons.wikimedia.org/wiki/Special:FilePath/L-Histidine%20sample.jpg
+http://www.wikidata.org/entity/Q126925404,imido peroxy acid,http://commons.wikimedia.org/wiki/Special:FilePath/Imido%20peroxy%20acid.svg
+http://www.wikidata.org/entity/Q134856,carboxylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Carboxylic-acid.svg
+http://www.wikidata.org/entity/Q170545,phenylalanine,http://commons.wikimedia.org/wiki/Special:FilePath/L-Phenylalanin%20-%20L-Phenylalanine.svg
+http://www.wikidata.org/entity/Q178430,DL-lysine,http://commons.wikimedia.org/wiki/Special:FilePath/Lysin%20-%20Lysine.svg
+http://www.wikidata.org/entity/Q183290,L-serine,http://commons.wikimedia.org/wiki/Special:FilePath/L-Serin%20-%20L-Serine.svg
+http://www.wikidata.org/entity/Q185906,DL-asparagine,http://commons.wikimedia.org/wiki/Special:FilePath/Asparagin%20-%20Asparagine.svg
+http://www.wikidata.org/entity/Q186474,L-Cysteine,http://commons.wikimedia.org/wiki/Special:FilePath/L-Cystein%20-%20L-Cysteine.svg
+http://www.wikidata.org/entity/Q186521,L-threonine,http://commons.wikimedia.org/wiki/Special:FilePath/L-Threonin%20-%20L-Threonine.svg
+http://www.wikidata.org/entity/Q191381,saccharin,http://commons.wikimedia.org/wiki/Special:FilePath/Saccharin.svg
+http://www.wikidata.org/entity/Q218642,L-alanine,http://commons.wikimedia.org/wiki/Special:FilePath/L-Alanin%20-%20L-Alanine.svg
+http://www.wikidata.org/entity/Q223600,creatine,http://commons.wikimedia.org/wiki/Special:FilePath/Creatin.svg
+http://www.wikidata.org/entity/Q223600,creatine,http://commons.wikimedia.org/wiki/Special:FilePath/Creatine%20neutral.png
+http://www.wikidata.org/entity/Q302204,(RS)-glufosin,http://commons.wikimedia.org/wiki/Special:FilePath/Chemical%20structural%20formula%20of%20glufosinate.svg
+http://www.wikidata.org/entity/Q407232,glyphosate,http://commons.wikimedia.org/wiki/Special:FilePath/Glyphosate.svg
+http://www.wikidata.org/entity/Q410278,barbituric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Barbiturs%C3%A4ure.svg
+http://www.wikidata.org/entity/Q411314,cyanuric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Cyanuric%20acid.svg
+http://www.wikidata.org/entity/Q413447,acetylacetone,http://commons.wikimedia.org/wiki/Special:FilePath/Acetylaceton%20-%20Acetylacetone.svg
+http://www.wikidata.org/entity/Q415925,DL-selenomethionine,http://commons.wikimedia.org/wiki/Special:FilePath/Selenomethionine%20without%20Stereochemistry%20V1.svg
+http://www.wikidata.org/entity/Q483745,L-leucine,http://commons.wikimedia.org/wiki/Special:FilePath/L-leucine-skeletal.png
+http://www.wikidata.org/entity/Q483752,L-valine,http://commons.wikimedia.org/wiki/Special:FilePath/L-valine-skeletal.svg
+http://www.wikidata.org/entity/Q484940,L-isoleucine,http://commons.wikimedia.org/wiki/Special:FilePath/L-isoleucine-skeletal.svg
+http://www.wikidata.org/entity/Q485277,L-histidine,http://commons.wikimedia.org/wiki/Special:FilePath/L-Histidin%20-%20L-Histidine.svg
+http://www.wikidata.org/entity/Q620730,glycine,http://commons.wikimedia.org/wiki/Special:FilePath/2-aminoacetic%20acid%20200.svg
+http://www.wikidata.org/entity/Q620730,glycine,http://commons.wikimedia.org/wiki/Special:FilePath/Glycin%20-%20Glycine.svg
+http://www.wikidata.org/entity/Q746380,croconic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Croconic%20acid.svg
+http://www.wikidata.org/entity/Q903298,squaric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Squaric%20acid.svg
+http://www.wikidata.org/entity/Q909931,theanine,http://commons.wikimedia.org/wiki/Special:FilePath/L-Theanine.svg
+http://www.wikidata.org/entity/Q909931,theanine,http://commons.wikimedia.org/wiki/Special:FilePath/Theanine.svg
+http://www.wikidata.org/entity/Q2130929,cyclamic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Cyclamic-acid-2D-skeletal.png
+http://www.wikidata.org/entity/Q2823245,DL-γ-carboxyglutamic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Carboxyglutamic%20acid.svg
+http://www.wikidata.org/entity/Q2823301,rhodizonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Rhodizonic%20acid.svg
+http://www.wikidata.org/entity/Q2930104,beta-lysine,http://commons.wikimedia.org/wiki/Special:FilePath/Beta-lysine.png
+http://www.wikidata.org/entity/Q4030651,3-hydroxyproline,http://commons.wikimedia.org/wiki/Special:FilePath/3-hydroxyproline.svg
+http://www.wikidata.org/entity/Q6823656,DL-methionine (RS)-S-oxide,http://commons.wikimedia.org/wiki/Special:FilePath/Methionine%20sulfoxide.png
+http://www.wikidata.org/entity/Q19367475,aminomethylphosphonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Aminomethylphosphonic%20acid.svg
+http://www.wikidata.org/entity/Q20816880,L-lysine,http://commons.wikimedia.org/wiki/Special:FilePath/L-Lysin%20-%20L-Lysine.svg
+http://www.wikidata.org/entity/Q22124685,L-methionine,http://commons.wikimedia.org/wiki/Special:FilePath/L-Methionin%20-%20L-Methionine.svg
+http://www.wikidata.org/entity/Q23637400,timonacic,http://commons.wikimedia.org/wiki/Special:FilePath/Thiazolidine-4-carboxylic%20acid.svg
+http://www.wikidata.org/entity/Q26841253,D-phenylalanine,http://commons.wikimedia.org/wiki/Special:FilePath/D-Phenylalanine.svg
+http://www.wikidata.org/entity/Q27076990,D-aspartic acid,http://commons.wikimedia.org/wiki/Special:FilePath/D-Aspartic%20acid.svg
+http://www.wikidata.org/entity/Q27109481,DL-aspartic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Asparagins%C3%A4ure%20-%20Aspartic%20acid.svg
+http://www.wikidata.org/entity/Q27117434,2-amino-3-methylpentanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Isoleucin%20-%20Isoleucine.svg
+http://www.wikidata.org/entity/Q27140241,(+/-)-acetylcarnitine,http://commons.wikimedia.org/wiki/Special:FilePath/Acetylcarnitine%20structure.png
+http://www.wikidata.org/entity/Q106345641,isocyanuric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Isocyanuric%20acid.svg
+http://www.wikidata.org/entity/Q123670941,dithiocarboxylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Dithioic-acid-skeletal.svg
+http://www.wikidata.org/entity/Q186969,ibuprofen,http://commons.wikimedia.org/wiki/Special:FilePath/Ibuprofen.svg
+http://www.wikidata.org/entity/Q287029,isotretinoin,http://commons.wikimedia.org/wiki/Special:FilePath/Isotretinoin.svg
+http://www.wikidata.org/entity/Q3611854,alitretinoin,http://commons.wikimedia.org/wiki/Special:FilePath/Alitretinoin2DACS.svg
+http://www.wikidata.org/entity/Q20817236,ecabet,http://commons.wikimedia.org/wiki/Special:FilePath/Ecabet%20sodium.svg
+http://www.wikidata.org/entity/Q21098892,radalbuvir,http://commons.wikimedia.org/wiki/Special:FilePath/Radalbuvir.svg
+http://www.wikidata.org/entity/Q21820633,lesinurad,http://commons.wikimedia.org/wiki/Special:FilePath/Lesinurad.svg
+http://www.wikidata.org/entity/Q27105463,3-butynoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-Butynoic%20acid.svg
+http://www.wikidata.org/entity/Q27117929,"(RS)-2,3-dimethylbutyric acid",http://commons.wikimedia.org/wiki/Special:FilePath/2%2C3-Dimethylbutters%C3%A4ure.svg
+http://www.wikidata.org/entity/Q27266658,tetracontanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Tetracontanoic%20acid.svg
+http://www.wikidata.org/entity/Q27888073,iomazenil,http://commons.wikimedia.org/wiki/Special:FilePath/Iomazenil.svg
+http://www.wikidata.org/entity/Q44822059,amineptine,http://commons.wikimedia.org/wiki/Special:FilePath/Amineptine.svg
+http://www.wikidata.org/entity/Q60764204,methylhippuric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Methylhippuric%20acid.svg
+http://www.wikidata.org/entity/Q65057718,2-iodobutanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-iodobutanoic%20acid.svg
+http://www.wikidata.org/entity/Q82441853,phosphanecarboxylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Phosphinecarboxylic%20acid.svg
+http://www.wikidata.org/entity/Q106786835,carboxylic acid dimer,http://commons.wikimedia.org/wiki/Special:FilePath/Carboxylic%20acid%20dimers.svg
+http://www.wikidata.org/entity/Q139883,(±)-L-alliin,http://commons.wikimedia.org/wiki/Special:FilePath/Alliina.svg
+http://www.wikidata.org/entity/Q181136,DL-glutamic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Glutamins%C3%A4ure%20-%20Glutamic%20acid.svg
+http://www.wikidata.org/entity/Q300989,levodopa,http://commons.wikimedia.org/wiki/Special:FilePath/Levodopa.svg
+http://www.wikidata.org/entity/Q388801,furosemide,http://commons.wikimedia.org/wiki/Special:FilePath/Furosemide.svg
+http://www.wikidata.org/entity/Q408641,L-citrulline,http://commons.wikimedia.org/wiki/Special:FilePath/L-Citrullin2.svg
+http://www.wikidata.org/entity/Q409762,polyacrylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Polyacrylic%20acid%20skeletal.png
+http://www.wikidata.org/entity/Q409762,polyacrylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Polyacrylic%20acid.svg
+http://www.wikidata.org/entity/Q424662,picloram,http://commons.wikimedia.org/wiki/Special:FilePath/4-amino-3%2C5%2C6-trichloropicolinic%20acid%20200.svg
+http://www.wikidata.org/entity/Q3278222,"3,4,5-trimethoxybenzoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/Eudesmins%C3%A4ure.svg
+http://www.wikidata.org/entity/Q15410154,3-hydroxyoctanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-hydroxyoctanoic%20acid.svg
+http://www.wikidata.org/entity/Q15410162,"3,10-dihydroxydecanoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/3%2C10-Dihydroxydecanoic%20acid.svg
+http://www.wikidata.org/entity/Q27071901,hydroxycaprylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Hydroxycapryls%C3%A4ure.svg
+http://www.wikidata.org/entity/Q27102635,"2-hydroxy-3-(3,4-dihydroxyphenyl)propanoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/3-%283%2C4-dihydroxyphenyl%29lactic%20acid.svg
+http://www.wikidata.org/entity/Q27144284,2-chloroacrylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-Chloroacrylic%20acid.svg
+http://www.wikidata.org/entity/Q27162385,kermesic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Structure%20Kermesic%20Acid.svg
+http://www.wikidata.org/entity/Q57741744,DL-alliin,http://commons.wikimedia.org/wiki/Special:FilePath/Alliin%202.svg
+http://www.wikidata.org/entity/Q66370552,(RS)-AMPA,http://commons.wikimedia.org/wiki/Special:FilePath/AMPA.svg
+http://www.wikidata.org/entity/Q82893675,(-)-methylenolactocin,http://commons.wikimedia.org/wiki/Special:FilePath/%28-%29-Methylenolactocin.svg
+http://www.wikidata.org/entity/Q408626,L-cystine,http://commons.wikimedia.org/wiki/Special:FilePath/Amminoacido%20cistina%20formula.svg
+http://www.wikidata.org/entity/Q7226155,polyaspartic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Polyaspartic%20acid.png
+http://www.wikidata.org/entity/Q27254027,L-selenocystine,http://commons.wikimedia.org/wiki/Special:FilePath/L-SeCystine.svg
+http://www.wikidata.org/entity/Q161233,formic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Formic%20acid%2085%20percent.jpg
+http://www.wikidata.org/entity/Q26995161,L-glutamic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Sample%20of%20L-Glutamic%20acid.jpg
+http://www.wikidata.org/entity/Q71982,N-formylkynurenine,http://commons.wikimedia.org/wiki/Special:FilePath/N-formylkynurenine.svg
+http://www.wikidata.org/entity/Q161233,formic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Formic%20acid.svg
+http://www.wikidata.org/entity/Q173670,L-arginine,http://commons.wikimedia.org/wiki/Special:FilePath/L-Arginin%20-%20L-Arginine.svg
+http://www.wikidata.org/entity/Q178450,L-aspartic acid,http://commons.wikimedia.org/wiki/Special:FilePath/L-Asparagins%C3%A4ure%20-%20L-Aspartic%20acid.svg
+http://www.wikidata.org/entity/Q181619,L-glutamine,http://commons.wikimedia.org/wiki/Special:FilePath/L-glutamine-skeletal.png
+http://www.wikidata.org/entity/Q188017,L-tyrosine,http://commons.wikimedia.org/wiki/Special:FilePath/L-tyrosine-skeletal.png
+http://www.wikidata.org/entity/Q209315,α-bromobutyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-Bromobutyric%20acid.svg
+http://www.wikidata.org/entity/Q210021,γ-aminobutyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Gamma-Aminobutters%C3%A4ure%20-%20gamma-aminobutyric%20acid.svg
+http://www.wikidata.org/entity/Q223055,3-bromobutanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-Bromobutyric%20acid.svg
+http://www.wikidata.org/entity/Q369777,pelargonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Pelargons%C3%A4ure%20Skelett.svg
+http://www.wikidata.org/entity/Q408032,edetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/EDTA.svg
+http://www.wikidata.org/entity/Q411237,(4RS)-4-hydroxy-DL-proline,http://commons.wikimedia.org/wiki/Special:FilePath/Hydroxyproline%20structure.svg
+http://www.wikidata.org/entity/Q412033,trifluoroacetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Trifluoroacetic%20acid.svg
+http://www.wikidata.org/entity/Q412033,trifluoroacetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Trifluoroacetic%20acid%20structure.svg
+http://www.wikidata.org/entity/Q3738328,D-dopa,http://commons.wikimedia.org/wiki/Special:FilePath/D-DOPA.png
+http://www.wikidata.org/entity/Q20035886,L-proline,http://commons.wikimedia.org/wiki/Special:FilePath/L-Prolin%20-%20L-Proline.svg
+http://www.wikidata.org/entity/Q20035962,D-proline,http://commons.wikimedia.org/wiki/Special:FilePath/D-Proline.svg
+http://www.wikidata.org/entity/Q26995161,L-glutamic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Glutamic%20acid%20test.svg
+http://www.wikidata.org/entity/Q27077003,D-citrulline,http://commons.wikimedia.org/wiki/Special:FilePath/D-%28%E2%80%93%29-Citruline%20Structural%20Formula%20V1.svg
+http://www.wikidata.org/entity/Q27077119,D-Serine,http://commons.wikimedia.org/wiki/Special:FilePath/D-Serine.svg
+http://www.wikidata.org/entity/Q27093862,D-methionine,http://commons.wikimedia.org/wiki/Special:FilePath/D-Methionine.svg
+http://www.wikidata.org/entity/Q27094720,γ-carboxyglutamic acid,http://commons.wikimedia.org/wiki/Special:FilePath/L-Carboxyglutamic%20acid.svg
+http://www.wikidata.org/entity/Q27102175,L-methionine (RS)-S-oxide,http://commons.wikimedia.org/wiki/Special:FilePath/L-Methionine%20sulfoxide.png
+http://www.wikidata.org/entity/Q27102910,DL-citrulline,http://commons.wikimedia.org/wiki/Special:FilePath/DL-citrulline.svg
+http://www.wikidata.org/entity/Q27103201,DL-histidine,http://commons.wikimedia.org/wiki/Special:FilePath/Histidin%20-%20Histidine.svg
+http://www.wikidata.org/entity/Q27103475,DL-phenylalanine,http://commons.wikimedia.org/wiki/Special:FilePath/Phenylalanin%20-%20Phenylalanine.svg
+http://www.wikidata.org/entity/Q27103623,DL-glutamine,http://commons.wikimedia.org/wiki/Special:FilePath/Glutamin%20-%20Glutamine.svg
+http://www.wikidata.org/entity/Q27111656,(S)-dihydrolipoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Dihydrolipoic%20acid.svg
+http://www.wikidata.org/entity/Q27113974,(-)-tropic acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28R%29-tropic%20acid.svg
+http://www.wikidata.org/entity/Q27113975,(+)-tropic acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28S%29-tropic%20acid.svg
+http://www.wikidata.org/entity/Q27116513,perfluoroheptanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Perfluoroheptanoic%20acid.svg
+http://www.wikidata.org/entity/Q27121510,DL-dopa,http://commons.wikimedia.org/wiki/Special:FilePath/Dihydroxyphenylalanine.png
+http://www.wikidata.org/entity/Q27156874,perfluorohexanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Perfluorohexanoic%20acid.svg
+http://www.wikidata.org/entity/Q27158301,"(3R)-3,6-diaminohexanoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/Beta-lysine%20%28R%29.png
+http://www.wikidata.org/entity/Q27216284,procysteine,http://commons.wikimedia.org/wiki/Special:FilePath/Procysteine%20structure.svg
+http://www.wikidata.org/entity/Q27291037,2-bromopropionic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-Bromopropionic%20acid.svg
+http://www.wikidata.org/entity/Q27895533,(R)-dihydrolipoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Dihydrolipoic-acid-2D-skeletal.png
+http://www.wikidata.org/entity/Q27895750,"DL-2,4-diaminobutyric acid",http://commons.wikimedia.org/wiki/Special:FilePath/2%2C4-Diaminobutyric%20acid.svg
+http://www.wikidata.org/entity/Q44073885,D-threonine,http://commons.wikimedia.org/wiki/Special:FilePath/D-Threonine.svg
+http://www.wikidata.org/entity/Q81978179,perfluorotridecanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Perfluorotridecanoic%20acid.svg
+http://www.wikidata.org/entity/Q81987681,Perfluoropentadecanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/PFPeDA.svg
+http://www.wikidata.org/entity/Q108028577,N-methyl-D-arginine,http://commons.wikimedia.org/wiki/Special:FilePath/N-Methyl-D-arginine.png
+http://www.wikidata.org/entity/Q139857,fumaric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Fumars%C3%A4ure.svg
+http://www.wikidata.org/entity/Q159683,citric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Zitronens%C3%A4ure%20-%20Citric%20acid.svg
+http://www.wikidata.org/entity/Q190143,DL-malic acid,http://commons.wikimedia.org/wiki/Special:FilePath/%C3%84pfels%C3%A4ure3.svg
+http://www.wikidata.org/entity/Q194322,tartaric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Tartaric%20acid.svg
+http://www.wikidata.org/entity/Q209433,2-methylbutyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-Methylbutyric%20acid.svg
+http://www.wikidata.org/entity/Q213050,succinic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Kwas%20bursztynowy007.svg
+http://www.wikidata.org/entity/Q288927,isocitric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Isocitronens%C3%A4ure.svg
+http://www.wikidata.org/entity/Q306140,alpha-ketoglutaric acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-oxopentanedioic%20acid%20200.svg
+http://www.wikidata.org/entity/Q357415,adipic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Adipic%20acid%20200.svg
+http://www.wikidata.org/entity/Q407569,D-gluconic acid,http://commons.wikimedia.org/wiki/Special:FilePath/D-Gluconic%20acid%20wedge%20bonds.svg
+http://www.wikidata.org/entity/Q408658,oxaloacetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-oxosuccinic%20acid%20200.svg
+http://www.wikidata.org/entity/Q409216,D-glucouronic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Glucuronic%20acid%20v2.svg
+http://www.wikidata.org/entity/Q409622,glutaric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Glutaric%20acid.png
+http://www.wikidata.org/entity/Q413454,sebacic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Sebacic%20acid.svg
+http://www.wikidata.org/entity/Q413504,azelaic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Azelaic%20acid.png
+http://www.wikidata.org/entity/Q414420,pimelic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Heptanedioic%20acid%20200.svg
+http://www.wikidata.org/entity/Q421171,phytanic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Phytanic%20acid.svg
+http://www.wikidata.org/entity/Q422729,D-galacturonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Galacturonic%20acid.svg
+http://www.wikidata.org/entity/Q424572,bixin,http://commons.wikimedia.org/wiki/Special:FilePath/Bixin.png
+http://www.wikidata.org/entity/Q424636,glucaric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Glucaric%20acid%20structure.svg
+http://www.wikidata.org/entity/Q424916,galactaric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Mucic%20acid%20structure.svg
+http://www.wikidata.org/entity/Q424916,galactaric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Structure%20of%20Mucic%20acid.svg
+http://www.wikidata.org/entity/Q622421,α-ketoisocaproic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Alpha-ketoisocaproic%20acid.png
+http://www.wikidata.org/entity/Q899074,suberic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Suberic%20acid.svg
+http://www.wikidata.org/entity/Q903311,itaconic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Itaconic%20acid.svg
+http://www.wikidata.org/entity/Q1997371,trans-norbixin,http://commons.wikimedia.org/wiki/Special:FilePath/Norbixin%20structure.png
+http://www.wikidata.org/entity/Q2099072,tridecanedioic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Brassylic%20acid.svg
+http://www.wikidata.org/entity/Q2546851,(Z)-penicillic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Penicillic%20acid.png
+http://www.wikidata.org/entity/Q2546851,(Z)-penicillic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Penicillic%20acid.svg
+http://www.wikidata.org/entity/Q2714546,crocetin,http://commons.wikimedia.org/wiki/Special:FilePath/Crocetin.svg
+http://www.wikidata.org/entity/Q2823207,2-oxoadipic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Alpha-ketoadipic%20acid.svg
+http://www.wikidata.org/entity/Q2823214,(RS)-3-hydroxyvaleric acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-hydroxypentanoic%20acid.png
+http://www.wikidata.org/entity/Q2823253,docosapentaenoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Osbond%20acid.png
+http://www.wikidata.org/entity/Q3270244,L-threonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/L-threonic%20acid.png
+http://www.wikidata.org/entity/Q3497407,fluorocitric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Fluorocitric%20acid.svg
+http://www.wikidata.org/entity/Q5287252,docosanedioic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Docosanedioic%20acid.svg
+http://www.wikidata.org/entity/Q5287812,dodecanedioic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Dodecanedioic%20acid.svg
+http://www.wikidata.org/entity/Q5287812,dodecanedioic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Dodecanedioic%20acid%20structure.svg
+http://www.wikidata.org/entity/Q7835820,traumatic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Traumatic%20acid%20structure.png
+http://www.wikidata.org/entity/Q15046450,cis-2-decenoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Cis-2-decenoic%20acid.svg
+http://www.wikidata.org/entity/Q15426256,2-isopropylmalic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-Isopropylmalic%20acid.svg
+http://www.wikidata.org/entity/Q17104620,2-decenedioic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-Decenedioic%20acid.svg
+http://www.wikidata.org/entity/Q17143538,heptatriacontanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Heptatriacontanoic%20acid.svg
+http://www.wikidata.org/entity/Q21045268,monomethyl succinate,http://commons.wikimedia.org/wiki/Special:FilePath/Monomethysuccinat%20Structural%20Formula%20V1.svg
+http://www.wikidata.org/entity/Q27070770,13-HODE,http://commons.wikimedia.org/wiki/Special:FilePath/Coriolic%20acid.png
+http://www.wikidata.org/entity/Q27087639,monomethyl fumarate,http://commons.wikimedia.org/wiki/Special:FilePath/Monomethyl%20fumarate%20skeletal.svg
+http://www.wikidata.org/entity/Q27098295,(R)-2-hydroxystearic acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28R%29-2-hydroxystearic%20acid.svg
+http://www.wikidata.org/entity/Q27103970,laetisaric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Laetisaric%20acid.png
+http://www.wikidata.org/entity/Q27104226,(Z)-aconitic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Aconitic%20acid.svg
+http://www.wikidata.org/entity/Q27104227,(E)-aconitic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Trans-aconitic%20acid.png
+http://www.wikidata.org/entity/Q27104257,D-mannonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/D-Mannonic%20acid.svg
+http://www.wikidata.org/entity/Q27104874,(RS)-2-hydroxyisovaleric acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-hydroxyisovaleric%20acid.svg
+http://www.wikidata.org/entity/Q27104874,(RS)-2-hydroxyisovaleric acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-Hydroxyisovaleric%20acid.svg
+http://www.wikidata.org/entity/Q27105259,D-threo-isocitric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Isocitric%20acid.svg
+http://www.wikidata.org/entity/Q27105259,D-threo-isocitric acid,http://commons.wikimedia.org/wiki/Special:FilePath/%282R%2C3S%29-Isocitric%20Acid%20Structural%20Formula%20V1.svg
+http://www.wikidata.org/entity/Q27105404,"cis-2-hydroxypenta-2,4-dienoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/Cis-2-hydroxypenta-2%2C4-dienoic%20acid.svg
+http://www.wikidata.org/entity/Q27109364,D-arabinonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/D-arabinonic%20acid.svg
+http://www.wikidata.org/entity/Q27109369,D-ribonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/D-Ribonic%20acid.svg
+http://www.wikidata.org/entity/Q256502,alpha-linolenic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Alpha-Linolenic%20acid%20Structural%20Formulae%20V.2.svg
+http://www.wikidata.org/entity/Q407426,linoleic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Linoleic%20Acid%20Structural%20Formulae%20V.2.svg
+http://www.wikidata.org/entity/Q27075135,(R)-3-hydroxybutyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28R%29-3-hydroxybutyric%20acid.svg
+http://www.wikidata.org/entity/Q27075158,(S)-3-hydroxybutyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28S%29-3-hydroxybutyric%20acid.svg
+http://www.wikidata.org/entity/Q27077083,D-lactic acid,http://commons.wikimedia.org/wiki/Special:FilePath/D-lactic%20acid.svg
+http://www.wikidata.org/entity/Q27080955,L-lactic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Lactic-acid-skeletal.svg
+http://www.wikidata.org/entity/Q27094645,(R)-2-methylbutyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28R%29-2-Methylbutanoic%20acid.svg
+http://www.wikidata.org/entity/Q27104149,D-malic acid,http://commons.wikimedia.org/wiki/Special:FilePath/D-%C3%84pfels%C3%A4ure.svg
+http://www.wikidata.org/entity/Q27104150,L-malic acid,http://commons.wikimedia.org/wiki/Special:FilePath/L-%C3%84pfels%C3%A4ure.svg
+http://www.wikidata.org/entity/Q27104222,(R)-2-hydroxyglutaric acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28R%29-2-hydroxyglutaric%20acid.svg
+http://www.wikidata.org/entity/Q27104223,(S)-2-hydroxyglutaric acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28S%29-2-hydroxyglutaric%20acid.svg
+http://www.wikidata.org/entity/Q27113976,succinate(1-),http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen%20succinate.png
+http://www.wikidata.org/entity/Q27114011,L-threo-isocitric acid,http://commons.wikimedia.org/wiki/Special:FilePath/%282S%2C3R%29-Isocitric%20Acid%20Structural%20Formula%20V1.svg
+http://www.wikidata.org/entity/Q27117932,(S)-2-methylbutyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28S%29-2-Methylbutanoic%20acid.svg
+http://www.wikidata.org/entity/Q201502,punicic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Punicic%20Acid%20Structural%20Formulae%20V.1.svg
+http://www.wikidata.org/entity/Q207688,oleic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Oleic%20Acid%20Structural%20Formulae%20V.2.svg
+http://www.wikidata.org/entity/Q223058,but-3-enoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-Butenoic-acid-2D-structure.svg
+http://www.wikidata.org/entity/Q253746,sulfanilic acid,http://commons.wikimedia.org/wiki/Special:FilePath/P-aminobenzosulphuric%20acid.svg
+http://www.wikidata.org/entity/Q324628,acrylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Acrylic-acid-2D-skeletal.png
+http://www.wikidata.org/entity/Q324628,acrylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Acryls%C3%A4ure.svg
+http://www.wikidata.org/entity/Q407131,sorbic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Sorbins%C3%A4ure.svg
+http://www.wikidata.org/entity/Q407699,arachidonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Arachidonic%20acid.svg
+http://www.wikidata.org/entity/Q407699,arachidonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Arachidons%C3%A4ure2.svg
+http://www.wikidata.org/entity/Q409990,eicosapentaenoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/EPA.svg
+http://www.wikidata.org/entity/Q413491,elaidic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Elaidic%20acid%20v2.svg
+http://www.wikidata.org/entity/Q413491,elaidic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Elaidins%C3%A4ure.svg
+http://www.wikidata.org/entity/Q413531,erucic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Erucas%C3%A4ure.svg
+http://www.wikidata.org/entity/Q413531,erucic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Erucic%20acid%20v2.svg
+http://www.wikidata.org/entity/Q414231,nervonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Nervonic%20acid%20v2.svg
+http://www.wikidata.org/entity/Q415398,dihomo-γ-linolenic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Dihomogammalinolens%C3%A4ure.svg
+http://www.wikidata.org/entity/Q415885,gamolenic acid,http://commons.wikimedia.org/wiki/Special:FilePath/GLAnumbering.png
+http://www.wikidata.org/entity/Q416618,gondoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Eicosenoic%20acid.png
+http://www.wikidata.org/entity/Q416618,gondoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Gondos%C3%A4ure.svg
+http://www.wikidata.org/entity/Q419047,trans-vaccenic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Trans-vaccenic%20acid.svg
+http://www.wikidata.org/entity/Q420346,undecylenic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Undecylenic%20acid%20Structural%20Formulae%20V.1.svg
+http://www.wikidata.org/entity/Q420731,melissic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Melissins%C3%A4ure%20Skelett.svg
+http://www.wikidata.org/entity/Q422590,behenic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Behens%C3%A4ure%20Skelett.svg
+http://www.wikidata.org/entity/Q422634,lignoceric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Lignoceric%20acid.svg
+http://www.wikidata.org/entity/Q422634,lignoceric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Lignocerins%C3%A4ure%20Skelett.svg
+http://www.wikidata.org/entity/Q423345,docosahexaenoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/4%2C7%2C10%2C13%2C16%2C19-docosahexaenoic%20acid.svg
+http://www.wikidata.org/entity/Q423345,docosahexaenoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/DHA.svg
+http://www.wikidata.org/entity/Q614708,tariric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Tariric%20acid.svg
+http://www.wikidata.org/entity/Q646902,catalpic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Catalpic%20acid.svg
+http://www.wikidata.org/entity/Q646902,catalpic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Catalpic%20acid%20Structural%20Formula%20V2.svg
+http://www.wikidata.org/entity/Q903348,cerotic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Cerotins%C3%A4ure%20Skelett.svg
+http://www.wikidata.org/entity/Q911196,montanic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Montanic%20acid.svg
+http://www.wikidata.org/entity/Q911196,montanic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Montans%C3%A4ure%20Skelett.svg
+http://www.wikidata.org/entity/Q1422618,metanilic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Metanilic%20acid.svg
+http://www.wikidata.org/entity/Q1674400,isocrotonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28Z%29-but-2-enoic%20acid%20200.svg
+http://www.wikidata.org/entity/Q1674400,isocrotonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Isocrotonic%20acid.svg
+http://www.wikidata.org/entity/Q2031743,orthanilic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-sulfanilic%20acid.svg
+http://www.wikidata.org/entity/Q2080732,petroselinic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Petroselinic%20acid.svg
+http://www.wikidata.org/entity/Q2235989,4-chlorobenzoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/4-Chlorobenzoic%20acid.svg
+http://www.wikidata.org/entity/Q2707986,paullinic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Paullinic%20acid.svg
+http://www.wikidata.org/entity/Q2712733,α-eleostearic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Alpha-eleostearic%20acid.svg
+http://www.wikidata.org/entity/Q2739877,moroctic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Stearidonic%20acid.svg
+http://www.wikidata.org/entity/Q2823208,2-chlorobenzoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-Chlorobenzoic%20acid.svg
+http://www.wikidata.org/entity/Q2823210,3-chlorobenzoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-Chlorobenzoic%20acid.svg
+http://www.wikidata.org/entity/Q2823242,β-eleostearic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Beta-Eleostearic%20acid.svg
+http://www.wikidata.org/entity/Q2823249,(9Z)-octadec-9-en-12-ynoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Crepenynic%20acid.svg
+http://www.wikidata.org/entity/Q2823249,(9Z)-octadec-9-en-12-ynoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Crepenynicacid.svg
+http://www.wikidata.org/entity/Q2823277,linolelaidic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Linoelaidic%20acid.png
+http://www.wikidata.org/entity/Q73403125,ionomycin,http://commons.wikimedia.org/wiki/Special:FilePath/Ionomycin%20%28free%20acid%29.svg
+http://www.wikidata.org/entity/Q2823297,(Z)-parinaric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Alpha-parinaric%20acid.svg
+http://www.wikidata.org/entity/Q2823302,pinolenic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Pinolenic%20acid%20%28By%20JW%29.svg
+http://www.wikidata.org/entity/Q2823304,sapienic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Sapienic%20acid.svg
+http://www.wikidata.org/entity/Q3487540,(2E)-3-methylhex-2-enoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Trans-3-methyl-2-hexenoic%20acid.svg
+http://www.wikidata.org/entity/Q4351606,"all-cis-docosa-7,10,13,16-tetraenoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/Adrenic%20acid.png
+http://www.wikidata.org/entity/Q4351606,"all-cis-docosa-7,10,13,16-tetraenoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/Adrenic%20acid.svg
+http://www.wikidata.org/entity/Q4381113,(2E)-geranic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Geranic%20acid.png
+http://www.wikidata.org/entity/Q4947574,Bosseopentaenoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Bosseopentaenoic%20acid%20structure.svg
+http://www.wikidata.org/entity/Q5516412,gadoleic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Gadoleins%C3%A4ure%20V2.svg
+http://www.wikidata.org/entity/Q15410992,"but-1-ene-1,2,4-tricarboxylic acid",http://commons.wikimedia.org/wiki/Special:FilePath/Cis-Homoaconitic%20acid.svg
+http://www.wikidata.org/entity/Q15992456,catelaidic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Catelaidic%20acid%20folded.svg
+http://www.wikidata.org/entity/Q18391807,neranic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Nerolic%20acid.svg
+http://www.wikidata.org/entity/Q18611669,10-undecynoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/10-Undecins%C3%A4ure.svg
+http://www.wikidata.org/entity/Q24063589,nisinic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Nisinic%20acid.svg
+http://www.wikidata.org/entity/Q27095533,cis-vaccenic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Cis-vaccenic%20acid.svg
+http://www.wikidata.org/entity/Q27103903,stearolic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Stearolic%20acid.png
+http://www.wikidata.org/entity/Q27109433,roughanic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Roughanic%20acid.png
+http://www.wikidata.org/entity/Q27109859,laballenic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Laballenic%20acid.png
+http://www.wikidata.org/entity/Q27114909,obtusilic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Obtusilic%20acid.png
+http://www.wikidata.org/entity/Q27114911,mycomycin,http://commons.wikimedia.org/wiki/Special:FilePath/Mycomycin.svg
+http://www.wikidata.org/entity/Q27114930,cetoleic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Cetoleins%C3%A4ure.svg
+http://www.wikidata.org/entity/Q27114930,cetoleic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Cetoleic%20acid%20folded.svg
+http://www.wikidata.org/entity/Q27116491,(Z)-hexadec-7-enoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/%287Z%29-hexadec-7-enoic%20acid.svg
+http://www.wikidata.org/entity/Q27116641,4-pentenoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/4-pentenoic%20acid.svg
+http://www.wikidata.org/entity/Q27117596,(2E)-2-pentenoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Trans-2-pentenoic%20acid.svg
+http://www.wikidata.org/entity/Q27117604,cis-pent-2-enoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Cis-2-pentenoic%20acid.svg
+http://www.wikidata.org/entity/Q27117618,cis-pent-3-enoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Cis-3-pentenoic%20acid.svg
+http://www.wikidata.org/entity/Q27117626,trans-pent-3-enoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Trans-3-pentenoic%20acid.svg
+http://www.wikidata.org/entity/Q27117795,lamenallenic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Lamenallenic%20acid.png
+http://www.wikidata.org/entity/Q27117817,(R)-laballenic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Labellenic%20acid.svg
+http://www.wikidata.org/entity/Q27124062,"all-cis-icosa-11,14,17-trienoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/Eicosatriens%C3%A4ure.svg
+http://www.wikidata.org/entity/Q27135627,"(2E,4Z)-2-hydroxy-6-oxohexa-2,4-dienoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/%282E%2C4Z%29-2-hydroxy-6-oxohexa-2%2C4-dienoic%20acid.svg
+http://www.wikidata.org/entity/Q27139044,5Z-tetradecenoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/%285Z%29-Tetradec-5-enoic%20acid.png
+http://www.wikidata.org/entity/Q27145829,"(8Z,11Z,14Z)-heptadecatrienoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/Norlinolenic%20acid.png
+http://www.wikidata.org/entity/Q27147124,ximenic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Ximens%C3%A4ure%20Structural%20Formula%20V2.svg
+http://www.wikidata.org/entity/Q27156395,sciadonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Sciadonic%20acid.png
+http://www.wikidata.org/entity/Q27156397,"(5Z,11Z,14Z,17Z)-icosatetraenoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/Juniperonic%20acid.png
+http://www.wikidata.org/entity/Q238474,aminolevulinic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Aminolevulinic%20acid.svg
+http://www.wikidata.org/entity/Q255968,aminocaproic acid,http://commons.wikimedia.org/wiki/Special:FilePath/6-Aminocaproic%20acid.png
+http://www.wikidata.org/entity/Q285687,DL-α-aminobutyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Alpha-aminobutyric%20acid.png
+http://www.wikidata.org/entity/Q311992,acetylcarnitine,http://commons.wikimedia.org/wiki/Special:FilePath/%28R%29-Acetylcarnitine%20V.3.svg
+http://www.wikidata.org/entity/Q408663,L-selenocysteine,http://commons.wikimedia.org/wiki/Special:FilePath/L-selenocysteine-2D-skeletal.png
+http://www.wikidata.org/entity/Q413578,mupirocin,http://commons.wikimedia.org/wiki/Special:FilePath/Mupirocin%20Structural%20Formula%20V.1.svg
+http://www.wikidata.org/entity/Q413578,mupirocin,http://commons.wikimedia.org/wiki/Special:FilePath/Mupirocin%20structure.png
+http://www.wikidata.org/entity/Q415428,L-norleucine,http://commons.wikimedia.org/wiki/Special:FilePath/L-Norleucin.svg
+http://www.wikidata.org/entity/Q418571,ethacrynic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Etacrynic%20acid.svg
+http://www.wikidata.org/entity/Q418707,L-norvaline,http://commons.wikimedia.org/wiki/Special:FilePath/L-Norvalin.svg
+http://www.wikidata.org/entity/Q419890,(±)-flurbiprofen,http://commons.wikimedia.org/wiki/Special:FilePath/%28%C2%B1%29-Flurbiprofen%20Structural%20Formulae%20V.1.svg
+http://www.wikidata.org/entity/Q420553,mycophenolic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Mycophenolic%20acid%20Strucrural%20Formulae%20V.1.svg
+http://www.wikidata.org/entity/Q423075,cetirizine,http://commons.wikimedia.org/wiki/Special:FilePath/Cetirizine%20structure.svg
+http://www.wikidata.org/entity/Q425293,fosinopril,http://commons.wikimedia.org/wiki/Special:FilePath/Fosinopril%20structure.svg
+http://www.wikidata.org/entity/Q425475,"(E)-2,3-dimethylacrylic acid",http://commons.wikimedia.org/wiki/Special:FilePath/Tiglic%20acid.png
+http://www.wikidata.org/entity/Q425475,"(E)-2,3-dimethylacrylic acid",http://commons.wikimedia.org/wiki/Special:FilePath/Tiglic%20Acid%20Structural%20Formulae%20V.1.svg
+http://www.wikidata.org/entity/Q2069290,pentachlorobenzoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Pentachlorobenzoic%20acid.svg
+http://www.wikidata.org/entity/Q2317381,cyclopropanecarboxylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Cyclopropanecarboxylic-acid-2D-skeletal.svg
+http://www.wikidata.org/entity/Q2555245,(RS)-fenoprofen,http://commons.wikimedia.org/wiki/Special:FilePath/Fenoprofen.png
+http://www.wikidata.org/entity/Q2701649,O-phospho-L-serine,http://commons.wikimedia.org/wiki/Special:FilePath/L-Phosphoserine.svg
+http://www.wikidata.org/entity/Q2823212,3-aminoisobutyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-aminoisobutyric%20acid.png
+http://www.wikidata.org/entity/Q7197255,DL-pipecolic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Structural%20formula%20of%20pipecolic%20acid.svg
+http://www.wikidata.org/entity/Q11751639,δ-aminovaleric acid,http://commons.wikimedia.org/wiki/Special:FilePath/5-aminopentanoic%20acid.png
+http://www.wikidata.org/entity/Q15632699,11-aminoundecanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/11-Aminoundecans%C3%A4ure%20Strukturformel.svg
+http://www.wikidata.org/entity/Q18472686,3-Fluorobenzoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-Fluorobenzoic%20acid.svg
+http://www.wikidata.org/entity/Q22132784,2-methylhippuric acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-Methylhippuric%20acid.svg
+http://www.wikidata.org/entity/Q22132798,3-methylhippuric acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-Methylhippuric%20acid.svg
+http://www.wikidata.org/entity/Q22132817,4-methylhippuric acid,http://commons.wikimedia.org/wiki/Special:FilePath/4-Methylhippuric%20acid.svg
+http://www.wikidata.org/entity/Q27074154,(+)-acetylcarnitine,http://commons.wikimedia.org/wiki/Special:FilePath/L-acetylcarnitine.svg
+http://www.wikidata.org/entity/Q27102381,3-chloro-L-alanine,http://commons.wikimedia.org/wiki/Special:FilePath/Chloroalanine.svg
+http://www.wikidata.org/entity/Q27102475,3-nitroacrylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-nitroacrylic%20acid.svg
+http://www.wikidata.org/entity/Q27102952,DL-ornithine,http://commons.wikimedia.org/wiki/Special:FilePath/Ornithine%20stereo%20unspecified.svg
+http://www.wikidata.org/entity/Q27109225,2-Fluorobenzoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-Fluorobenzoic%20acid.svg
+http://www.wikidata.org/entity/Q27132295,mycophenolate,http://commons.wikimedia.org/wiki/Special:FilePath/Mycophenolate%20Structure.svg
+http://www.wikidata.org/entity/Q27460381,bromo(difluoro)acetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Bromodifluoroacetic%20acid.svg
+http://www.wikidata.org/entity/Q59196332,2-carboxyanthraquinone,http://commons.wikimedia.org/wiki/Special:FilePath/2-carboxyanthraquinone.svg
+http://www.wikidata.org/entity/Q63390495,4-Fluorobenzoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/4-Fluorobenzoic%20acid.svg
+http://www.wikidata.org/entity/Q81977612,perfluoro(4-methoxybutanoic) acid,http://commons.wikimedia.org/wiki/Special:FilePath/PFMOBA.svg
+http://www.wikidata.org/entity/Q180341,DL-methionine,http://commons.wikimedia.org/wiki/Special:FilePath/Methionin%20-%20Methionine.svg
+http://www.wikidata.org/entity/Q181003,tryptophan,http://commons.wikimedia.org/wiki/Special:FilePath/L-Tryptophan%20-%20L-Tryptophan.svg
+http://www.wikidata.org/entity/Q412304,sulfamic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Sulfamic-acid.png
+http://www.wikidata.org/entity/Q412304,sulfamic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Zwitterion%20Structural%20Formulae%20V.1.svg
+http://www.wikidata.org/entity/Q420051,dexibuprofen,http://commons.wikimedia.org/wiki/Special:FilePath/Dexibuprofen.png
+http://www.wikidata.org/entity/Q420051,dexibuprofen,http://commons.wikimedia.org/wiki/Special:FilePath/Dexibuprofen%20Structural%20Formulae%20V.1.svg
+http://www.wikidata.org/entity/Q1014257,ammonium sulfamate,http://commons.wikimedia.org/wiki/Special:FilePath/Ammonium%20sulfamate.png
+http://www.wikidata.org/entity/Q2491625,orthocarbonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Orthocarbonic%20acid%20Structural%20Formulae.svg
+http://www.wikidata.org/entity/Q21097956,(-)-thioctic acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28S%29-Liponic%20Acid%20Structural%20Formula%20V.1.svg
+http://www.wikidata.org/entity/Q27077084,D-lysine,http://commons.wikimedia.org/wiki/Special:FilePath/D-Lysine.svg
+http://www.wikidata.org/entity/Q27887203,(+)-thioctic acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28R%29-Liponic%20Acid%20Structural%20Formula%20V.1.svg
+http://www.wikidata.org/entity/Q29519883,L-Asparagine,http://commons.wikimedia.org/wiki/Special:FilePath/L-Asparagin%20-%20L-Asparagine.svg
+http://www.wikidata.org/entity/Q30126674,"2,6-diaminopimelic acid",http://commons.wikimedia.org/wiki/Special:FilePath/2%2C6-diaminoheptanedioic%20acid%20200.svg
+http://www.wikidata.org/entity/Q241374,ursodiol,http://commons.wikimedia.org/wiki/Special:FilePath/Ursodeoxycholic%20acid%20acsv.svg
+http://www.wikidata.org/entity/Q287415,cholic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Cholic%20acid.svg
+http://www.wikidata.org/entity/Q287415,cholic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Struktur%20Chols%C3%A4ure.svg
+http://www.wikidata.org/entity/Q411138,Gibberellic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Gibberellin%20A3.svg
+http://www.wikidata.org/entity/Q411138,Gibberellic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Gibberellins%C3%A4ure.svg
+http://www.wikidata.org/entity/Q413717,(RS)-baclofen,http://commons.wikimedia.org/wiki/Special:FilePath/Baclofen%20skeletal.svg
+http://www.wikidata.org/entity/Q2659931,taurocholic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Taurocholic%20acid.svg
+http://www.wikidata.org/entity/Q2701638,glycocholic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Glycochols%C3%A4ure.svg
+http://www.wikidata.org/entity/Q4596860,α-aminoisobutyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-Amino-2-methylpropionic%20acid.svg
+http://www.wikidata.org/entity/Q4596860,α-aminoisobutyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-aminoisobutyric%20acid.svg
+http://www.wikidata.org/entity/Q5572600,glycochenodeoxycholic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Glycochenodeoxycholic%20acid.png
+http://www.wikidata.org/entity/Q7688892,taurochenodeoxycholic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Taurochenodeoxycholic%20acid.svg
+http://www.wikidata.org/entity/Q20972182,Gibberellin A1,http://commons.wikimedia.org/wiki/Special:FilePath/Gibberellin%20A1.svg
+http://www.wikidata.org/entity/Q27097025,gibberellin A4,http://commons.wikimedia.org/wiki/Special:FilePath/Gibberellin%20A4%20v2.svg
+http://www.wikidata.org/entity/Q27155195,bitocholic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Bitocholic%20acid.svg
+http://www.wikidata.org/entity/Q42038,maleic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Maleic%20acid%20structure.svg
+http://www.wikidata.org/entity/Q42038,maleic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Maleins%C3%A4ure.svg
+http://www.wikidata.org/entity/Q291271,aminohippuric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Aminohippuric%20acid.png
+http://www.wikidata.org/entity/Q409357,iminodiacetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Aminodiacetic%20acid.png
+http://www.wikidata.org/entity/Q409357,iminodiacetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Iminodiacetic%20acid.svg
+http://www.wikidata.org/entity/Q414157,sarcosine,http://commons.wikimedia.org/wiki/Special:FilePath/2-%28methylamino%29acetic%20acid%20200.svg
+http://www.wikidata.org/entity/Q484583,DL-proline,http://commons.wikimedia.org/wiki/Special:FilePath/Prolin%20-%20Proline.svg
+http://www.wikidata.org/entity/Q793715,(S)-2-azetidinecarboxylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28S%29-Azetidine-2-carboxylic%20acid-Structural%20formula%20V1.svg
+http://www.wikidata.org/entity/Q4198762,isopimaric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Isopimaric%20acid.svg
+http://www.wikidata.org/entity/Q6535822,levopimaric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Levopimaric%20acid.svg
+http://www.wikidata.org/entity/Q12460151,hydroxyproline,http://commons.wikimedia.org/wiki/Special:FilePath/%282S%2C4R%29-4-Hydroxyprolin.svg
+http://www.wikidata.org/entity/Q21098914,tilapertin,http://commons.wikimedia.org/wiki/Special:FilePath/Tilapertin.svg
+http://www.wikidata.org/entity/Q22977245,diphenylacetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Diphenylacetic%20acid.png
+http://www.wikidata.org/entity/Q27109182,DL-norvaline,http://commons.wikimedia.org/wiki/Special:FilePath/Norvalin.svg
+http://www.wikidata.org/entity/Q27116817,2-aminohexanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Norleucin.svg
+http://www.wikidata.org/entity/Q27275413,4-aminovaleric acid,http://commons.wikimedia.org/wiki/Special:FilePath/4-Aminopentanoic%20acid.svg
+http://www.wikidata.org/entity/Q106371441,(2S)-2-amino-4-oxobutanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/%282S%29-2-Amino-4-oxobutanoic%20acid.svg
+http://www.wikidata.org/entity/Q422729,D-galacturonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Alpha-D-Galacturonopyranose.svg
+http://www.wikidata.org/entity/Q27116118,pinellic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Pinellic%20acid.png
+http://www.wikidata.org/entity/Q27117141,β-ketoadipic acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-oxoadipic%20acid.svg
+http://www.wikidata.org/entity/Q27117218,D-erythronic acid,http://commons.wikimedia.org/wiki/Special:FilePath/D-erythronic%20acid.png
+http://www.wikidata.org/entity/Q27120662,D-altronic acid,http://commons.wikimedia.org/wiki/Special:FilePath/D-altronic%20acid.svg
+http://www.wikidata.org/entity/Q27121458,L-erythronic acid,http://commons.wikimedia.org/wiki/Special:FilePath/L-erythronic%20acid.png
+http://www.wikidata.org/entity/Q27121459,D-threonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/D-threonic%20acid.png
+http://www.wikidata.org/entity/Q27130252,colneleic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Colneleic%20acid%20structure.svg
+http://www.wikidata.org/entity/Q27130329,colnelenic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Colnelenic%20acid.svg
+http://www.wikidata.org/entity/Q27144063,undecanedioic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Undecanedioic%20acid.svg
+http://www.wikidata.org/entity/Q27144068,hexadecanedioic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Thapsias%C3%A4ure.svg
+http://www.wikidata.org/entity/Q27157527,"(2E,6E)-farnesoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/Farnesenic%20acid.svg
+http://www.wikidata.org/entity/Q27163178,13-HPODE,http://commons.wikimedia.org/wiki/Special:FilePath/13-HydroperoxyoctadecadienoicAcid.svg
+http://www.wikidata.org/entity/Q27251953,linderic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Linderic%20acid.png
+http://www.wikidata.org/entity/Q27255762,agaricic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Agaric%20acid.svg
+http://www.wikidata.org/entity/Q27273898,roccellic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Roccellic%20acid.svg
+http://www.wikidata.org/entity/Q27274182,senecic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Senecic%20acid.svg
+http://www.wikidata.org/entity/Q410352,gabapentin,http://commons.wikimedia.org/wiki/Special:FilePath/Gabapentin%20molecule%20ball.png
+http://www.wikidata.org/entity/Q310919,β-alanine,http://commons.wikimedia.org/wiki/Special:FilePath/3-aminopropanoic%20acid%20200.svg
+http://www.wikidata.org/entity/Q410352,gabapentin,http://commons.wikimedia.org/wiki/Special:FilePath/Gabapentin2DACS.svg
+http://www.wikidata.org/entity/Q419559,phenibut,http://commons.wikimedia.org/wiki/Special:FilePath/Phenibut.svg
+http://www.wikidata.org/entity/Q32908783,kynurenine,http://commons.wikimedia.org/wiki/Special:FilePath/L-Kynurenine.svg
+http://www.wikidata.org/entity/Q71252738,cinnamic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Cinnamic%20acids%20general%20structure.svg
+http://www.wikidata.org/entity/Q4369,"N,N-dimethylglycine",http://commons.wikimedia.org/wiki/Special:FilePath/Dimethylglycine.svg
+http://www.wikidata.org/entity/Q422627,lauric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Lauric%20acid.svg
+http://www.wikidata.org/entity/Q422627,lauric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Laurins%C3%A4ure%20Skelett.svg
+http://www.wikidata.org/entity/Q2013941,D-octopine,http://commons.wikimedia.org/wiki/Special:FilePath/Octopine.svg
+http://www.wikidata.org/entity/Q2013941,D-octopine,http://commons.wikimedia.org/wiki/Special:FilePath/Octopine%20structure.svg
+http://www.wikidata.org/entity/Q27103077,trans-3-chloroacrylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Trans-3-Chloroacrylic%20acid.svg
+http://www.wikidata.org/entity/Q27283189,2-methylhexanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-Methylhexanoic-acid-2D-skeletal.svg
+http://www.wikidata.org/entity/Q27284028,α-norbixin,http://commons.wikimedia.org/wiki/Special:FilePath/Cis-Norbixin.svg
+http://www.wikidata.org/entity/Q27288272,octadecanedioic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Octadecane-1%2C18-dioic%20acid.svg
+http://www.wikidata.org/entity/Q27453292,L-gulonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/L-gulonic%20acid.svg
+http://www.wikidata.org/entity/Q53679584,Phloionolic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Phloionolic%20acid.png
+http://www.wikidata.org/entity/Q54914843,Ixoric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Ixoric%20acid.png
+http://www.wikidata.org/entity/Q62575111,nebraskanic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Nebraskanic%20acid.svg
+http://www.wikidata.org/entity/Q62602940,wuhanic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Wuhanic%20acid.svg
+http://www.wikidata.org/entity/Q63390537,mesotartaric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Mesotartaric%20acid.svg
+http://www.wikidata.org/entity/Q76280924,maleylacetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Maleylacetic%20acid.svg
+http://www.wikidata.org/entity/Q77516973,caperatic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Caperatic%20acid.svg
+http://www.wikidata.org/entity/Q82239370,(R)-(+)-citronellic acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28R%29-%28%2B%29-citronellic%20acid.svg
+http://www.wikidata.org/entity/Q27104120,N-formyl-L-kynurenine,http://commons.wikimedia.org/wiki/Special:FilePath/N-formyl-L-kynurenine.svg
+http://www.wikidata.org/entity/Q27104120,N-formyl-L-kynurenine,http://commons.wikimedia.org/wiki/Special:FilePath/N-Formylkynurenin.svg
+http://www.wikidata.org/entity/Q27106309,D-galactopyranuronic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Galacturonic%20acid%20flat.png
+http://www.wikidata.org/entity/Q27272055,D-mannuronic acid,http://commons.wikimedia.org/wiki/Special:FilePath/D-mannuronic%20acid%20open%20chain.svg
+http://www.wikidata.org/entity/Q27895463,L-iduronic acid,http://commons.wikimedia.org/wiki/Special:FilePath/L-Iduronic%20acid.png
+http://www.wikidata.org/entity/Q57741566,(+)-L-alliin,http://commons.wikimedia.org/wiki/Special:FilePath/Alliin%20Structural%20Formula%20V.1.svg
+http://www.wikidata.org/entity/Q106038691,4-oxohex-2-enedioic acid,http://commons.wikimedia.org/wiki/Special:FilePath/E-Z%20Maleylacetic%20acid%20Structures.svg
+http://www.wikidata.org/entity/Q161249,DL-lactic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Milchs%C3%A4ure.svg
+http://www.wikidata.org/entity/Q184832,oxalic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Oxals%C3%A4ure2.svg
+http://www.wikidata.org/entity/Q239598,methylmalonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-methylmalonic%20acid%20200.svg
+http://www.wikidata.org/entity/Q239598,methylmalonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Methylmalonic%20acid.svg
+http://www.wikidata.org/entity/Q409373,hydroxyacetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Glycolic%20acid.svg
+http://www.wikidata.org/entity/Q412293,(RS)-mandelic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-hydroxy-2-phenylacetic%20acid%20200.svg
+http://www.wikidata.org/entity/Q421972,malonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Malons%C3%A4ure.svg
+http://www.wikidata.org/entity/Q849769,tarenflurbil,http://commons.wikimedia.org/wiki/Special:FilePath/Tarenflurbil%20Structural%20Formulae%20V.1.svg
+http://www.wikidata.org/entity/Q2252158,muconic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Muconic%20acid%20EE.svg
+http://www.wikidata.org/entity/Q2823257,dihydroxymalonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Dihydroxymalonic%20acid.png
+http://www.wikidata.org/entity/Q4566861,camphoric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Camphoric%20acid.png
+http://www.wikidata.org/entity/Q5122804,citraconic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Citraconic%20acid.svg
+http://www.wikidata.org/entity/Q11858996,ethylmalonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Ethylmalonic%20acid.svg
+http://www.wikidata.org/entity/Q18349096,3-maleylpyruvic acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-Maleylpyruvic%20acid.svg
+http://www.wikidata.org/entity/Q19597515,homophthalic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Homophthalic%20acid.svg
+http://www.wikidata.org/entity/Q27191232,dimethylmalonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Dimethylmalonic-acid-2D-structure.svg
+http://www.wikidata.org/entity/Q45435667,folinic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Folinic%20acid.svg
+http://www.wikidata.org/entity/Q56604713,dimercaptosuccinic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2%2C3-dimercaptosuccinic%20acid%20200.svg
+http://www.wikidata.org/entity/Q70080387,heneicosanedioic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Japanic%20acid.svg
+http://www.wikidata.org/entity/Q72459634,"1,4-cyclohexanedicarboxylic acid",http://commons.wikimedia.org/wiki/Special:FilePath/1%2C4-cyclohexanedicarboxylicAcid.svg
+http://www.wikidata.org/entity/Q82220199,"2,3-pentadienedioic acid",http://commons.wikimedia.org/wiki/Special:FilePath/Penta-2%2C3-dienedioic%20acid.png
+http://www.wikidata.org/entity/Q82224779,triacontanedioic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Equisetolic%20acid.svg
+http://www.wikidata.org/entity/Q82242537,tricosanedioic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Tricosanedioic%20acid.svg
+http://www.wikidata.org/entity/Q134658,nicotinic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Niacin%20structure.svg
+http://www.wikidata.org/entity/Q134658,nicotinic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Nicotins%C3%A4ure2.svg
+http://www.wikidata.org/entity/Q410198,L-ornithine,http://commons.wikimedia.org/wiki/Special:FilePath/L-Ornithin2.svg
+http://www.wikidata.org/entity/Q410703,3-iodo-L-tyrosine,http://commons.wikimedia.org/wiki/Special:FilePath/%28S%29-2-amino-3-%284-hydroxy-3-iodophenyl%29propanoic%20acid%20200.svg
+http://www.wikidata.org/entity/Q421091,levocetirizine,http://commons.wikimedia.org/wiki/Special:FilePath/Levocetirizine%20structure.svg
+http://www.wikidata.org/entity/Q981152,"1,3,5-benzenetricarboxylic acid",http://commons.wikimedia.org/wiki/Special:FilePath/1%2C3%2C5-Tricarboxybenzol.svg
+http://www.wikidata.org/entity/Q1241221,m-toluic acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-toluic%20acid.svg
+http://www.wikidata.org/entity/Q1607905,p-toluic acid,http://commons.wikimedia.org/wiki/Special:FilePath/4-toluic%20acid.svg
+http://www.wikidata.org/entity/Q2001805,trimellitic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Benzene-1%2C2%2C4-tricarboxylic%20acid%20200.svg
+http://www.wikidata.org/entity/Q2823313,propane tricarboxylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Propane-1%2C2%2C3-tricarboxylic%20acid-2D-by-AHRLS-2012.png
+http://www.wikidata.org/entity/Q3291707,o-toluic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-toluic%20acid.svg
+http://www.wikidata.org/entity/Q27098335,(2R)-2-hydroxy-3-(4-hydroxyphenyl)propanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28R%29-3-%284-hydroxyphenyl%29lactic%20acid.svg
+http://www.wikidata.org/entity/Q27104392,L-2-aminoadipic acid,http://commons.wikimedia.org/wiki/Special:FilePath/L-2-aminoadipic%20acid.svg
+http://www.wikidata.org/entity/Q27124358,(R)-2-hydroxyadipic acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28R%29-2-hydroxyadipic%20acid.svg
+http://www.wikidata.org/entity/Q82945122,truxinic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Truxinic%20acid%20skeletal.svg
+http://www.wikidata.org/entity/Q209275,meso-DAP,http://commons.wikimedia.org/wiki/Special:FilePath/Diaminopimelic%20acid.svg
+http://www.wikidata.org/entity/Q209410,(2S)-2-hydroxy-2-methyl-3-oxobutanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28S%29-Acetolactic%20acid.svg
+http://www.wikidata.org/entity/Q209412,2-hydroxyglutaric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Alpha-hydroxyglutaric%20acid.png
+http://www.wikidata.org/entity/Q223045,m-aminobenzoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-aminobenzoic%20acid.svg
+http://www.wikidata.org/entity/Q223081,beta-hydroxy beta-methylbutyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Beta-Hydroxy%20beta-methylbutyric%20acid%202.svg
+http://www.wikidata.org/entity/Q223092,3-hydroxybutyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Structural%20formula%20of%203-hydroxybutyric%20acid.svg
+http://www.wikidata.org/entity/Q241678,(R)-mevalonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Mevalonic-acid-2D-skeletal.png
+http://www.wikidata.org/entity/Q284959,4-aminobenzoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/4-Aminobenzoic%20acid.svg
+http://www.wikidata.org/entity/Q385140,anthranilic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Anthranilic%20acid%20structure.svg
+http://www.wikidata.org/entity/Q668093,atorvastatin,http://commons.wikimedia.org/wiki/Special:FilePath/Atorvastatin.svg
+http://www.wikidata.org/entity/Q952532,3-hydroxy-3-methyl-5-phosphonooxypentanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Phosphomevalonic%20acid.svg
+http://www.wikidata.org/entity/Q2735617,2-methyllactic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-Hydroxyisobutyric%20acid.svg
+http://www.wikidata.org/entity/Q2823199,"2,3-dihydroxy-3-methylpentanoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/2%2C3-Dihydroxy-3-methylpentanoic%20acid.svg
+http://www.wikidata.org/entity/Q2823220,3-hydroxypropionic acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-Hydroxypropionic-acid-2D-skeletal.svg
+http://www.wikidata.org/entity/Q3288610,(RS)-2-hydroxybutyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28RS%29-2-Hydroxybutanic%20Acid%20Structural%20Formula%20V1.svg
+http://www.wikidata.org/entity/Q3288610,(RS)-2-hydroxybutyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-hydroxybutyric%20acid.png
+http://www.wikidata.org/entity/Q6531411,Lesquerolic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Lesquerolic%20acid.png
+http://www.wikidata.org/entity/Q11751627,cerebronic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Cerebronic%20acid.png
+http://www.wikidata.org/entity/Q11751627,cerebronic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Cerebronic%20acid.svg
+http://www.wikidata.org/entity/Q15425812,3-hydroxydecanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-hydroxydecanoic%20acid.svg
+http://www.wikidata.org/entity/Q17037730,DL-leucic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Leucic%20acid.svg
+http://www.wikidata.org/entity/Q27094610,allo-D-threonine,http://commons.wikimedia.org/wiki/Special:FilePath/D-allo-Threonine.svg
+http://www.wikidata.org/entity/Q27094699,"L-2,4-diaminobutyric acid",http://commons.wikimedia.org/wiki/Special:FilePath/%28S%29-2%2C4-Diaminobutyric%20acid.svg
+http://www.wikidata.org/entity/Q27101874,(S)-3-(imidazol-5-yl)lactic acid,http://commons.wikimedia.org/wiki/Special:FilePath/L-%CE%B2-Imidazole%20lactic%20acid.svg
+http://www.wikidata.org/entity/Q27103859,allo-L-threonine,http://commons.wikimedia.org/wiki/Special:FilePath/L-allo-Threonine.svg
+http://www.wikidata.org/entity/Q27103908,D-norvaline,http://commons.wikimedia.org/wiki/Special:FilePath/D-Norvalin.svg
+http://www.wikidata.org/entity/Q27236426,"D-2,4-diaminobutyric acid",http://commons.wikimedia.org/wiki/Special:FilePath/%28R%29-2%2C4-Diaminobutyric%20acid.svg
+http://www.wikidata.org/entity/Q27459594,D-(-)-norleucine,http://commons.wikimedia.org/wiki/Special:FilePath/D-Norleucin.svg
+http://www.wikidata.org/entity/Q17119410,4-hydroxy-2-oxopentanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/4-Hydroxy-2-oxopentanoaic%20acid.svg
+http://www.wikidata.org/entity/Q18343392,10-hydroxydecanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/10-hydroxydecanoic%20acid.svg
+http://www.wikidata.org/entity/Q27098152,"3-deoxy-D-glycero-hexo-2,5-diulosonic acid",http://commons.wikimedia.org/wiki/Special:FilePath/3-deoxy-D-glycero-hexo-2%2C5-diulosonic%20acid.svg
+http://www.wikidata.org/entity/Q27098153,"(4S,5S)-4,5-dihydroxy-2,6-dioxohexanoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/%284S%2C5S%29-4%2C5-dihydroxy-2%2C6-dioxohexanoic%20acid.svg
+http://www.wikidata.org/entity/Q27098188,"(R)-2,3-dihydroxy-3-methylbutanoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/%28R%29-2%2C3-dihydroxy-3-methylbutanoic%20acid.svg
+http://www.wikidata.org/entity/Q27102179,2-dehydro-3-deoxy-D-gluconic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-dehydro-3-deoxy-D-gluconic%20acid.svg
+http://www.wikidata.org/entity/Q27102678,6-hydroxyhexanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/6-hydroxyhexanoic%20acid.svg
+http://www.wikidata.org/entity/Q27102840,(S)-2-hydroxystearic acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28S%29-2-hydroxystearic%20acid.svg
+http://www.wikidata.org/entity/Q27102964,"2,5-didehydro-D-gluconic acid",http://commons.wikimedia.org/wiki/Special:FilePath/2%2C5-didehydro-D-gluconic%20acid.svg
+http://www.wikidata.org/entity/Q27105168,minquartynoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Minquartynoic%20acid.png
+http://www.wikidata.org/entity/Q27124231,16-hydroxypalmitic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Juniperic%20acid.svg
+http://www.wikidata.org/entity/Q27145541,jalapinolic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Jalapinolic%20acid.png
+http://www.wikidata.org/entity/Q28816084,2-hydroxyoleic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-hydroxyoleic%20acid.png
+http://www.wikidata.org/entity/Q53124145,Auricolic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Auricolic%20acid.png
+http://www.wikidata.org/entity/Q54819664,(6R)-6-hydroxytetradecanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Butolic%20acid.png
+http://www.wikidata.org/entity/Q55097297,agonandric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Agonandric%20acid.png
+http://www.wikidata.org/entity/Q56479204,Ventosic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Ventosic%20acid.png
+http://www.wikidata.org/entity/Q18216,aspirin,http://commons.wikimedia.org/wiki/Special:FilePath/Acetylsalicyls%C3%A4ure2.svg
+http://www.wikidata.org/entity/Q191700,benzoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Benzoes%C3%A4ure.svg
+http://www.wikidata.org/entity/Q209457,α-ketobutyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-Oxobutyric%20acid.svg
+http://www.wikidata.org/entity/Q209457,α-ketobutyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Structural%20formula%20of%202-oxobutanoic%20acid.svg
+http://www.wikidata.org/entity/Q213580,pyruvic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Brenztraubens%C3%A4ure.svg
+http://www.wikidata.org/entity/Q229924,4-aminosalicylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/P-Aminosalicylic%20acid.svg
+http://www.wikidata.org/entity/Q347337,balsalazide,http://commons.wikimedia.org/wiki/Special:FilePath/Balsalazide%20structure.svg
+http://www.wikidata.org/entity/Q347621,olsalazine,http://commons.wikimedia.org/wiki/Special:FilePath/Olsalazine%20Structure.svg
+http://www.wikidata.org/entity/Q412479,mesalazine,http://commons.wikimedia.org/wiki/Special:FilePath/5-amino-2-hydroxybenzoic%20acid%20200.svg
+http://www.wikidata.org/entity/Q420035,sulfasalazine,http://commons.wikimedia.org/wiki/Special:FilePath/Sulfasalazine.svg
+http://www.wikidata.org/entity/Q192464,levoleucovorin,http://commons.wikimedia.org/wiki/Special:FilePath/Levofolinic%20acid.svg
+http://www.wikidata.org/entity/Q297592,heptanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/%C3%96nanths%C3%A4ure%20Skelett.svg
+http://www.wikidata.org/entity/Q297592,heptanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Heptanoic%20acid.png
+http://www.wikidata.org/entity/Q409013,chloroacetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Chloroacetic%20acid.svg
+http://www.wikidata.org/entity/Q412597,nonadecanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Nonadecans%C3%A4ure%20Skelett.svg
+http://www.wikidata.org/entity/Q412597,nonadecanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Nonadecylic%20acid.svg
+http://www.wikidata.org/entity/Q412814,malvalic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Malvalic%20acid.svg
+http://www.wikidata.org/entity/Q412845,dichloroacetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Dichloroacetic-acid-2D-skeletal.svg
+http://www.wikidata.org/entity/Q415768,L-kynurenine,http://commons.wikimedia.org/wiki/Special:FilePath/L-Kynurenine.svg
+http://www.wikidata.org/entity/Q416375,iodoacetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Iodoacetic-acid-2D-skeletal.png
+http://www.wikidata.org/entity/Q418951,pentadecanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Pentadecans%C3%A4ure%20Skelett.svg
+http://www.wikidata.org/entity/Q419857,tridecanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Tridecans%C3%A4ure%20Skelett.svg
+http://www.wikidata.org/entity/Q421323,bromoacetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-bromoacetic%20acid%20200.svg
+http://www.wikidata.org/entity/Q422597,caproic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Caprons%C3%A4ure%20Skelett.svg
+http://www.wikidata.org/entity/Q423814,succimer,http://commons.wikimedia.org/wiki/Special:FilePath/Meso-2%2C3-dimercaptosuccinic-acid-2D-skeletal-B-configurations-labelled.png
+http://www.wikidata.org/entity/Q425988,undecanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Undecans%C3%A4ure%20Skelett.svg
+http://www.wikidata.org/entity/Q902204,margaric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Margarins%C3%A4ure%20Skelett.svg
+http://www.wikidata.org/entity/Q911218,henicosanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Heneicosans%C3%A4ure%20Skelett.svg
+http://www.wikidata.org/entity/Q2823202,2-aminomuconic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Aminomuconic%20acid.png
+http://www.wikidata.org/entity/Q2823259,lacceroic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Dotriacontanoic%20acid.svg
+http://www.wikidata.org/entity/Q2823265,hentriacontylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Hentriacontanoic%20acid.png
+http://www.wikidata.org/entity/Q2823321,geddic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Tetratriacontanoic%20acid.svg
+http://www.wikidata.org/entity/Q4463035,tricosanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Tricosylic%20acid.png
+http://www.wikidata.org/entity/Q15425769,nonacosanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Nonacosylic%20acid.png
+http://www.wikidata.org/entity/Q18533477,dibromoacetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Dibromoacetic%20acid.svg
+http://www.wikidata.org/entity/Q24188398,"(2S,2′S)-homocystine",http://commons.wikimedia.org/wiki/Special:FilePath/Homocystine.svg
+http://www.wikidata.org/entity/Q27103150,2-dehydro-D-gluconic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-dehydro-D-gluconic%20acid.svg
+http://www.wikidata.org/entity/Q2345401,sterculic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Sterculic%20acid.svg
+http://www.wikidata.org/entity/Q2823194,11-cyclohexylundecanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/11-cyclohexylundecanoic%20acid%20200.svg
+http://www.wikidata.org/entity/Q2823197,13-phenyltridecanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/13-Phenyltridecanoic%20acid.svg
+http://www.wikidata.org/entity/Q81986174,"9,10-dichlorooctadecanoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/9%2C10-Dichlorostearic%20acid.svg
+http://www.wikidata.org/entity/Q82005624,3-iodoprop-2-enoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-Iodoacrylic%20acid.svg
+http://www.wikidata.org/entity/Q82915674,"9,10,12,13-tetrabromooctadecanoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/TetrabromostearicAcid.svg
+http://www.wikidata.org/entity/Q411945,quinolinic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2%2C3-Pyridine%20Dicarboxylic%20Acid%20V.2.svg
+http://www.wikidata.org/entity/Q411945,quinolinic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Quinolinic%20Acid.svg
+http://www.wikidata.org/entity/Q2823268,(+/-)-hydnocarpic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Hydnocarpic%20acid.svg
+http://www.wikidata.org/entity/Q2823275,lactobacillic acid,http://commons.wikimedia.org/wiki/Special:FilePath/10-%28%281R%2C2S%29-2-hexylcyclopropyl%29decanoic%20acid%20200.svg
+http://www.wikidata.org/entity/Q2823294,pentacycloanammoxic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Pentacycloanammoxic%20acid.png
+http://www.wikidata.org/entity/Q4716536,aleuritic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Aleuritic%20acid.png
+http://www.wikidata.org/entity/Q27131069,(S)-chaulmoogric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Chaulmoogric%20acid.svg
+http://www.wikidata.org/entity/Q27131091,"11,12-methyleneoctadecanoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/10-%282-hexylcyclopropyl%29decanoic%20acid.svg
+http://www.wikidata.org/entity/Q27131274,gorlic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Gorlic%20acid.svg
+http://www.wikidata.org/entity/Q27263246,β-L-idopyranuronic acid,http://commons.wikimedia.org/wiki/Special:FilePath/L-Iduronic%20acid.svg
+http://www.wikidata.org/entity/Q54371453,Hormelic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Hormelic%20acid.png
+http://www.wikidata.org/entity/Q54406636,Oncobic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Oncobic%20acid.png
+http://www.wikidata.org/entity/Q77250128,chaulmoogric acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28%C2%B1%29-Chaulmoogric%20acid.svg
+http://www.wikidata.org/entity/Q78172396,β-D-glucopyranuronic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Beta%20D-Glucuronic%20acid.svg
+http://www.wikidata.org/entity/Q102302396,(R)-chaulmoogric acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28R%29-chaulmoogric%20acid.svg
+http://www.wikidata.org/entity/Q207920,4-hydroxybutyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/4-Hydroxybutans%C3%A4ure%20-%204-Hydroxybutanoic%20acid.svg
+http://www.wikidata.org/entity/Q3325795,D-xylonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Xylonic%20acid.png
+http://www.wikidata.org/entity/Q27104273,L-arabinonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/L-Arabinonic%20acid.svg
+http://www.wikidata.org/entity/Q27265148,phloionic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Phloionic%20acid.png
+http://www.wikidata.org/entity/Q27290652,monomethyl maleate,http://commons.wikimedia.org/wiki/Special:FilePath/Monomethyl-maleate-2D-skeletal.png
+http://www.wikidata.org/entity/Q193572,salicylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-hydroxybenzoic%20acid%20200.svg
+http://www.wikidata.org/entity/Q193572,salicylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Salicylic-acid-skeletal.svg
+http://www.wikidata.org/entity/Q209206,"2,4-dihydroxybenzoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/2%2C4-Dihydroxybenzoes%C3%A4ure.svg
+http://www.wikidata.org/entity/Q229970,4-hydroxybenzoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/4-hydroxybenzoic%20acid.svg
+http://www.wikidata.org/entity/Q408428,syringic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Syringic%20acid.svg
+http://www.wikidata.org/entity/Q417831,gentisic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Gentisins%C3%A4ure.svg
+http://www.wikidata.org/entity/Q418599,"3,4-dihydroxybenzoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/Protocatechus%C3%A4ure.svg
+http://www.wikidata.org/entity/Q2823200,"2,3-dihydroxy benzoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/2%2C3-dihydroxybenzoic%20acid.svg
+http://www.wikidata.org/entity/Q2823216,3-hydroxybenzoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-Hydroxybenzoic-acid-2D-skeletal.svg
+http://www.wikidata.org/entity/Q3278345,clupanodonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/DPAnumbering.png
+http://www.wikidata.org/entity/Q27115853,"14,15-epoxy-5Z,8Z,11Z-eicosatrienoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/Epoxyeicosatrienoic%20acid.png
+http://www.wikidata.org/entity/Q27896742,"(2S,6R,10R)-pristanic acid",http://commons.wikimedia.org/wiki/Special:FilePath/SRR%20pristanic%20acid.svg
+http://www.wikidata.org/entity/Q284757,rumenic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Rumenic%20acid.svg
+http://www.wikidata.org/entity/Q414207,crotonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Crotonic%20acid.svg
+http://www.wikidata.org/entity/Q416610,mead acid,http://commons.wikimedia.org/wiki/Special:FilePath/Mead%E2%80%99sche%20S%C3%A4ure.svg
+http://www.wikidata.org/entity/Q18226455,L-tartaric acid,http://commons.wikimedia.org/wiki/Special:FilePath/L-%28%2B%29-Tartaric-acid-2D-skeletal.svg
+http://www.wikidata.org/entity/Q23034947,D-tartaric acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28S%2CS%29-Tartaric%20Acid%20Structural%20Formula%20V1.png
+http://www.wikidata.org/entity/Q164785,(E)-cinnamic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Zimts%C3%A4ure%20-%20Cinnamic%20acid.svg
+http://www.wikidata.org/entity/Q2823246,calendic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Alpha-Calendic%20acid.svg
+http://www.wikidata.org/entity/Q2823264,(6E)-gorlic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Gorlic%20acid.svg
+http://www.wikidata.org/entity/Q2823276,jacaric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Jacaric%20acid.svg
+http://www.wikidata.org/entity/Q7922031,cis-(-)-vernolic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Vernolic%20Acid.png
+http://www.wikidata.org/entity/Q416567,prostaglandin H2,http://commons.wikimedia.org/wiki/Special:FilePath/Prostaglandin%20H2.svg
+http://www.wikidata.org/entity/Q419750,prostaglandin D2,http://commons.wikimedia.org/wiki/Special:FilePath/Prostaglandin%20D2.svg
+http://www.wikidata.org/entity/Q421375,prostaglandin F2α,http://commons.wikimedia.org/wiki/Special:FilePath/Prostaglandin%20F2alpha.svg
+http://www.wikidata.org/entity/Q634959,latanoprost,http://commons.wikimedia.org/wiki/Special:FilePath/Latanoprost.svg
+http://www.wikidata.org/entity/Q2139543,tafluprost,http://commons.wikimedia.org/wiki/Special:FilePath/Tafluprost%20structure.svg
+http://www.wikidata.org/entity/Q2193376,travoprost,http://commons.wikimedia.org/wiki/Special:FilePath/Travoprost%20structure.svg
+http://www.wikidata.org/entity/Q2393348,bimatoprost,http://commons.wikimedia.org/wiki/Special:FilePath/Bimatoprost.svg
+http://www.wikidata.org/entity/Q4859684,unoprostone,http://commons.wikimedia.org/wiki/Special:FilePath/Unoprostone.svg
+http://www.wikidata.org/entity/Q19835971,PGG2,http://commons.wikimedia.org/wiki/Special:FilePath/Prostaglandin%20G2.svg
+http://www.wikidata.org/entity/Q22004571,prostanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Prostanoic%20acid%20Structure.svg
+http://www.wikidata.org/entity/Q27098095,15-ketoprostaglandin E2,http://commons.wikimedia.org/wiki/Special:FilePath/15-ketoprostaglandin%20E2.svg
+http://www.wikidata.org/entity/Q27098096,15-oxoprostaglandin E1,http://commons.wikimedia.org/wiki/Special:FilePath/15-oxoprostaglandin%20E1.svg
+http://www.wikidata.org/entity/Q27098099,15-dehydro-prostaglandin D2,http://commons.wikimedia.org/wiki/Special:FilePath/15-dehydro-prostaglandin%20D2.svg
+http://www.wikidata.org/entity/Q27283444,15-oxodihydroprostaglandin E1,http://commons.wikimedia.org/wiki/Special:FilePath/15-oxodihydroprostaglandin%20E1.svg
+http://www.wikidata.org/entity/Q110884450,beta-calendic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Beta-Calendic%20acid.svg
+http://www.wikidata.org/entity/Q2704449,leukotriene B4,http://commons.wikimedia.org/wiki/Special:FilePath/Leukotriene%20B4.svg
+http://www.wikidata.org/entity/Q19597084,eoxin A4,http://commons.wikimedia.org/wiki/Special:FilePath/Eoxin%20A4.svg
+http://www.wikidata.org/entity/Q19597085,eoxin C4,http://commons.wikimedia.org/wiki/Special:FilePath/Eoxin%20C4.svg
+http://www.wikidata.org/entity/Q19597086,eoxin D4,http://commons.wikimedia.org/wiki/Special:FilePath/Eoxin%20D4.svg
+http://www.wikidata.org/entity/Q19597087,eoxin E4,http://commons.wikimedia.org/wiki/Special:FilePath/Eoxin%20E4.svg
+http://www.wikidata.org/entity/Q2823231,5S-HPETE,http://commons.wikimedia.org/wiki/Special:FilePath/5-Hydroperoxyeicosatetraenoic%20acid.svg
+http://www.wikidata.org/entity/Q27074045,(9S)-α-dimorphecolic acid,http://commons.wikimedia.org/wiki/Special:FilePath/9-HODE.svg
+http://www.wikidata.org/entity/Q56754033,malyngic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Malyngic%20acid.png
+http://www.wikidata.org/entity/Q20817139,iloprost,http://commons.wikimedia.org/wiki/Special:FilePath/Iloprost%202D%20structure.svg
+http://www.wikidata.org/entity/Q113955678,fulgidic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Fulgidic%20acid.svg
+http://www.wikidata.org/entity/Q54859685,"(9S,10E,12S,13S,15E)-9,12,13-trihydroxyoctadeca-10,15-dienoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/%289S%2C10E%2C12S%2C13S%2C15E%29-9%2C12%2C13-Trihydroxyoctadeca-10%2C15-dienoic%20acid.png
+http://www.wikidata.org/entity/Q47512,acetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Acetic-acid-2D-skeletal.svg
+http://www.wikidata.org/entity/Q47512,acetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Acetic%20acid%20200.svg
+http://www.wikidata.org/entity/Q47512,acetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Essigs%C3%A4ure%20Keilstrich.svg
+http://www.wikidata.org/entity/Q58221,myristoleic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Myristoleins%C3%A4ure.svg
+http://www.wikidata.org/entity/Q193213,butyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Butanoic%20acid.svg
+http://www.wikidata.org/entity/Q193213,butyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Butters%C3%A4ure%20Skelett.svg
+http://www.wikidata.org/entity/Q209685,stearic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Stearins%C3%A4ure%20Skelett.svg
+http://www.wikidata.org/entity/Q209727,palmitic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Palmitic%20acid.svg
+http://www.wikidata.org/entity/Q209727,palmitic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Palmitins%C3%A4ure%20Skelett.svg
+http://www.wikidata.org/entity/Q407796,valeric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Valerians%C3%A4ure%20Skelett.svg
+http://www.wikidata.org/entity/Q408984,terephthalic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Terephthals%C3%A4ure.svg
+http://www.wikidata.org/entity/Q409608,arachidic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Arachins%C3%A4ure%20Skelett.svg
+http://www.wikidata.org/entity/Q412366,palmitoleic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Palmitoleic%20acid.png
+http://www.wikidata.org/entity/Q415062,2-methylpropanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Isobutyric-acid-2D-structure.svg
+http://www.wikidata.org/entity/Q415253,isophthalic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Isophthals%C3%A4ure.svg
+http://www.wikidata.org/entity/Q415536,isovaleric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Isovalerians%C3%A4ure.svg
+http://www.wikidata.org/entity/Q422658,myristic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Myristins%C3%A4ure%20Skelett.svg
+http://www.wikidata.org/entity/Q423876,phthalic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Phthalic%20acid%20200.svg
+http://www.wikidata.org/entity/Q27133344,2-hydroxybutyrate,http://commons.wikimedia.org/wiki/Special:FilePath/2-Hydroxybutyrate-2D-structure.svg
+http://www.wikidata.org/entity/Q27162479,N-methyl-L-proline,http://commons.wikimedia.org/wiki/Special:FilePath/1-Methylproline.png
+http://www.wikidata.org/entity/Q47459238,(2S)-10-formyltetrahydropteroyl-ξ-glutamic acid,http://commons.wikimedia.org/wiki/Special:FilePath/10-formyl-tetrahydrofolic%20acid.svg
+http://www.wikidata.org/entity/Q130601234,Punicic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Punicic%20acid.svg
+http://www.wikidata.org/entity/Q81986319,3-Methylhexanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-Methylhexanoic-acid-2D-skeletal.svg
+http://www.wikidata.org/entity/Q21099640,"(9Z,11E,13S)-13-hydroxyoctadeca-9,11-dienoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/13-HODE.svg
+http://www.wikidata.org/entity/Q27094449,α-D-galacturonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Alpha-D-Galacturonopyranose.svg
+http://www.wikidata.org/entity/Q27101809,cis-4-hydroxy-D-proline,http://commons.wikimedia.org/wiki/Special:FilePath/%282R%2C4R%29-4-Hydroxyprolin.svg
+http://www.wikidata.org/entity/Q27103674,cis-4-hydroxyproline,http://commons.wikimedia.org/wiki/Special:FilePath/%282S%2C4S%29-4-Hydroxyprolin.svg
+http://www.wikidata.org/entity/Q424484,ricinoleic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Ricinoleic%20acid.svg
+http://www.wikidata.org/entity/Q18349093,3-fumarylpyruvic acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-Fumarylpyruvic%20acid.svg
+http://www.wikidata.org/entity/Q27109389,L-idonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/L-idonic%20acid.svg
+http://www.wikidata.org/entity/Q184832,oxalic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Oxalic%20acid%2C%20anhydrous.jpg
+http://www.wikidata.org/entity/Q27236881,oxalic acid dihydrate,http://commons.wikimedia.org/wiki/Special:FilePath/Oxalic%20acid%20dihydrate.jpg
+http://www.wikidata.org/entity/Q18216,aspirin,http://commons.wikimedia.org/wiki/Special:FilePath/Acetylsalicylicacid-crystals.jpg
+http://www.wikidata.org/entity/Q18216,aspirin,http://commons.wikimedia.org/wiki/Special:FilePath/Aspirin.jpg
+http://www.wikidata.org/entity/Q191700,benzoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Benzoic%20acid%20substance%20photo.jpg
+http://www.wikidata.org/entity/Q191700,benzoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Benzoid%20acid.jpg
+http://www.wikidata.org/entity/Q191700,benzoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Kwas%20benzoesowy%20kryszta%C5%82ki.JPG
+http://www.wikidata.org/entity/Q734078,mellitic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Mellitic-acid.svg
+http://www.wikidata.org/entity/Q1641923,amylocaine,http://commons.wikimedia.org/wiki/Special:FilePath/Amylocaine.svg
+http://www.wikidata.org/entity/Q1675143,trimellitic anhydride,http://commons.wikimedia.org/wiki/Special:FilePath/Trimellitic%20anhydride.svg
+http://www.wikidata.org/entity/Q15634013,flestolol,http://commons.wikimedia.org/wiki/Special:FilePath/Flestolol.svg
+http://www.wikidata.org/entity/Q27108112,pseudopurpurin,http://commons.wikimedia.org/wiki/Special:FilePath/Pseudopurpurin.svg
+http://www.wikidata.org/entity/Q136461213,"4,4′,4′′,4′′′-([1,1′-biphenyl]-3,3′,5,5′-tetrayl)tetrabenzoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/Q136461213.svg
+http://www.wikidata.org/entity/Q409692,3-oxobutanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-Keto%20butyric%20acid%20Structural%20Formula%20V1.svg
+http://www.wikidata.org/entity/Q903322,levulinic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Levulinic%20Acid%20Structural%20Formulae.svg
+http://www.wikidata.org/entity/Q1225282,"2,3-diketogulonic acid",http://commons.wikimedia.org/wiki/Special:FilePath/2%2C3-diketogulonic%20acid.svg
+http://www.wikidata.org/entity/Q2823203,2-aminomuconic semialdehyde,http://commons.wikimedia.org/wiki/Special:FilePath/2-aminomuconic%20semialdehyde.png
+http://www.wikidata.org/entity/Q4734905,2-oxovaleric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Alpha-ketovaleric%20acid.svg
+http://www.wikidata.org/entity/Q6948247,myriocin,http://commons.wikimedia.org/wiki/Special:FilePath/Myriocin.png
+http://www.wikidata.org/entity/Q27094776,(S)-2-amino-3-ketobutyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28S%29-2-amino-3-ketobutyric%20acid.svg
+http://www.wikidata.org/entity/Q27102226,10-oxocapric acid,http://commons.wikimedia.org/wiki/Special:FilePath/10-oxocapric%20acid.svg
+http://www.wikidata.org/entity/Q27102659,2-amino-3-oxobutanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-amino-3-ketobutyric%20acid.svg
+http://www.wikidata.org/entity/Q27103891,alpha-licanic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Licanic%20acid.png
+http://www.wikidata.org/entity/Q27104152,2-oxostearic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-oxostearic%20acid.svg
+http://www.wikidata.org/entity/Q27104451,5-oxopentanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/5-oxopentanoic%20acid.svg
+http://www.wikidata.org/entity/Q27263314,(2E)-9-oxo-2-decenoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/9-oxodecenoic%20acid.svg
+http://www.wikidata.org/entity/Q82776831,ketoisanic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Ketoisanic%20acid.svg
+http://www.wikidata.org/entity/Q193598,DL-ascorbic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Ascorbic%20acid%20%282%29.JPG
+http://www.wikidata.org/entity/Q199678,vitamin C,http://commons.wikimedia.org/wiki/Special:FilePath/Sample%20of%20ascorbic%20acid.jpg
+http://www.wikidata.org/entity/Q375837,gallic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Gallic%20acid%20powder.jpg
+http://www.wikidata.org/entity/Q193598,DL-ascorbic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Kyselina%20askorbov%C3%A1.svg
+http://www.wikidata.org/entity/Q3453375,pyromellitic acid,http://commons.wikimedia.org/wiki/Special:FilePath/1%2C2%2C4%2C5-benzenetetracarboxylic%20acid.svg
+http://www.wikidata.org/entity/Q5383831,epoxyeicosatrienoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Epoxyeicosatrienoic%20acid.svg
+http://www.wikidata.org/entity/Q26840982,"2,3,6-trichlorobenzoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/2%2C3%2C6-Trichlorobenzoic%20acid.png
+http://www.wikidata.org/entity/Q27104142,"2,4-dichlorobenzoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/2%2C4-Dichlorbenzoes%C3%A4ure.svg
+http://www.wikidata.org/entity/Q27121293,"2,6-dichlorobenzoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/2%2C6-Dichlorbenzoes%C3%A4ure.svg
+http://www.wikidata.org/entity/Q27121626,"3,4-dichlorobenzoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/3%2C4-Dichlorbenzoes%C3%A4ure.svg
+http://www.wikidata.org/entity/Q27225521,"2,5-dichlorobenzoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/2%2C5-Dichlorbenzoes%C3%A4ure.svg
+http://www.wikidata.org/entity/Q27236585,"2,4,6-trichlorobenzoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/2%2C4%2C6-Trichlorobenzoic%20acid.png
+http://www.wikidata.org/entity/Q27268014,"3,5-dichlorobenzoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/3%2C5-Dichlorbenzoes%C3%A4ure.svg
+http://www.wikidata.org/entity/Q27275451,"2,3-dichlorobenzoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/2%2C3-Dichlorbenzoes%C3%A4ure.svg
+http://www.wikidata.org/entity/Q60817295,mellophanic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Mellophanic-acid-2D-skeletal.svg
+http://www.wikidata.org/entity/Q60818055,prehnitic acid,http://commons.wikimedia.org/wiki/Special:FilePath/1%2C2%2C3%2C5-benzenetetracarboxylic%20acid.svg
+http://www.wikidata.org/entity/Q69756362,"2,3,5-trichlorobenzoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/2%2C3%2C5-Trichlorobenzoic%20acid.png
+http://www.wikidata.org/entity/Q72510219,"2,3,4-trichlorobenzoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/2%2C3%2C4-Trichlorobenzoic%20acid.png
+http://www.wikidata.org/entity/Q72510221,"3,4,5-trichlorobenzoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/3%2C4%2C5-Trichlorobenzoic%20acid.png
+http://www.wikidata.org/entity/Q72510226,"2,4,5-trichlorobenzoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/2%2C4%2C5-Trichlorobenzoic%20acid.png
+http://www.wikidata.org/entity/Q199678,vitamin C,http://commons.wikimedia.org/wiki/Special:FilePath/L-Ascorbic%20acid.svg
+http://www.wikidata.org/entity/Q374897,"2,4,6-trihydroxybenzoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/2%2C4%2C6-Trihydroxybenzoic%20acid.svg
+http://www.wikidata.org/entity/Q375837,gallic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Gallic%20acid.svg
+http://www.wikidata.org/entity/Q2823198,12S-HETE,http://commons.wikimedia.org/wiki/Special:FilePath/12-Hydroxyeicosatetraenoic%20acid.png
+http://www.wikidata.org/entity/Q21099593,12-hydroxyheptadecatrienoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/12-Hydroxyheptadecatrienoic%20acid.svg
+http://www.wikidata.org/entity/Q21099666,20-HETE,http://commons.wikimedia.org/wiki/Special:FilePath/Chemical%20structure%20of%2020-Hydroxyeicosatetraenoic%20acid.svg
+http://www.wikidata.org/entity/Q27104878,5-HETE,http://commons.wikimedia.org/wiki/Special:FilePath/5-HETE.png
+http://www.wikidata.org/entity/Q27140189,17(18)-EpETE,http://commons.wikimedia.org/wiki/Special:FilePath/17%2C18-epoxyeicosatetraenoic%20acid.svg
+http://www.wikidata.org/entity/Q104389389,avenoleic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Avenoleic%20acid.svg
+http://www.wikidata.org/entity/Q105009585,(S)-(-)-citronellic acid,http://commons.wikimedia.org/wiki/Special:FilePath/%28S%29-%28-%29-citronellic%20acid.svg
+http://www.wikidata.org/entity/Q27104150,L-malic acid,http://commons.wikimedia.org/wiki/Special:FilePath/L%28-%29-malic%20acid.jpg
+http://www.wikidata.org/entity/Q407131,sorbic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Sorbic%20acid%202.jpg
+http://www.wikidata.org/entity/Q47512,acetic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Acetic%20acid.jpg
+http://www.wikidata.org/entity/Q209685,stearic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Stearins%C3%A4ure%20auf%20Uhrglas.jpg
+http://www.wikidata.org/entity/Q27158924,"(5Z,9Z,12Z,15Z)-octadecatetraenoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/Coniferoric%20acid.png
+http://www.wikidata.org/entity/Q27252306,helenynolic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Helenynolic%20acid.png
+http://www.wikidata.org/entity/Q27252602,lumequeic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Lumequeic%20acid.svg
+http://www.wikidata.org/entity/Q27277849,4-ethyloctanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/4-Ethyloctanoic%20acid.svg
+http://www.wikidata.org/entity/Q27280625,xymenynic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Ximenynic%20acid%20Structural%20Formula%20V.1.svg
+http://www.wikidata.org/entity/Q27281476,isanic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Isanic%20acid.png
+http://www.wikidata.org/entity/Q27888066,palmitelaidic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Palmitelaidic%20acid.svg
+http://www.wikidata.org/entity/Q51910154,Hiragonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Hiragonic%20acid.png
+http://www.wikidata.org/entity/Q52159094,"(5Z,9Z)-octadeca-5,9-dienoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/Taxoleic%20acid.png
+http://www.wikidata.org/entity/Q54321180,Alepric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Alepric%20acid.png
+http://www.wikidata.org/entity/Q54360169,Aleprylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Aleprilic%20acid.png
+http://www.wikidata.org/entity/Q54366274,Aleprestic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Aleprestic%20acid.png
+http://www.wikidata.org/entity/Q55078361,Exocarpic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Exocarpic%20acid.png
+http://www.wikidata.org/entity/Q55081691,Heisteric acid,http://commons.wikimedia.org/wiki/Special:FilePath/%C3%81cido%20heist%C3%A9rico.png
+http://www.wikidata.org/entity/Q56408765,nemotinic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Nemotinic%20acid.svg
+http://www.wikidata.org/entity/Q56760910,Alvaradoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Alvaradoic%20acid.png
+http://www.wikidata.org/entity/Q56881034,Phlomic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Phlomic%20acid.png
+http://www.wikidata.org/entity/Q82929343,heptadec-16-enoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Heptadec-16-ens%C3%A4ure.svg
+http://www.wikidata.org/entity/Q209384,2-ethylhexanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-ethylhexanoic%20acid.svg
+http://www.wikidata.org/entity/Q240642,valproic acid,http://commons.wikimedia.org/wiki/Special:FilePath/2-propylpentanoic%20acid%20200.svg
+http://www.wikidata.org/entity/Q409564,caprylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Capryls%C3%A4ure%20Skelett.svg
+http://www.wikidata.org/entity/Q421509,pivalic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Pivalic%20Acid%20Structural%20Formulae%20V.1.svg
+http://www.wikidata.org/entity/Q422613,capric acid,http://commons.wikimedia.org/wiki/Special:FilePath/Caprins%C3%A4ure%20Skelett.svg
+http://www.wikidata.org/entity/Q424260,(±)-tianeptine,http://commons.wikimedia.org/wiki/Special:FilePath/Tianeptine.svg
+http://www.wikidata.org/entity/Q903353,"(Z)-2,3-dimethylacrylic acid",http://commons.wikimedia.org/wiki/Special:FilePath/Angelic%20acid.png
+http://www.wikidata.org/entity/Q2057079,pristanic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Pristanic%20acid%20v2.svg
+http://www.wikidata.org/entity/Q2182744,citronellic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Citronellic%20acid.svg
+http://www.wikidata.org/entity/Q2823217,3-methyl-2-oxobutyric acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-Methyl-2-oxobutanoic-acid-2D-structure.svg
+http://www.wikidata.org/entity/Q2823320,tuberculostearic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Tuberculostearic%20acid.png
+http://www.wikidata.org/entity/Q2823320,tuberculostearic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Tuberculostearins%C3%A4ure.svg
+http://www.wikidata.org/entity/Q15725607,"3,5,5-trimethylhexanoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/Structural%20formula%20of%203%2C5%2C5-trimethylhexanoic%20acid.svg
+http://www.wikidata.org/entity/Q19597905,isocaproic acid,http://commons.wikimedia.org/wiki/Special:FilePath/4-methylpentanoic%20acid.svg
+http://www.wikidata.org/entity/Q20179071,13-methyltetradecanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/13-Methyltetradecanoic%20acid.svg
+http://www.wikidata.org/entity/Q27102515,acetolactic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Acetolactic%20acid.svg
+http://www.wikidata.org/entity/Q27117040,7-methyloctanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Structural%20formula%20of%207-methyloctanoic%20acid.svg
+http://www.wikidata.org/entity/Q27117043,3-methyl crotonic acid,http://commons.wikimedia.org/wiki/Special:FilePath/3-methyl-2-butenoic%20acid.svg
+http://www.wikidata.org/entity/Q27139144,15-methyl-hexadecanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/15-methyl-hexadecanoic%20acid.png
+http://www.wikidata.org/entity/Q27158155,14-methylpentadecanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Isopalmitic%20acid.svg
+http://www.wikidata.org/entity/Q27261272,4-methyloctanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/4-Methyloctanoic%20acid.svg
+http://www.wikidata.org/entity/Q27261793,4-methylnonanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/4-Methylnonanoic%20acid.svg
+http://www.wikidata.org/entity/Q27276761,4-methylhexanoic acid,http://commons.wikimedia.org/wiki/Special:FilePath/4-Methylhexanoic-acid-2D-skeletal.svg
+http://www.wikidata.org/entity/Q193572,salicylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Kwas%20salicylowy.jpg
+http://www.wikidata.org/entity/Q193572,salicylic acid,http://commons.wikimedia.org/wiki/Special:FilePath/Salicylic%20acid.jpg
+http://www.wikidata.org/entity/Q418599,"3,4-dihydroxybenzoic acid",http://commons.wikimedia.org/wiki/Special:FilePath/3%2C4-Dihydroxybenzoic%20acid.jpg
+http://www.wikidata.org/entity/Q425463,oxylipin,http://commons.wikimedia.org/wiki/Special:FilePath/Oxylipins.jpg
