@@ -7,7 +7,7 @@ ExamAid is a Retrieval-Augmented Generation (RAG) system designed to help studen
 
 ## 🚀 Problem Statement
 
-students often struggle with:
+Students often struggle with:
 - Abstract explanations disconnected from real compounds
 - Hallucinated or inaccurate AI-generated answers
 - Lack of visual grounding (structures, diagrams)
