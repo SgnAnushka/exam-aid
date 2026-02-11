@@ -46,43 +46,10 @@ Students often struggle with:
 
 ---
 
-## Architecture
+## System Architecture
 
-```
-         User query
-            ↓
-    Text preprocessing
-            ↓
- Store query in session memory
-            ↓
-Text embedding (SentenceTransformer)
-            ↓
- Qdrant TEXT_COLLECTION search
-            ↓
-Relevant compound text retrieved
-            ↓
-Representative compound identified
-            ↓
-Compound name used for image search
-            ↓
-Image embeddings already stored via CLIP/CNN
-            ↓
-Qdrant IMAGE_COLLECTION similarity search
-            ↓
-   Top-K image vectors retrieved
-            ↓
-   Image–text intersection
-            ↓
-   Best compound selection
-            ↓
-  RAG prompt construction
-            ↓
-   LLM answer generation
-            ↓
- Recommendations via text similarity
-            ↓
-Final response (answer + images + scores + memory)
-```
+![ExamAid Architecture](flowchart.png)
+
 
 ---
 ## 🧩 Why Qdrant Is Critical
