@@ -48,7 +48,7 @@ Students often struggle with:
 
 ## System Architecture
 
-![ExamAid Architecture](flowchart_.png)
+![ExamAid Architecture](QDRANT flowchart.png)
 
 
 ---
